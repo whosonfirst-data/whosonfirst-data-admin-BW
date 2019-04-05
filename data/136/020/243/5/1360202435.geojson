@@ -1,0 +1,65 @@
+{
+  "id": 1360202435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.88947,-22.37867,27.88947,-22.37867",
+    "geom:latitude":-22.37867,
+    "geom:longitude":27.88947,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Setshweu",
+    "gn:country_code":"BW",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7768350,
+    "gn:latitude":-22.37867,
+    "gn:longitude":27.88947,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Setshweu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7768350
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"3a04c279f2cb3c4705b51b8fb9a8797e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1360202435,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1360202435,
+    "wof:lastmodified":1536776963,
+    "wof:name":"Setshweu",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.88947000000001,
+    -22.37867,
+    27.88947000000001,
+    -22.37867
+],
+  "geometry": {"coordinates":[27.88947000000001,-22.37867],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1309706427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45634,-24.73463,25.45634,-24.73463",
+    "geom:latitude":-24.73463,
+    "geom:longitude":25.45634,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mmaphuntsi",
+    "gn:country_code":"BW",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7746963,
+    "gn:latitude":-24.73463,
+    "gn:longitude":25.45634,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mmaphuntsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7746963
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"c03b3111578187310e3138d5c4f44b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1309706427,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1309706427,
+    "wof:lastmodified":1537071342,
+    "wof:name":"Mmaphuntsi",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45634,
+    -24.73463,
+    25.45634,
+    -24.73463
+],
+  "geometry": {"coordinates":[25.45634,-24.73463],"type":"Point"}
+}

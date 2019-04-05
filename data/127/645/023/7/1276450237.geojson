@@ -1,0 +1,65 @@
+{
+  "id": 1276450237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.48333,-21.75,21.48333,-21.75",
+    "geom:latitude":-21.75,
+    "geom:longitude":21.48333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khnaitso",
+    "gn:country_code":"BW",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933643,
+    "gn:latitude":-21.75,
+    "gn:longitude":21.48333,
+    "gn:modification_date":"2014-10-29",
+    "gn:name":"Khnaitso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933643
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"703cfad87c688b5e138c9523d5a0266b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1276450237,
+            "region_id":85669589
+        }
+    ],
+    "wof:id":1276450237,
+    "wof:lastmodified":1536619838,
+    "wof:name":"Khnaitso",
+    "wof:parent_id":85669589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48333,
+    -21.75,
+    21.48333,
+    -21.75
+],
+  "geometry": {"coordinates":[21.48333,-21.75],"type":"Point"}
+}

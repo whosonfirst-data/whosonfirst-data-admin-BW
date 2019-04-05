@@ -1,0 +1,65 @@
+{
+  "id": 1242570181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.25719,-24.0084,25.25719,-24.0084",
+    "geom:latitude":-24.0084,
+    "geom:longitude":25.25719,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Maratswene",
+    "gn:country_code":"BW",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7909161,
+    "gn:latitude":-24.0084,
+    "gn:longitude":25.25719,
+    "gn:modification_date":"2011-07-12",
+    "gn:name":"Maratswene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909161
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"7134f9b477ebf27ad5698216fdd012e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1242570181,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1242570181,
+    "wof:lastmodified":1537071290,
+    "wof:name":"Maratswene",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.25719,
+    -24.0084,
+    25.25719,
+    -24.0084
+],
+  "geometry": {"coordinates":[25.25719,-24.0084],"type":"Point"}
+}

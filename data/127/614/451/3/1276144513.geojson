@@ -1,0 +1,65 @@
+{
+  "id": 1276144513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.52186,-24.34488,25.52186,-24.34488",
+    "geom:latitude":-24.34488,
+    "geom:longitude":25.52186,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khudumajoko",
+    "gn:country_code":"BW",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7909137,
+    "gn:latitude":-24.34488,
+    "gn:longitude":25.52186,
+    "gn:modification_date":"2011-07-12",
+    "gn:name":"Khudumajoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909137
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"b1e96ebe3fcb0b7930ebf5389dcbc720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1276144513,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1276144513,
+    "wof:lastmodified":1537030433,
+    "wof:name":"Khudumajoko",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.52186,
+    -24.34488,
+    25.52186,
+    -24.34488
+],
+  "geometry": {"coordinates":[25.52186,-24.34488],"type":"Point"}
+}

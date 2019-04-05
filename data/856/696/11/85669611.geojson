@@ -1,0 +1,321 @@
+{
+  "id": 85669611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":3.274426,
+    "geom:area_square_m":37024603221.711517,
+    "geom:bbox":"22.9554260597,-24.7690821271,26.020406935,-22.9518803852",
+    "geom:latitude":-23.862913,
+    "geom:longitude":24.685166,
+    "gn:population":230335,
+    "iso:country":"BW",
+    "label:eng_x_preferred_longname":[
+        "Kweneng District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-23.898994,
+    "lbl:longitude":24.708428,
+    "mps:latitude":-23.898994,
+    "mps:longitude":24.708428,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":6.0,
+    "name:afr_x_preferred":[
+        "Kweneng distrik"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0648\u064a\u0646\u0646\u063a"
+    ],
+    "name:ast_x_preferred":[
+        "Kweneng"
+    ],
+    "name:baq_x_preferred":[
+        "Kweneng"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0440\u0443\u0433\u0430 \u041a\u0432\u0435\u043d\u0435\u043d\u0433"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c7\u09a8\u09c7\u0982 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Kweneng"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0435\u043d\u0435\u043d\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "Districte de Kweneng"
+    ],
+    "name:chi_x_preferred":[
+        "\u594e\u5ae9\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Kweneng"
+    ],
+    "name:dut_x_preferred":[
+        "Kweneng"
+    ],
+    "name:eng_x_preferred":[
+        "Kweneng"
+    ],
+    "name:eng_x_variant":[
+        "Kweneng District"
+    ],
+    "name:epo_x_preferred":[
+        "Distrikto Kweneng"
+    ],
+    "name:fin_x_preferred":[
+        "Kweneng"
+    ],
+    "name:fre_x_preferred":[
+        "District de Kweneng"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d5\u10d4\u10dc\u10d4\u10dc\u10d2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Kweneng District"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03bf\u03c5\u03b5\u03bd\u03ad\u03bd\u03b3\u03ba"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acd\u0ab5\u0abe\u0aa8\u0ac7\u0a82\u0a97 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0935\u0947\u0928\u0947\u0902\u0917 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Kweneng"
+    ],
+    "name:ita_x_preferred":[
+        "distretto di Kweneng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30a6\u30a7\u30cd\u30f3\u5730\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0cb5\u0cc6\u0ca8\u0cc6\u0c82\u0c97\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ud018\ub139 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Kvenenas distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Kvenengo rajonas"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u0432\u0435\u043d\u0435\u043d\u0433"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094d\u0935\u0947\u0928\u0947\u0928\u094d\u0917 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Kweneng District"
+    ],
+    "name:nob_x_preferred":[
+        "Kweneng"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u06a9\u0648\u06cc\u0646\u0646\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Kweneng"
+    ],
+    "name:por_x_preferred":[
+        "Kweneng"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Kweneng"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0432\u0435\u043d\u0435\u043d\u0433"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dca\u0dc0\u0dd9\u0db1\u0dda\u0db1\u0dca\u0d9c\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Kweneng"
+    ],
+    "name:swe_x_preferred":[
+        "Kweneng"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc7\u0ba9\u0bc6\u0b99\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4d\u0c35\u0c46\u0c28\u0c46\u0c02\u0c17\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e04\u0e40\u0e27\u0e40\u0e19\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Kweneng B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0432\u0435\u043d\u0435\u043d\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Kuneneng"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u06cc\u0646\u06cc\u0646\u06af \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Kweneng"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BWA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BWA-2647",
+    "ne:adm1_code":"BWA-2647",
+    "ne:admin":"Botswana",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BW.KW",
+    "ne:code_local":"",
+    "ne:datarank":"7",
+    "ne:diss_me":"2647",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BC06",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Botswana",
+    "ne:gn_a1_code":"BW.06",
+    "ne:gn_id":"933562",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Kweneng District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BC06",
+    "ne:gns_id":"-1397585",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Kweneng",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BWA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BW-",
+    "ne:iso_a2":"BW",
+    "ne:labelrank":"4",
+    "ne:latitude":"-23.86650000000",
+    "ne:longitude":"24.48790000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Kweneng",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"KW",
+    "ne:provnum_ne":"5",
+    "ne:region":"",
+    "ne:region_cod":"BW.KW",
+    "ne:region_sub":"Kweneng",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"4",
+    "ne:sov_a3":"BWA",
+    "ne:sub_code":"",
+    "ne:type":"District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344746,
+    "ne:woe_label":"Kweneng, BW, Botswana",
+    "ne:woe_name":"Kweneng",
+    "qs:a0":"Botswana",
+    "qs:a0_lc":"BW",
+    "qs:a1":"Kweneng",
+    "qs:a1_lc":"BWA-2647",
+    "qs:a1r_lc":"BW.KW",
+    "qs:adm0":"Botswana",
+    "qs:adm0_a3":"BWA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-08-09",
+    "statoids:area_km":"31,100",
+    "statoids:area_mi":"11,966",
+    "statoids:as_of_date":"2011-08-09",
+    "statoids:capital":"Molepolole",
+    "statoids:country":"BW",
+    "statoids:gec":"BC06",
+    "statoids:hasc":"BW.KW",
+    "statoids:iso":"KW",
+    "statoids:name":"Kweneng",
+    "statoids:population":"304549",
+    "statoids:timezone":"+2",
+    "statoids:type":"district",
+    "unlc:subdivision":"BW-KW",
+    "wof:belongsto":[
+        102191573,
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BC06",
+        "gn:id":933562,
+        "gp:id":2344746,
+        "hasc:id":"BW.KW",
+        "iso:id":"BW-KW",
+        "qs:id":423576,
+        "unlc:id":"BW-KW",
+        "wd:id":"Q57599",
+        "wk:page":"Kweneng District"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"d61f23190c2d4455c0ba9565a1f75292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":85669611,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng",
+        "tsn"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "tsn"
+    ],
+    "wof:lastmodified":1553550320,
+    "wof:name":"Kweneng",
+    "wof:parent_id":85632235,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":304549,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:shortcode":"KW",
+    "wof:subdivision":"BW-KW",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.95542605966494,
+    -24.7690821271384,
+    26.0204069350321,
+    -22.95188038517159
+],
+  "geometry": {"coordinates":[[[26.0204069350321,-23.56626148867673],[25.95663821837911,-24.1765084770845],[25.92620079862803,-24.32275278111592],[25.91286828004712,-24.34518035219145],[25.90046593565444,-24.37442921263801],[25.88620324108678,-24.43065317130674],[25.88775353379862,-24.4591268862967],[25.89441979263938,-24.47866057662429],[25.9040316099709,-24.48605030677618],[25.91503869038331,-24.48837574584394],[25.93493411591675,-24.49752247518205],[25.95121219208903,-24.50744434997671],[25.83492791439181,-24.62270419644148],[25.68724897585957,-24.7690821271384],[25.60270633273115,-24.76613656954703],[25.5848262879029,-24.76226083776743],[25.46674563959965,-24.70210946957633],[24.81361001339144,-24.51185515409202],[24.63966110357711,-24.46118492634321],[23.05335289911704,-23.99910328468877],[23.05009728406247,-23.64269093214074],[23.03226891427903,-23.56962045651881],[22.97563154535959,-23.56967213246287],[22.9658646992965,-23.568690280532],[22.95904340992547,-23.56610645904578],[22.95666629401433,-23.55861337700571],[22.95542605966494,-23.46270191825886],[22.95904340992547,-23.42492644609854],[22.96725996327672,-23.41691659922162],[22.977336866803,-23.41319589617365],[23.02265709784683,-23.41433277773547],[23.04296593632893,-23.39738290799477],[23.05753869015848,-23.31134164809856],[25.24174645393578,-23.31852467177612],[25.43930545428333,-22.95188038517159],[25.73163903181592,-23.31030811842487],[25.73970055463695,-23.31743946705774],[25.75256798702304,-23.32281381560506],[25.840727980412,-23.34911712025882],[25.88558312256311,-23.39045826583623],[26.0204069350321,-23.56626148867673]]],"type":"Polygon"}
+}

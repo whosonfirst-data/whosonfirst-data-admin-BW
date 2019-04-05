@@ -1,0 +1,64 @@
+{
+  "id": 890443495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.55,-25.41667,25.55,-25.41667",
+    "geom:latitude":-25.41667,
+    "geom:longitude":25.55,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":16853,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Janeng",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933719,
+        "gp:id":55949027,
+        "qs:id":1029423
+    },
+    "wof:country":"BW",
+    "wof:created":1469052426,
+    "wof:geomhash":"6b8c434f8748ca29f316c069bbc4df5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890443495,
+            "region_id":85669615
+        }
+    ],
+    "wof:id":890443495,
+    "wof:lastmodified":1505343594,
+    "wof:name":"Janeng",
+    "wof:parent_id":85669615,
+    "wof:placetype":"locality",
+    "wof:population":16853,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.55,
+    -25.41667,
+    25.55,
+    -25.41667
+],
+  "geometry": {"coordinates":[25.55,-25.41667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293310463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.24364,-23.53744,26.24364,-23.53744",
+    "geom:latitude":-23.53744,
+    "geom:longitude":26.24364,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sepone",
+    "gn:country_code":"BW",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7859766,
+    "gn:latitude":-23.53744,
+    "gn:longitude":26.24364,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Sepone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7859766
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"3ac0bf49e55e4d1da3d45fb031fef974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1293310463,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1293310463,
+    "wof:lastmodified":1537040541,
+    "wof:name":"Sepone",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.24364000000001,
+    -23.53744,
+    26.24364000000001,
+    -23.53744
+],
+  "geometry": {"coordinates":[26.24364000000001,-23.53744],"type":"Point"}
+}

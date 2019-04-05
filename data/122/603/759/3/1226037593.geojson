@@ -1,0 +1,65 @@
+{
+  "id": 1226037593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.54115,-24.67182,25.54115,-24.67182",
+    "geom:latitude":-24.67182,
+    "geom:longitude":25.54115,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Malakana Ward",
+    "gn:country_code":"BW",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11282018,
+    "gn:latitude":-24.67182,
+    "gn:longitude":25.54115,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Malakana Ward",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11282018
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"ddc6f50a65bc8ab599bd6145ee743664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1226037593,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1226037593,
+    "wof:lastmodified":1536736950,
+    "wof:name":"Malakana Ward",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.54115,
+    -24.67182,
+    25.54115,
+    -24.67182
+],
+  "geometry": {"coordinates":[25.54115,-24.67182],"type":"Point"}
+}

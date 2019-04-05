@@ -1,0 +1,65 @@
+{
+  "id": 1310394605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.26911,-25.32189,25.26911,-25.32189",
+    "geom:latitude":-25.32189,
+    "geom:longitude":25.26911,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mmathete",
+    "gn:country_code":"BW",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7739123,
+    "gn:latitude":-25.32189,
+    "gn:longitude":25.26911,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mmathete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7739123
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"c7d1327de0a047db7be2cf6869a30465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1310394605,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1310394605,
+    "wof:lastmodified":1537073876,
+    "wof:name":"Mmathete",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.26911,
+    -25.32189,
+    25.26911,
+    -25.32189
+],
+  "geometry": {"coordinates":[25.26911,-25.32189],"type":"Point"}
+}

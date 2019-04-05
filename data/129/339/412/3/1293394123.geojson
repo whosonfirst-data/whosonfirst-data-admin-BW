@@ -1,0 +1,65 @@
+{
+  "id": 1293394123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.67062,-21.82276,28.67062,-21.82276",
+    "geom:latitude":-21.82276,
+    "geom:longitude":28.67062,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dinde",
+    "gn:country_code":"BW",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7694683,
+    "gn:latitude":-21.82276,
+    "gn:longitude":28.67062,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Dinde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7694683
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"c164bcde9eb8b830b23a7a7fad4d0ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1293394123,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1293394123,
+    "wof:lastmodified":1536922236,
+    "wof:name":"Dinde",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.67062,
+    -21.82276,
+    28.67062,
+    -21.82276
+],
+  "geometry": {"coordinates":[28.67062,-21.82276],"type":"Point"}
+}

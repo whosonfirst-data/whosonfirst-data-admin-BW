@@ -1,0 +1,65 @@
+{
+  "id": 1260072673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6706,-24.36419,25.6706,-24.36419",
+    "geom:latitude":-24.36419,
+    "geom:longitude":25.6706,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mmamarobole",
+    "gn:country_code":"BW",
+    "gn:dem":1124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7909131,
+    "gn:latitude":-24.36419,
+    "gn:longitude":25.6706,
+    "gn:modification_date":"2011-07-12",
+    "gn:name":"Mmamarobole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909131
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"34cce968f03f7abf54f8718e9c6be135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1260072673,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1260072673,
+    "wof:lastmodified":1537002864,
+    "wof:name":"Mmamarobole",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6706,
+    -24.36419,
+    25.6706,
+    -24.36419
+],
+  "geometry": {"coordinates":[25.6706,-24.36419],"type":"Point"}
+}

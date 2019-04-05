@@ -1,0 +1,111 @@
+{
+  "id": 421194589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3,-23.28333,27.3,-23.28333",
+    "geom:latitude":-23.28333,
+    "geom:longitude":27.3,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Makwate"
+    ],
+    "name:dut_x_preferred":[
+        "Makwate"
+    ],
+    "name:eng_x_preferred":[
+        "Makwate"
+    ],
+    "name:fre_x_preferred":[
+        "Makwate"
+    ],
+    "name:ita_x_preferred":[
+        "Makwate"
+    ],
+    "name:mlg_x_preferred":[
+        "Makwate"
+    ],
+    "name:oci_x_preferred":[
+        "Makwate"
+    ],
+    "name:pol_x_preferred":[
+        "Makwate"
+    ],
+    "name:swa_x_preferred":[
+        "Makwate"
+    ],
+    "name:swe_x_preferred":[
+        "Makwate"
+    ],
+    "name:tsn_x_preferred":[
+        "Makwate"
+    ],
+    "qs:gn_country":"BW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":933437,
+    "qs:gn_pop":1660,
+    "qs:name":"Makwata",
+    "qs:name_adm0":"Botswana",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1296315,
+    "qs:woe_adm0":23424755,
+    "qs:woe_id":1265699,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933437,
+        "gp:id":1265699,
+        "qs:id":1296315,
+        "wd:id":"Q72029"
+    },
+    "wof:country":"BW",
+    "wof:created":1459009813,
+    "wof:geomhash":"5de338097f68286758c3033ee94f8ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":421194589,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":421194589,
+    "wof:lastmodified":1513922308,
+    "wof:name":"Makwata",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":1660,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3,
+    -23.28333,
+    27.3,
+    -23.28333
+],
+  "geometry": {"coordinates":[27.3,-23.28333],"type":"Point"}
+}

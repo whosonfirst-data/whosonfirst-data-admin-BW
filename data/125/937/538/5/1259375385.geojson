@@ -1,0 +1,65 @@
+{
+  "id": 1259375385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.84111,-24.51056,25.84111,-24.51056",
+    "geom:latitude":-24.51056,
+    "geom:longitude":25.84111,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Garaditau",
+    "gn:country_code":"BW",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1106209,
+    "gn:latitude":-24.51056,
+    "gn:longitude":25.84111,
+    "gn:modification_date":"2001-06-12",
+    "gn:name":"Garaditau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106209
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"345394dd34c167b5d74ed87e205559c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259375385,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1259375385,
+    "wof:lastmodified":1537013240,
+    "wof:name":"Garaditau",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.84111,
+    -24.51056,
+    25.84111,
+    -24.51056
+],
+  "geometry": {"coordinates":[25.84111,-24.51056],"type":"Point"}
+}

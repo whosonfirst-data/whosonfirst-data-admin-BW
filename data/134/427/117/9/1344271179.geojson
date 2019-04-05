@@ -1,0 +1,65 @@
+{
+  "id": 1344271179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.31001,-22.91687,26.31001,-22.91687",
+    "geom:latitude":-22.91687,
+    "geom:longitude":26.31001,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Majakubu",
+    "gn:country_code":"BW",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7654687,
+    "gn:latitude":-22.91687,
+    "gn:longitude":26.31001,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Majakubu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7654687
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"e23f10e09a056e2bf853cad88d6becf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1344271179,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1344271179,
+    "wof:lastmodified":1537065691,
+    "wof:name":"Majakubu",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.31001,
+    -22.91687,
+    26.31001,
+    -22.91687
+],
+  "geometry": {"coordinates":[26.31001,-22.91687],"type":"Point"}
+}

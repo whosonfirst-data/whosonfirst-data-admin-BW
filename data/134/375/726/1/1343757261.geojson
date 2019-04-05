@@ -1,0 +1,65 @@
+{
+  "id": 1343757261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.41985,-24.40397,25.41985,-24.40397",
+    "geom:latitude":-24.40397,
+    "geom:longitude":25.41985,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mosokotswe",
+    "gn:country_code":"BW",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7908224,
+    "gn:latitude":-24.40397,
+    "gn:longitude":25.41985,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Mosokotswe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908224
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"90d9915cb36a752b09ac5c62f542ce89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1343757261,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1343757261,
+    "wof:lastmodified":1536814834,
+    "wof:name":"Mosokotswe",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.41985,
+    -24.40397,
+    25.41985,
+    -24.40397
+],
+  "geometry": {"coordinates":[25.41985,-24.40397],"type":"Point"}
+}

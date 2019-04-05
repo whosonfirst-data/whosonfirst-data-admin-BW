@@ -1,0 +1,254 @@
+{
+  "id": 85669645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003041,
+    "geom:area_square_m":34872207.555781,
+    "geom:bbox":"27.8077611729,-21.9969661695,27.8828858215,-21.9207421356",
+    "geom:latitude":-21.965815,
+    "geom:longitude":27.847954,
+    "iso:country":"BW",
+    "label:eng_x_preferred_longname":[
+        "Selebi-Phikwe Town"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "town"
+    ],
+    "lbl:latitude":-21.968324,
+    "lbl:longitude":27.857914,
+    "mps:latitude":-21.968324,
+    "mps:longitude":27.857914,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":6.0,
+    "name:afr_x_preferred":[
+        "Sentraal distrik"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629 \u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0629"
+    ],
+    "name:ast_x_preferred":[
+        "Distritu Central"
+    ],
+    "name:baq_x_preferred":[
+        "Erdialdea"
+    ],
+    "name:bel_x_preferred":[
+        "\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Central"
+    ],
+    "name:bul_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Districte Central"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e2d\u90e8\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Central District"
+    ],
+    "name:deu_x_preferred":[
+        "Zentral"
+    ],
+    "name:dut_x_preferred":[
+        "Central"
+    ],
+    "name:eng_x_preferred":[
+        "Central"
+    ],
+    "name:fin_x_preferred":[
+        "Central District"
+    ],
+    "name:fre_x_preferred":[
+        "District Central"
+    ],
+    "name:geo_x_preferred":[
+        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Central District"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ab2 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0927\u094d\u092f \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Central"
+    ],
+    "name:ita_x_preferred":[
+        "distretto Centrale"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30e9\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cc7\u0c82\u0ca6\u0ccd\u0cb0 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc13c\ud2b8\ub7f4"
+    ],
+    "name:lav_x_preferred":[
+        "Centr\u0101lais distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Centrinis rajonas"
+    ],
+    "name:mac_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0435\u043d \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0927\u094d\u092f\u0935\u0930\u094d\u0924\u0940 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Central District"
+    ],
+    "name:nob_x_preferred":[
+        "Central"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0633\u06cc\u0646\u0679\u0631\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Centralny"
+    ],
+    "name:por_x_preferred":[
+        "Central"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Central"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito Central"
+    ],
+    "name:swe_x_preferred":[
+        "Central"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c02\u0c1f\u0c4d\u0c30\u0c32\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e47\u0e19\u0e17\u0e23\u0e31\u0e25 \u0e14\u0e34\u0e2a\u0e17\u0e23\u0e34\u0e04"
+    ],
+    "name:tsn_x_preferred":[
+        "Kgaolo ya Legare"
+    ],
+    "name:tur_x_preferred":[
+        "Merkez B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0633\u0637\u06cc \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Mi\u1ec1n Trung"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u90e8"
+    ],
+    "qs:a0":"Botswana",
+    "qs:a0_lc":"BW",
+    "qs:a1":"Selebi-Phikwe",
+    "qs:a1_lc":"BWA-5504",
+    "qs:a1r_lc":"BW.CE",
+    "qs:adm0":"Botswana",
+    "qs:adm0_a3":"BWA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Town",
+    "qs:woeid":2344741,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-08-09",
+    "statoids:area_km":"50",
+    "statoids:area_mi":"19",
+    "statoids:as_of_date":"2011-08-09",
+    "statoids:capital":"",
+    "statoids:country":"BW",
+    "statoids:gec":"BC17",
+    "statoids:hasc":"BW.SP",
+    "statoids:iso":"SP",
+    "statoids:name":"Selibe Phikwe",
+    "statoids:population":"49411",
+    "statoids:timezone":"+2",
+    "statoids:type":"town",
+    "wof:belongsto":[
+        102191573,
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BC17",
+        "gp:id":2344741,
+        "hasc:id":"BW.SP",
+        "iso:id":"BW-SP",
+        "wd:id":"Q57525"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"c75d54340f5070f4cc9a1706bd7782f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "region_id":85669645
+        }
+    ],
+    "wof:id":85669645,
+    "wof:lang_x_official":[
+        "eng",
+        "tsn"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "tsn"
+    ],
+    "wof:lastmodified":1553814712,
+    "wof:name":"Selebi-Phikwe",
+    "wof:parent_id":85632235,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"town",
+    "wof:population":49411,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:shortcode":"SP",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.80776117293982,
+    -21.99696616945312,
+    27.88288582152347,
+    -21.92074213564098
+],
+  "geometry": {"coordinates":[[[27.80794440441076,-21.96545046346807],[27.81893825489658,-21.96031999936844],[27.82590102741051,-21.96306846243954],[27.83213087673863,-21.96215230778273],[27.84239180403858,-21.95757153629734],[27.84239180403858,-21.94822676365419],[27.85008749973838,-21.93998137534015],[27.85082042292424,-21.93320183339785],[27.85558442498126,-21.92385705985538],[27.86602858375221,-21.92074213564098],[27.87024289319504,-21.92477321451219],[27.87390751002363,-21.93485091124052],[27.8728081247952,-21.94181368375445],[27.87152550899509,-21.95152491844021],[27.88050382049499,-21.95702184368309],[27.88288582152347,-21.960686461411],[27.87885474265232,-21.9656336940397],[27.87775535832316,-21.97442877496792],[27.87390751002363,-21.98359031703944],[27.85998196589509,-21.98817108852489],[27.85191980815267,-21.99366801376777],[27.84349118926701,-21.99605001479631],[27.83707810936733,-21.99000339693919],[27.82938241366753,-21.98872078113908],[27.82095379478187,-21.9949506304672],[27.81050963601092,-21.99696616945312],[27.808494097025,-21.99183570535348],[27.80812763498244,-21.98432324112463],[27.81179225181103,-21.97827662236818],[27.8103264054393,-21.97332938973949],[27.80776117293982,-21.97003123405415],[27.80794440441076,-21.96545046346807]]],"type":"Polygon"}
+}

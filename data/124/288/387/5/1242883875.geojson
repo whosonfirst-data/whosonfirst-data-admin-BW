@@ -1,0 +1,65 @@
+{
+  "id": 1242883875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.12652,-22.25726,27.12652,-22.25726",
+    "geom:latitude":-22.25726,
+    "geom:longitude":27.12652,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dilolwane",
+    "gn:country_code":"BW",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8306581,
+    "gn:latitude":-22.25726,
+    "gn:longitude":27.12652,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Dilolwane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306581
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"e0c03b1d146026b2d53384b2b7998ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1242883875,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1242883875,
+    "wof:lastmodified":1536620341,
+    "wof:name":"Dilolwane",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.12652000000001,
+    -22.25726,
+    27.12652000000001,
+    -22.25726
+],
+  "geometry": {"coordinates":[27.12652000000001,-22.25726],"type":"Point"}
+}

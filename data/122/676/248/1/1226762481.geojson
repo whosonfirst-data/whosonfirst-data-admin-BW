@@ -1,0 +1,70 @@
+{
+  "id": 1226762481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.95,-19.2,25.95,-19.2",
+    "geom:latitude":-19.2,
+    "geom:longitude":25.95,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gerufa",
+    "gn:cc2":"BW",
+    "gn:country_code":"BW",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933761,
+    "gn:latitude":-19.2,
+    "gn:longitude":25.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gerufa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Geruf",
+        "Gerufa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933761
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"d6495bd3d16674419050064d4fe15aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1226762481,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1226762481,
+    "wof:lastmodified":1537588933,
+    "wof:name":"Gerufa",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.95,
+    -19.2,
+    25.95,
+    -19.2
+],
+  "geometry": {"coordinates":[25.95,-19.2],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343776511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.21667,-17.98333,24.21667,-17.98333",
+    "geom:latitude":-17.98333,
+    "geom:longitude":24.21667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Legwe",
+    "gn:country_code":"BW",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933550,
+    "gn:latitude":-17.98333,
+    "gn:longitude":24.21667,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Legwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        1108804901,
+        421199731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933550
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"e4d89525812f5ef1d68a1952f9dc3d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421199731,
+            "locality_id":1343776511,
+            "region_id":1108804901
+        }
+    ],
+    "wof:id":1343776511,
+    "wof:lastmodified":1536788188,
+    "wof:name":"Legwe",
+    "wof:parent_id":421199731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.21667,
+    -17.98333,
+    24.21667,
+    -17.98333
+],
+  "geometry": {"coordinates":[24.21667,-17.98333],"type":"Point"}
+}

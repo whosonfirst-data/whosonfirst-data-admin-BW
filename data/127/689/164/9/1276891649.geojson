@@ -1,0 +1,65 @@
+{
+  "id": 1276891649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.54794,-23.62027,26.54794,-23.62027",
+    "geom:latitude":-23.62027,
+    "geom:longitude":26.54794,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Disebo",
+    "gn:country_code":"BW",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7863711,
+    "gn:latitude":-23.62027,
+    "gn:longitude":26.54794,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Disebo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7863711
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"27b08ad9489153071fa8999b10540831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1276891649,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1276891649,
+    "wof:lastmodified":1537024285,
+    "wof:name":"Disebo",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.54794,
+    -23.62027,
+    26.54794,
+    -23.62027
+],
+  "geometry": {"coordinates":[26.54794,-23.62027],"type":"Point"}
+}

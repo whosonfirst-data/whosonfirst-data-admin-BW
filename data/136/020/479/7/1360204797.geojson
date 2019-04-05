@@ -1,0 +1,65 @@
+{
+  "id": 1360204797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.46042,-20.57136,27.46042,-20.57136",
+    "geom:latitude":-20.57136,
+    "geom:longitude":27.46042,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mulambakwena",
+    "gn:country_code":"BW",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7543392,
+    "gn:latitude":-20.57136,
+    "gn:longitude":27.46042,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Mulambakwena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7543392
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"9cdb93b7f491f4e46b2f48218ca49bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1360204797,
+            "region_id":85669627
+        }
+    ],
+    "wof:id":1360204797,
+    "wof:lastmodified":1536773676,
+    "wof:name":"Mulambakwena",
+    "wof:parent_id":85669627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.46042000000001,
+    -20.57136,
+    27.46042000000001,
+    -20.57136
+],
+  "geometry": {"coordinates":[27.46042000000001,-20.57136],"type":"Point"}
+}

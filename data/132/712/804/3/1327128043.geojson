@@ -1,0 +1,65 @@
+{
+  "id": 1327128043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.38333,-24.7,25.38333,-24.7",
+    "geom:latitude":-24.7,
+    "geom:longitude":25.38333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Khakalashwe",
+    "gn:country_code":"BW",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933651,
+    "gn:latitude":-24.7,
+    "gn:longitude":25.38333,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Khakalashwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933651
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"01671b9f097aba512fe98b93610fbc15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1327128043,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1327128043,
+    "wof:lastmodified":1536620318,
+    "wof:name":"Khakalashwe",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.38333,
+    -24.7,
+    25.38333,
+    -24.7
+],
+  "geometry": {"coordinates":[25.38333,-24.7],"type":"Point"}
+}

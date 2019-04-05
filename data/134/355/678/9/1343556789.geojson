@@ -1,0 +1,65 @@
+{
+  "id": 1343556789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.44193,-25.40186,25.44193,-25.40186",
+    "geom:latitude":-25.40186,
+    "geom:longitude":25.44193,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gamajalela",
+    "gn:country_code":"BW",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7739138,
+    "gn:latitude":-25.40186,
+    "gn:longitude":25.44193,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Gamajalela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7739138
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"0ebd52deb5d7a40f3d72837e33b2abab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1343556789,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1343556789,
+    "wof:lastmodified":1536604199,
+    "wof:name":"Gamajalela",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.44193,
+    -25.40186,
+    25.44193,
+    -25.40186
+],
+  "geometry": {"coordinates":[25.44193,-25.40186],"type":"Point"}
+}

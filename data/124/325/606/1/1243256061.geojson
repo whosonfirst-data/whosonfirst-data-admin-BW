@@ -1,0 +1,65 @@
+{
+  "id": 1243256061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.79398,-24.21644,25.79398,-24.21644",
+    "geom:latitude":-24.21644,
+    "geom:longitude":25.79398,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Digwagwe",
+    "gn:country_code":"BW",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7908673,
+    "gn:latitude":-24.21644,
+    "gn:longitude":25.79398,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Digwagwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908673
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"84f0294e1b80fb252f4cba9626b1a6b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1243256061,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1243256061,
+    "wof:lastmodified":1537076879,
+    "wof:name":"Digwagwe",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.79398,
+    -24.21644,
+    25.79398,
+    -24.21644
+],
+  "geometry": {"coordinates":[25.79398,-24.21644],"type":"Point"}
+}

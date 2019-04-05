@@ -1,0 +1,117 @@
+{
+  "id": 890433511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.36667,-21.28333,25.36667,-21.28333",
+    "geom:latitude":-21.28333,
+    "geom:longitude":25.36667,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":9189,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Orapa"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0440\u0430\u043f\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u5967\u62c9\u5e15"
+    ],
+    "name:dut_x_preferred":[
+        "Orapa"
+    ],
+    "name:eng_x_preferred":[
+        "Orapa"
+    ],
+    "name:fre_x_preferred":[
+        "Orapa"
+    ],
+    "name:ger_x_preferred":[
+        "Orapa"
+    ],
+    "name:ita_x_preferred":[
+        "Orapa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30e9\u30d1"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0631\u0627\u067e\u0627\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Orapa"
+    ],
+    "name:rum_x_preferred":[
+        "Orapa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0430\u043f\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Orapa"
+    ],
+    "name:swe_x_preferred":[
+        "Orapa"
+    ],
+    "name:tsn_x_preferred":[
+        "Orapa"
+    ],
+    "qs:name":"Orapa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:latitude":"-21.333888888",
+    "wd:longitude":"25.364722222",
+    "wd:wordcount":331,
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933186,
+        "gp:id":1265826,
+        "qs:id":130122,
+        "wd:id":"Q859708",
+        "wk:page":"Orapa"
+    },
+    "wof:country":"BW",
+    "wof:created":1469051983,
+    "wof:geomhash":"d4aa485f7e7cb932a5bf411c9a6d1015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890433511,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":890433511,
+    "wof:lastmodified":1553816395,
+    "wof:name":"Orapa",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":9189,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.36667,
+    -21.28333,
+    25.36667,
+    -21.28333
+],
+  "geometry": {"coordinates":[25.36667,-21.28333],"type":"Point"}
+}

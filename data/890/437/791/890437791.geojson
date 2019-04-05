@@ -1,0 +1,95 @@
+{
+  "id": 890437791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.57199,-22.72454,27.57199,-22.72454",
+    "geom:latitude":-22.72454,
+    "geom:longitude":27.57199,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":2377,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0442\u0445\u043e\u043b\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Ratholo"
+    ],
+    "name:eng_x_preferred":[
+        "Ratholo"
+    ],
+    "name:fre_x_preferred":[
+        "Ratholo"
+    ],
+    "name:ita_x_preferred":[
+        "Ratholo"
+    ],
+    "name:mlg_x_preferred":[
+        "Ratholo"
+    ],
+    "name:pol_x_preferred":[
+        "Ratholo"
+    ],
+    "name:swa_x_preferred":[
+        "Ratholo"
+    ],
+    "name:swe_x_preferred":[
+        "Ratholo"
+    ],
+    "name:unk_x_variant":[
+        "Ratolo"
+    ],
+    "qs:name":"Ratholo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933137,
+        "gp:id":1265737,
+        "qs:id":130117,
+        "wd:id":"Q171006"
+    },
+    "wof:country":"BW",
+    "wof:created":1469052166,
+    "wof:geomhash":"5d108ece6f617c28728ead957a81b77d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890437791,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":890437791,
+    "wof:lastmodified":1513922318,
+    "wof:name":"Ratholo",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":2377,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.57199,
+    -22.72454,
+    27.57199,
+    -22.72454
+],
+  "geometry": {"coordinates":[27.57199,-22.72454],"type":"Point"}
+}

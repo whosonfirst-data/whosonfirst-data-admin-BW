@@ -1,0 +1,66 @@
+{
+  "id": 1343656861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.85215,-24.24863,25.85215,-24.24863",
+    "geom:latitude":-24.24863,
+    "geom:longitude":25.85215,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lentsweletau",
+    "gn:country_code":"BW",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7908686,
+    "gn:latitude":-24.24863,
+    "gn:longitude":25.85215,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lentsweletau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908686,
+        "wk:page":"Lentsweletau"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"143b3fffd5d0ab5aae2032b78f6aedfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1343656861,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1343656861,
+    "wof:lastmodified":1537488418,
+    "wof:name":"Lentsweletau",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.85215,
+    -24.24863,
+    25.85215,
+    -24.24863
+],
+  "geometry": {"coordinates":[25.85215,-24.24863],"type":"Point"}
+}

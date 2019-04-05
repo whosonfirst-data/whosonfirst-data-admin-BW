@@ -1,0 +1,65 @@
+{
+  "id": 1326848147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.94999,-22.25392,26.94999,-22.25392",
+    "geom:latitude":-22.25392,
+    "geom:longitude":26.94999,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taukome",
+    "gn:country_code":"BW",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7654017,
+    "gn:latitude":-22.25392,
+    "gn:longitude":26.94999,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Taukome",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7654017
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"20d745b426c25a63af0e4bccb513847f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1326848147,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1326848147,
+    "wof:lastmodified":1537024711,
+    "wof:name":"Taukome",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.94999,
+    -22.25392,
+    26.94999,
+    -22.25392
+],
+  "geometry": {"coordinates":[26.94999,-22.25392],"type":"Point"}
+}

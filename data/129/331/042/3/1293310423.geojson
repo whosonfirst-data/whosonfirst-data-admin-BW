@@ -1,0 +1,65 @@
+{
+  "id": 1293310423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.81283,-21.0801,26.81283,-21.0801",
+    "geom:latitude":-21.0801,
+    "geom:longitude":26.81283,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chamene",
+    "gn:country_code":"BW",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7685726,
+    "gn:latitude":-21.0801,
+    "gn:longitude":26.81283,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Chamene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7685726
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"2ac4f29eb25c3d4ea734763b35c11505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1293310423,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1293310423,
+    "wof:lastmodified":1537040599,
+    "wof:name":"Chamene",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.81283,
+    -21.0801,
+    26.81283,
+    -21.0801
+],
+  "geometry": {"coordinates":[26.81283,-21.0801],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1226456693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.82889,-22.64104,26.82889,-22.64104",
+    "geom:latitude":-22.64104,
+    "geom:longitude":26.82889,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ramatanka",
+    "gn:country_code":"BW",
+    "gn:dem":996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662053,
+    "gn:latitude":-22.64104,
+    "gn:longitude":26.82889,
+    "gn:modification_date":"2011-02-09",
+    "gn:name":"Ramatanka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662053
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"c476626be217b0317a9f7b2f96b00905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1226456693,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1226456693,
+    "wof:lastmodified":1536627886,
+    "wof:name":"Ramatanka",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.82889,
+    -22.64104,
+    26.82889,
+    -22.64104
+],
+  "geometry": {"coordinates":[26.82889,-22.64104],"type":"Point"}
+}

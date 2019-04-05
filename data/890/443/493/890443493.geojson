@@ -1,0 +1,99 @@
+{
+  "id": 890443493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.57032,-22.93369,26.57032,-22.93369",
+    "geom:latitude":-22.93369,
+    "geom:longitude":26.57032,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":2339,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u043c\u0430\u0440\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Kalamare"
+    ],
+    "name:eng_x_preferred":[
+        "Kalamare"
+    ],
+    "name:fre_x_preferred":[
+        "Kalamare"
+    ],
+    "name:ita_x_preferred":[
+        "Kalamare"
+    ],
+    "name:mlg_x_preferred":[
+        "Kalamare"
+    ],
+    "name:pol_x_preferred":[
+        "Kalamare"
+    ],
+    "name:swa_x_preferred":[
+        "Kalamare"
+    ],
+    "name:swe_x_preferred":[
+        "Kalamare"
+    ],
+    "name:tsn_x_preferred":[
+        "Kalamare"
+    ],
+    "qs:name":"Kalamare",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:latitude":"-22.933688",
+    "wd:longitude":"26.570316",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933696,
+        "gp:id":1265901,
+        "qs:id":1029422,
+        "wd:id":"Q72558",
+        "wk:page":"Kalamare"
+    },
+    "wof:country":"BW",
+    "wof:created":1469052426,
+    "wof:geomhash":"e24901486256f8d2aa8679c4eb3c3177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890443493,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":890443493,
+    "wof:lastmodified":1527787068,
+    "wof:name":"Kalamare",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":2339,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.57032,
+    -22.93369,
+    26.57032,
+    -22.93369
+],
+  "geometry": {"coordinates":[26.57032,-22.93369],"type":"Point"}
+}

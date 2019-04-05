@@ -1,0 +1,65 @@
+{
+  "id": 1310127967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.59194,-24.25175,25.59194,-24.25175",
+    "geom:latitude":-24.25175,
+    "geom:longitude":25.59194,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gomasala",
+    "gn:country_code":"BW",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7909116,
+    "gn:latitude":-24.25175,
+    "gn:longitude":25.59194,
+    "gn:modification_date":"2011-07-12",
+    "gn:name":"Gomasala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909116
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"f878c6e5900c85836890585a64f885ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1310127967,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1310127967,
+    "wof:lastmodified":1536963966,
+    "wof:name":"Gomasala",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.59194,
+    -24.25175,
+    25.59194,
+    -24.25175
+],
+  "geometry": {"coordinates":[25.59194,-24.25175],"type":"Point"}
+}

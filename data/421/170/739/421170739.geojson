@@ -1,0 +1,127 @@
+{
+  "id": 421170739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.46153,-21.44236,27.46153,-21.44236",
+    "geom:latitude":-21.44236,
+    "geom:longitude":27.46153,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0422\u043e\u043d\u043e\u0442\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u6258\u8afe\u5854"
+    ],
+    "name:dut_x_preferred":[
+        "Tonota"
+    ],
+    "name:eng_x_preferred":[
+        "Tonota"
+    ],
+    "name:fre_x_preferred":[
+        "Tonota"
+    ],
+    "name:ita_x_preferred":[
+        "Tonota"
+    ],
+    "name:mlg_x_preferred":[
+        "Tonota"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0648\u0646\u0648\u062a\u0627\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Tonota"
+    ],
+    "name:rum_x_preferred":[
+        "Tonota"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043d\u043e\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Tonota"
+    ],
+    "name:swa_x_preferred":[
+        "Tonota"
+    ],
+    "name:swe_x_preferred":[
+        "Tonota"
+    ],
+    "name:tsn_x_preferred":[
+        "Tonota"
+    ],
+    "name:unk_x_variant":[
+        "Tonoto"
+    ],
+    "qs:gn_country":"BW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":933000,
+    "qs:gn_pop":17759,
+    "qs:name":"Tonota",
+    "qs:name_adm0":"Botswana",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":256937,
+    "qs:woe_adm0":23424755,
+    "qs:woe_id":1265935,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933000,
+        "gp:id":1265935,
+        "qs:id":256937,
+        "wd:id":"Q170661",
+        "wk:page":"Tonota"
+    },
+    "wof:country":"BW",
+    "wof:created":1459008866,
+    "wof:geomhash":"808da506542eb87f2e75f4d262104f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":421170739,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":421170739,
+    "wof:lastmodified":1513922323,
+    "wof:name":"Tonota",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":17759,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.46153,
+    -21.44236,
+    27.46153,
+    -21.44236
+],
+  "geometry": {"coordinates":[27.46153,-21.44236],"type":"Point"}
+}

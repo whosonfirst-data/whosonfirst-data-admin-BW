@@ -1,0 +1,61 @@
+{
+  "id": 1209407343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.57504,-24.41594,25.57504,-24.41594",
+    "geom:latitude":-24.41594,
+    "geom:longitude":25.57504,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Marapalalo",
+    "gn:country_code":"BW",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7909139,
+    "gn:latitude":-24.41594,
+    "gn:longitude":25.57504,
+    "gn:modification_date":"2011-07-12",
+    "gn:name":"Marapalalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909139
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"72b02cc27a65489d059efd272812bf63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632235,
+            "locality_id":1209407343
+        }
+    ],
+    "wof:id":1209407343,
+    "wof:lastmodified":1536287952,
+    "wof:name":"Marapalalo",
+    "wof:parent_id":85632235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.57504,
+    -24.41594,
+    25.57504,
+    -24.41594
+],
+  "geometry": {"coordinates":[25.57504,-24.41594],"type":"Point"}
+}

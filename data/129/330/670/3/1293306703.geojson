@@ -1,0 +1,65 @@
+{
+  "id": 1293306703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.65335,-23.12127,26.65335,-23.12127",
+    "geom:latitude":-23.12127,
+    "geom:longitude":26.65335,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Leropo",
+    "gn:country_code":"BW",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7884401,
+    "gn:latitude":-23.12127,
+    "gn:longitude":26.65335,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Leropo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7884401
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"042f30cd3c3ce9175b36cd94fd101729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1293306703,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1293306703,
+    "wof:lastmodified":1537045680,
+    "wof:name":"Leropo",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.65335,
+    -23.12127000000001,
+    26.65335,
+    -23.12127000000001
+],
+  "geometry": {"coordinates":[26.65335,-23.12127000000001],"type":"Point"}
+}

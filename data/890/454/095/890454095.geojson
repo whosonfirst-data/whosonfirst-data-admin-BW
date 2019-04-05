@@ -1,0 +1,111 @@
+{
+  "id": 890454095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.01667,-24.45,26.01667,-24.45",
+    "geom:latitude":-24.45,
+    "geom:longitude":26.01667,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":4131,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u043a\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Bokaa"
+    ],
+    "name:eng_x_preferred":[
+        "Bokaa"
+    ],
+    "name:fre_x_preferred":[
+        "Bokaa"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03bf\u03ba\u03ac\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Bokaa"
+    ],
+    "name:mlg_x_preferred":[
+        "Bokaa"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u06a9\u0627\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Bokaa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043a\u0430\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Bokaa"
+    ],
+    "name:swa_x_preferred":[
+        "Bokaa"
+    ],
+    "name:swe_x_preferred":[
+        "Bokaa"
+    ],
+    "name:tsn_x_preferred":[
+        "Bokaa"
+    ],
+    "qs:name":"Bokaa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:latitude":"-24.45",
+    "wd:longitude":"26.0167",
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933881,
+        "gp:id":55949038,
+        "qs:id":1029431,
+        "wd:id":"Q170656",
+        "wk:page":"Bokaa"
+    },
+    "wof:country":"BW",
+    "wof:created":1469052885,
+    "wof:geomhash":"b59c5f544b8873adc0a8922349f14401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890454095,
+            "region_id":85669607
+        }
+    ],
+    "wof:id":890454095,
+    "wof:lastmodified":1527735430,
+    "wof:name":"Bokaa",
+    "wof:parent_id":85669607,
+    "wof:placetype":"locality",
+    "wof:population":4131,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.01667,
+    -24.45,
+    26.01667,
+    -24.45
+],
+  "geometry": {"coordinates":[26.01667,-24.45],"type":"Point"}
+}

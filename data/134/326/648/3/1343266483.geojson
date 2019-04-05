@@ -1,0 +1,65 @@
+{
+  "id": 1343266483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.52075,-24.10723,26.52075,-24.10723",
+    "geom:latitude":-24.10723,
+    "geom:longitude":26.52075,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Moshibitswane",
+    "gn:country_code":"BW",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7696644,
+    "gn:latitude":-24.10723,
+    "gn:longitude":26.52075,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Moshibitswane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7696644
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"8e7fb90a53bcf4f6068ee022a35d9ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1343266483,
+            "region_id":85669607
+        }
+    ],
+    "wof:id":1343266483,
+    "wof:lastmodified":1537025063,
+    "wof:name":"Moshibitswane",
+    "wof:parent_id":85669607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.52075,
+    -24.10723,
+    26.52075,
+    -24.10723
+],
+  "geometry": {"coordinates":[26.52075,-24.10723],"type":"Point"}
+}

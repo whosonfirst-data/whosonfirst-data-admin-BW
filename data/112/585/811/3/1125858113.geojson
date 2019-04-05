@@ -1,0 +1,113 @@
+{
+  "id": 1125858113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.41667,-22.43333,26.41667,-22.43333",
+    "geom:latitude":-22.43333,
+    "geom:longitude":26.41667,
+    "gn:gn_country":"BW",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2768,
+    "gn:population":2768,
+    "iso:country":"BW",
+    "lbl:latitude":-22.43333,
+    "lbl:longitude":26.41667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Moiyabana"
+    ],
+    "name:eng_x_preferred":[
+        "Moiyabana"
+    ],
+    "name:fre_x_preferred":[
+        "Moiyabana"
+    ],
+    "name:ita_x_preferred":[
+        "Moiyabana"
+    ],
+    "name:mlg_x_preferred":[
+        "Moiyabana"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0648\u06cc\u06cc\u0627\u0628\u0627\u0646\u0627\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Moiyabana"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0439\u044f\u0431\u0430\u043d\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Moiyabana"
+    ],
+    "name:swe_x_preferred":[
+        "Moiyabana"
+    ],
+    "name:tsn_x_preferred":[
+        "Moiyabana"
+    ],
+    "name:unk_x_variant":[
+        "Moiyabana"
+    ],
+    "qs_pg:aaroncc":"BW",
+    "qs_pg:gn_country":"BW",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":933329,
+    "qs_pg:gn_pop":2768,
+    "qs_pg:name":"Moijabana",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275853,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933329,
+        "qs_pg:id":275853,
+        "wd:id":"Q171169"
+    },
+    "wof:country":"BW",
+    "wof:created":1497293707,
+    "wof:geomhash":"067d7b2e0e2e3437120c5f08ce9fdb0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1125858113,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1125858113,
+    "wof:lastmodified":1513922311,
+    "wof:name":"Moijabana",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":2768,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.41667,
+    -22.43333,
+    26.41667,
+    -22.43333
+],
+  "geometry": {"coordinates":[26.41667,-22.43333],"type":"Point"}
+}

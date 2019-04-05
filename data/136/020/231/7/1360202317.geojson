@@ -1,0 +1,70 @@
+{
+  "id": 1360202317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.51,-23.0389,26.51,-23.0389",
+    "geom:latitude":-23.0389,
+    "geom:longitude":26.51,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shoshong",
+    "gn:country_code":"BW",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933064,
+    "gn:latitude":-23.0389,
+    "gn:longitude":26.51,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shoshong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shushong",
+        "Shoshong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933064,
+        "wk:page":"Shoshong"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"8c9d4c2c0a376b9d76b8badc03f49c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1360202317,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1360202317,
+    "wof:lastmodified":1537588931,
+    "wof:name":"Shoshong",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.51,
+    -23.0389,
+    26.51,
+    -23.0389
+],
+  "geometry": {"coordinates":[26.51,-23.0389],"type":"Point"}
+}

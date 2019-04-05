@@ -1,0 +1,65 @@
+{
+  "id": 1310015459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.45278,-21.19665,26.45278,-21.19665",
+    "geom:latitude":-21.19665,
+    "geom:longitude":26.45278,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khalaphuduhudu",
+    "gn:country_code":"BW",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7575027,
+    "gn:latitude":-21.19665,
+    "gn:longitude":26.45278,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Khalaphuduhudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7575027
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"e9673dc5146941dea70794425d2fc488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1310015459,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1310015459,
+    "wof:lastmodified":1536627058,
+    "wof:name":"Khalaphuduhudu",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.45278,
+    -21.19665,
+    26.45278,
+    -21.19665
+],
+  "geometry": {"coordinates":[26.45278,-21.19665],"type":"Point"}
+}

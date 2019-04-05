@@ -1,0 +1,65 @@
+{
+  "id": 1259697903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.23908,-21.88011,28.23908,-21.88011",
+    "geom:latitude":-21.88011,
+    "geom:longitude":28.23908,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sekgopye",
+    "gn:country_code":"BW",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7644679,
+    "gn:latitude":-21.88011,
+    "gn:longitude":28.23908,
+    "gn:modification_date":"2011-01-05",
+    "gn:name":"Sekgopye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7644679
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"06a3c99cafccb2d466e543770d0c652f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259697903,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1259697903,
+    "wof:lastmodified":1537044345,
+    "wof:name":"Sekgopye",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.23908,
+    -21.88011,
+    28.23908,
+    -21.88011
+],
+  "geometry": {"coordinates":[28.23908,-21.88011],"type":"Point"}
+}

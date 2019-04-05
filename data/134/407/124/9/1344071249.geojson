@@ -1,0 +1,65 @@
+{
+  "id": 1344071249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2753,-21.73943,28.2753,-21.73943",
+    "geom:latitude":-21.73943,
+    "geom:longitude":28.2753,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Maebele",
+    "gn:country_code":"BW",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7652473,
+    "gn:latitude":-21.73943,
+    "gn:longitude":28.2753,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Maebele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7652473
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"677bbe42647638120271c7dd592213b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1344071249,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1344071249,
+    "wof:lastmodified":1536858610,
+    "wof:name":"Maebele",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2753,
+    -21.73943,
+    28.2753,
+    -21.73943
+],
+  "geometry": {"coordinates":[28.2753,-21.73943],"type":"Point"}
+}

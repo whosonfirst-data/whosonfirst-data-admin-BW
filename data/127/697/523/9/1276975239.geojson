@@ -1,0 +1,65 @@
+{
+  "id": 1276975239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.95,-25.55,24.95,-25.55",
+    "geom:latitude":-25.55,
+    "geom:longitude":24.95,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chuaning",
+    "gn:country_code":"BW",
+    "gn:dem":1183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933836,
+    "gn:latitude":-25.55,
+    "gn:longitude":24.95,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Chuaning",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933836
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"c0e5301eeed12b59f74b96aeff741144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1276975239,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1276975239,
+    "wof:lastmodified":1536913860,
+    "wof:name":"Chuaning",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.95,
+    -25.55,
+    24.95,
+    -25.55
+],
+  "geometry": {"coordinates":[24.95,-25.55],"type":"Point"}
+}

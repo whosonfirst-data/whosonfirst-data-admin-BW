@@ -1,0 +1,61 @@
+{
+  "id": 1209232391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.11709,-21.78253,28.11709,-21.78253",
+    "geom:latitude":-21.78253,
+    "geom:longitude":28.11709,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mokoswane",
+    "gn:country_code":"BW",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7644659,
+    "gn:latitude":-21.78253,
+    "gn:longitude":28.11709,
+    "gn:modification_date":"2011-01-05",
+    "gn:name":"Mokoswane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7644659
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"984d39b6bea463c4427c651e3d6ebada",
+    "wof:hierarchy":[
+        {
+            "country_id":85632235,
+            "locality_id":1209232391
+        }
+    ],
+    "wof:id":1209232391,
+    "wof:lastmodified":1536293596,
+    "wof:name":"Mokoswane",
+    "wof:parent_id":85632235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.11709,
+    -21.78253,
+    28.11709,
+    -21.78253
+],
+  "geometry": {"coordinates":[28.11709,-21.78253],"type":"Point"}
+}

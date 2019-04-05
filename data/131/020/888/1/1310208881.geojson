@@ -1,0 +1,66 @@
+{
+  "id": 1310208881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.42269,-23.13563,26.42269,-23.13563",
+    "geom:latitude":-23.13563,
+    "geom:longitude":26.42269,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ikongwe",
+    "gn:country_code":"BW",
+    "gn:dem":1067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7849582,
+    "gn:latitude":-23.13563,
+    "gn:longitude":26.42269,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Ikongwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7849582,
+        "wk:page":"Ikongwe"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"f730ecf4ed4754abe2f769282e50d7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1310208881,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1310208881,
+    "wof:lastmodified":1537488418,
+    "wof:name":"Ikongwe",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.42269000000001,
+    -23.13563,
+    26.42269000000001,
+    -23.13563
+],
+  "geometry": {"coordinates":[26.42269000000001,-23.13563],"type":"Point"}
+}

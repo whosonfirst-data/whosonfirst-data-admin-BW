@@ -1,0 +1,65 @@
+{
+  "id": 1276538683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.125,-24.621,26.125,-24.621",
+    "geom:latitude":-24.621,
+    "geom:longitude":26.125,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Modipane",
+    "gn:country_code":"BW",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11288141,
+    "gn:latitude":-24.621,
+    "gn:longitude":26.125,
+    "gn:modification_date":"2016-11-19",
+    "gn:name":"Modipane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11288141
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"e946f7605939d545cfbb2b35a8e704c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1276538683,
+            "region_id":85669615
+        }
+    ],
+    "wof:id":1276538683,
+    "wof:lastmodified":1537000055,
+    "wof:name":"Modipane",
+    "wof:parent_id":85669615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.125,
+    -24.621,
+    26.125,
+    -24.621
+],
+  "geometry": {"coordinates":[26.125,-24.621],"type":"Point"}
+}

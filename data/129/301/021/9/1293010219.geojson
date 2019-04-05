@@ -1,0 +1,65 @@
+{
+  "id": 1293010219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.25337,-21.60189,27.25337,-21.60189",
+    "geom:latitude":-21.60189,
+    "geom:longitude":27.25337,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Poleiti",
+    "gn:country_code":"BW",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7766285,
+    "gn:latitude":-21.60189,
+    "gn:longitude":27.25337,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Poleiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7766285
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"894cc9ded4d3ddeac0f3d20f6c7b37b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1293010219,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1293010219,
+    "wof:lastmodified":1536977388,
+    "wof:name":"Poleiti",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.25337,
+    -21.60189,
+    27.25337,
+    -21.60189
+],
+  "geometry": {"coordinates":[27.25337,-21.60189],"type":"Point"}
+}

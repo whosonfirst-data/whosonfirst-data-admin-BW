@@ -1,0 +1,65 @@
+{
+  "id": 1210005815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.57486,-24.38646,23.57486,-24.38646",
+    "geom:latitude":-24.38646,
+    "geom:longitude":23.57486,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mabutsane",
+    "gn:country_code":"BW",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889493,
+    "gn:latitude":-24.38646,
+    "gn:longitude":23.57486,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Mabutsane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889493
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"ad69374e871d00b4aba7225e45ea7ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1210005815,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1210005815,
+    "wof:lastmodified":1536373826,
+    "wof:name":"Mabutsane",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.57486,
+    -24.38646,
+    23.57486,
+    -24.38646
+],
+  "geometry": {"coordinates":[23.57486,-24.38646],"type":"Point"}
+}

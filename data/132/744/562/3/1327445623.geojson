@@ -1,0 +1,65 @@
+{
+  "id": 1327445623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.67717,-22.5503,27.67717,-22.5503",
+    "geom:latitude":-22.5503,
+    "geom:longitude":27.67717,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mokgalwana",
+    "gn:country_code":"BW",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7845546,
+    "gn:latitude":-22.5503,
+    "gn:longitude":27.67717,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Mokgalwana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7845546
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"948b9326e999124a8993e35b042dcfe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1327445623,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1327445623,
+    "wof:lastmodified":1536661635,
+    "wof:name":"Mokgalwana",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.67717,
+    -22.5503,
+    27.67717,
+    -22.5503
+],
+  "geometry": {"coordinates":[27.67717,-22.5503],"type":"Point"}
+}

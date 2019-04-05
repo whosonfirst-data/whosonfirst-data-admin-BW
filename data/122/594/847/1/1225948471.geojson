@@ -1,0 +1,65 @@
+{
+  "id": 1225948471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.13255,-22.6819,27.13255,-22.6819",
+    "geom:latitude":-22.6819,
+    "geom:longitude":27.13255,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Maokwe",
+    "gn:country_code":"BW",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7769302,
+    "gn:latitude":-22.6819,
+    "gn:longitude":27.13255,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Maokwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769302
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"f62254c9da0caab6727fcf7dfe2613d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1225948471,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1225948471,
+    "wof:lastmodified":1536864023,
+    "wof:name":"Maokwe",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.13255,
+    -22.6819,
+    27.13255,
+    -22.6819
+],
+  "geometry": {"coordinates":[27.13255,-22.6819],"type":"Point"}
+}

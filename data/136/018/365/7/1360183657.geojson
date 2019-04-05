@@ -1,0 +1,66 @@
+{
+  "id": 1360183657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.30982,-24.28997,26.30982,-24.28997",
+    "geom:latitude":-24.28997,
+    "geom:longitude":26.30982,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mogonono",
+    "gn:country_code":"BW",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7696641,
+    "gn:latitude":-24.28997,
+    "gn:longitude":26.30982,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Mogonono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7696641,
+        "wk:page":"Mogonono"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"208b7262d2adc6bb2292b763016407f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1360183657,
+            "region_id":85669607
+        }
+    ],
+    "wof:id":1360183657,
+    "wof:lastmodified":1537488416,
+    "wof:name":"Mogonono",
+    "wof:parent_id":85669607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.30982,
+    -24.28997,
+    26.30982,
+    -24.28997
+],
+  "geometry": {"coordinates":[26.30982,-24.28997],"type":"Point"}
+}

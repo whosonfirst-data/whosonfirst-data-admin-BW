@@ -1,0 +1,321 @@
+{
+  "id": 85669589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":10.064271,
+    "geom:area_square_m":115176606557.765533,
+    "geom:bbox":"19.9783459877,-23.3185246718,25.4393054543,-20.9999581835",
+    "geom:latitude":-22.294149,
+    "geom:longitude":22.590536,
+    "gn:population":36675,
+    "iso:country":"BW",
+    "label:eng_x_preferred_longname":[
+        "Ghanzi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-22.15561,
+    "lbl:longitude":22.590865,
+    "mps:latitude":-22.15561,
+    "mps:longitude":22.590865,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":6.0,
+    "name:afr_x_preferred":[
+        "Ghanzi distrik"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629\u063a\u0627\u0646\u0632\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Ghanzi"
+    ],
+    "name:baq_x_preferred":[
+        "Ghanzi"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0440\u0443\u0433\u0430 \u0413\u0430\u043d\u0437\u0456"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09be\u099e\u09cd\u099c\u09bf \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Ghanzi"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u043d\u0437\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Districte de Ghanzi"
+    ],
+    "name:chi_x_preferred":[
+        "\u676d\u6fdf\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Ghanzi District"
+    ],
+    "name:dut_x_preferred":[
+        "Ghanzi"
+    ],
+    "name:eng_x_preferred":[
+        "Ghanzi"
+    ],
+    "name:eng_x_variant":[
+        "Ghanzi District"
+    ],
+    "name:fin_x_preferred":[
+        "Ghanzi"
+    ],
+    "name:fre_x_preferred":[
+        "District de Ghanzi"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d2\u10d0\u10dc\u10d6\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Ghanzi District"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0393\u03ba\u03ac\u03bd\u03b6\u03b9"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a98\u0abe\u0a82\u0a9d\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0918\u0928\u091c\u0940 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Ghanzi"
+    ],
+    "name:ita_x_preferred":[
+        "distretto di Ghanzi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30f3\u30c4\u30a3\u5730\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c96\u0cbe\u0ca8\u0ccd\u0c9c\u0cbf \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uac04\uc9c0 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Ganzi distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Ganzio rajonas"
+    ],
+    "name:mac_x_preferred":[
+        "\u0413\u0430\u043d\u0437\u0438"
+    ],
+    "name:mar_x_preferred":[
+        "\u0918\u0928\u091d\u0940 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Ghanzi District"
+    ],
+    "name:nob_x_preferred":[
+        "Ghanzi"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u063a\u0627\u0646\u0632\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Ghanzi"
+    ],
+    "name:por_x_preferred":[
+        "Ghanzi"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Ghanzi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043d\u0437\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0db1\u0dca\u0dc3\u0dd2 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Ghanzi"
+    ],
+    "name:swe_x_preferred":[
+        "Ghanzi"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0ba3\u0bcd\u0b9c\u0bbf   \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c18\u0c3e\u0c02\u0c1c\u0c3f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e01\u0e32\u0e19\u0e08\u0e34"
+    ],
+    "name:tsn_x_preferred":[
+        "Kgaolo ya Ghanzi"
+    ],
+    "name:tur_x_preferred":[
+        "Ghanzi B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043d\u0437\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Khanzi"
+    ],
+    "name:urd_x_preferred":[
+        "\u063a\u0627\u0646\u0632\u06cc \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Ghanzi"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BWA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BWA-1191",
+    "ne:adm1_code":"BWA-1191",
+    "ne:admin":"Botswana",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BW.GH",
+    "ne:code_local":"",
+    "ne:datarank":"7",
+    "ne:diss_me":"1191",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BC03",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Botswana",
+    "ne:gn_a1_code":"BW.03",
+    "ne:gn_id":"933758",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Ghanzi District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BC03",
+    "ne:gns_id":"-1397387",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Ghanzi",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BWA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BW-",
+    "ne:iso_a2":"BW",
+    "ne:labelrank":"6",
+    "ne:latitude":"-22.15550000000",
+    "ne:longitude":"22.70860000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Ghanzi",
+    "ne:name_alt":"Ghantsi",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"GH",
+    "ne:provnum_ne":"8",
+    "ne:region":"",
+    "ne:region_cod":"BW.GH",
+    "ne:region_sub":"Ghanzi",
+    "ne:sameascity":"6",
+    "ne:scalerank":"4",
+    "ne:sov_a3":"BWA",
+    "ne:sub_code":"",
+    "ne:type":"District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344743,
+    "ne:woe_label":"Ghanzi, BW, Botswana",
+    "ne:woe_name":"Ghanzi",
+    "qs:a0":"Botswana",
+    "qs:a0_lc":"BW",
+    "qs:a1":"Ghanzi",
+    "qs:a1_lc":"BWA-1191",
+    "qs:a1r_lc":"BW.GH",
+    "qs:adm0":"Botswana",
+    "qs:adm0_a3":"BWA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-08-09",
+    "statoids:area_km":"117,910",
+    "statoids:area_mi":"45,367",
+    "statoids:as_of_date":"2011-08-09",
+    "statoids:capital":"Ghanzi",
+    "statoids:country":"BW",
+    "statoids:gec":"BC03",
+    "statoids:hasc":"BW.GH",
+    "statoids:iso":"GH",
+    "statoids:name":"Ghanzi",
+    "statoids:population":"43355",
+    "statoids:timezone":"+2",
+    "statoids:type":"district",
+    "unlc:subdivision":"BW-GH",
+    "wof:belongsto":[
+        102191573,
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BC03",
+        "gn:id":933758,
+        "gp:id":2344743,
+        "hasc:id":"BW.GH",
+        "iso:id":"BW-GH",
+        "qs:id":219503,
+        "unlc:id":"BW-GH",
+        "wd:id":"Q57571",
+        "wk:page":"Ghanzi District"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"899dc5b6ba5c81b4844063b55df50f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "region_id":85669589
+        }
+    ],
+    "wof:id":85669589,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng",
+        "tsn"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "tsn"
+    ],
+    "wof:lastmodified":1553550319,
+    "wof:name":"Ghanzi",
+    "wof:parent_id":85632235,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":43355,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:shortcode":"GH",
+    "wof:subdivision":"BW-GH",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.97834598767724,
+    -23.31852467177612,
+    25.43930545428333,
+    -20.99995818352329
+],
+  "geometry": {"coordinates":[[[25.43930545428333,-22.95188038517159],[25.24174645393578,-23.31852467177612],[23.05753869015848,-23.31134164809856],[19.99896569211307,-23.30855112103734],[19.97985544307431,-23.30855112103734],[19.9797929285009,-23.2045256550349],[19.97958622202657,-23.03254648802994],[19.97927616366405,-22.8606706747118],[19.97917281087655,-22.68858815491939],[19.97896610530159,-22.53810638390246],[19.97886275341341,-22.38762461378485],[19.97865604603976,-22.23724619555543],[19.97844934046475,-22.0867644245385],[19.97834598767724,-22.00067148869817],[20.21244022583579,-22.00067148869817],[20.44653446489372,-22.00067148869817],[20.68062870305226,-22.00067148869817],[20.91472294121081,-22.00067148869817],[20.9719804277546,-22.00067148869817],[20.98479618329725,-21.96398122035697],[20.98469283140912,-21.92284678035458],[20.98448612493479,-21.86517588266082],[20.98427941846046,-21.80760833775452],[20.98407271288545,-21.75004079194895],[20.98386600731044,-21.69236989245655],[20.98365930173543,-21.63469899476274],[20.98345259616042,-21.57702809616967],[20.9831425377979,-21.51935719757654],[20.98303918411114,-21.46178965267029],[20.98283247943544,-21.40411875407722],[20.98262577296111,-21.34644785458477],[20.9824190673861,-21.28888030967852],[20.98221236181109,-21.23120941198471],[20.98210900902359,-21.17364186527982],[20.98190230344858,-21.11607431947419],[20.98159224418674,-21.05840342178044],[20.98148889139929,-21.00073252228805],[20.98148632923073,-20.99995818352329],[21.00014489107389,-20.99995818352329],[23.88136437266769,-20.99995818352329],[25.43930545428333,-22.95188038517159]]],"type":"Polygon"}
+}

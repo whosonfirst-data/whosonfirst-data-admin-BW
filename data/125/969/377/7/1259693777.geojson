@@ -1,0 +1,70 @@
+{
+  "id": 1259693777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.68333,-19.7,23.68333,-19.7",
+    "geom:latitude":-19.7,
+    "geom:longitude":23.68333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Puluhelo",
+    "gn:cc2":"BW",
+    "gn:country_code":"BW",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933157,
+    "gn:latitude":-19.7,
+    "gn:longitude":23.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puluhelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samahala\u2019s",
+        "Puluhelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933157
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"8161fcb03d490f09061f2c338ec18e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259693777,
+            "region_id":85669599
+        }
+    ],
+    "wof:id":1259693777,
+    "wof:lastmodified":1537588931,
+    "wof:name":"Puluhelo",
+    "wof:parent_id":85669599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.68333,
+    -19.7,
+    23.68333,
+    -19.7
+],
+  "geometry": {"coordinates":[23.68333,-19.7],"type":"Point"}
+}

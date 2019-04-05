@@ -1,0 +1,99 @@
+{
+  "id": 890431347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.83492,-22.32301,27.83492,-22.32301",
+    "geom:latitude":-22.32301,
+    "geom:longitude":27.83492,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":1917,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0433\u0430\u043f\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Mogapi"
+    ],
+    "name:eng_x_preferred":[
+        "Mogapi"
+    ],
+    "name:fre_x_preferred":[
+        "Mogapi"
+    ],
+    "name:ita_x_preferred":[
+        "Mogapi"
+    ],
+    "name:mlg_x_preferred":[
+        "Mogapi"
+    ],
+    "name:pol_x_preferred":[
+        "Mogapi"
+    ],
+    "name:swa_x_preferred":[
+        "Mogapi"
+    ],
+    "name:swe_x_preferred":[
+        "Mogapi"
+    ],
+    "name:tsn_x_preferred":[
+        "Motsana wa Mogapi"
+    ],
+    "qs:name":"Mogapi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:latitude":"-22.323",
+    "wd:longitude":"27.8349",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933333,
+        "gp:id":1265869,
+        "qs:id":275855,
+        "wd:id":"Q170811",
+        "wk:page":"Mogapi"
+    },
+    "wof:country":"BW",
+    "wof:created":1469051887,
+    "wof:geomhash":"ac64e8915b631372e5e861f94bd38c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890431347,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":890431347,
+    "wof:lastmodified":1527735414,
+    "wof:name":"Mogapi",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":1917,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.83492,
+    -22.32301,
+    27.83492,
+    -22.32301
+],
+  "geometry": {"coordinates":[27.83492,-22.32301],"type":"Point"}
+}

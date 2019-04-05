@@ -1,0 +1,65 @@
+{
+  "id": 1242699819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.72837,-24.33915,25.72837,-24.33915",
+    "geom:latitude":-24.33915,
+    "geom:longitude":25.72837,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ramothamane",
+    "gn:country_code":"BW",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7909129,
+    "gn:latitude":-24.33915,
+    "gn:longitude":25.72837,
+    "gn:modification_date":"2011-07-12",
+    "gn:name":"Ramothamane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909129
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"adb3c234d79e3d1cd6f5e93e2daeddd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1242699819,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1242699819,
+    "wof:lastmodified":1536887322,
+    "wof:name":"Ramothamane",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.72837,
+    -24.33915,
+    25.72837,
+    -24.33915
+],
+  "geometry": {"coordinates":[25.72837,-24.33915],"type":"Point"}
+}

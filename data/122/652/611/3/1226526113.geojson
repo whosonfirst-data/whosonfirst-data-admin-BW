@@ -1,0 +1,65 @@
+{
+  "id": 1226526113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.03277,-24.84437,25.03277,-24.84437",
+    "geom:latitude":-24.84437,
+    "geom:longitude":25.03277,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Lohalane",
+    "gn:country_code":"BW",
+    "gn:dem":1290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7742867,
+    "gn:latitude":-24.84437,
+    "gn:longitude":25.03277,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Lohalane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7742867
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"7bbc8513c49d1aee71318ad398ae8f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1226526113,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1226526113,
+    "wof:lastmodified":1537025273,
+    "wof:name":"Lohalane",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.03277000000001,
+    -24.84437,
+    25.03277000000001,
+    -24.84437
+],
+  "geometry": {"coordinates":[25.03277000000001,-24.84437],"type":"Point"}
+}

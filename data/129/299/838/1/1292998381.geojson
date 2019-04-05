@@ -1,0 +1,65 @@
+{
+  "id": 1292998381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.33594,-24.56987,25.33594,-24.56987",
+    "geom:latitude":-24.56987,
+    "geom:longitude":25.33594,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Losilakgokong",
+    "gn:country_code":"BW",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7746916,
+    "gn:latitude":-24.56987,
+    "gn:longitude":25.33594,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Losilakgokong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7746916
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"6947369bf4a9c0a871c75bbfbb62bcd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1292998381,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1292998381,
+    "wof:lastmodified":1536994361,
+    "wof:name":"Losilakgokong",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.33594,
+    -24.56987,
+    25.33594,
+    -24.56987
+],
+  "geometry": {"coordinates":[25.33594,-24.56987],"type":"Point"}
+}

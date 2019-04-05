@@ -1,0 +1,65 @@
+{
+  "id": 1310490571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.46849,-24.94824,25.46849,-24.94824",
+    "geom:latitude":-24.94824,
+    "geom:longitude":25.46849,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Lehatlheng",
+    "gn:country_code":"BW",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7746212,
+    "gn:latitude":-24.94824,
+    "gn:longitude":25.46849,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Lehatlheng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7746212
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"05d5387d61aa5b2800a654deb79191d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1310490571,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1310490571,
+    "wof:lastmodified":1536939200,
+    "wof:name":"Lehatlheng",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.46849,
+    -24.94824,
+    25.46849,
+    -24.94824
+],
+  "geometry": {"coordinates":[25.46849,-24.94824],"type":"Point"}
+}

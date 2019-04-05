@@ -1,0 +1,61 @@
+{
+  "id": 1209236615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.44016,-24.48045,25.44016,-24.48045",
+    "geom:latitude":-24.48045,
+    "geom:longitude":25.44016,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tsheletshele",
+    "gn:country_code":"BW",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7908244,
+    "gn:latitude":-24.48045,
+    "gn:longitude":25.44016,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tsheletshele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908244
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"9f5f3a21561104667a41b7d0c61f530f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632235,
+            "locality_id":1209236615
+        }
+    ],
+    "wof:id":1209236615,
+    "wof:lastmodified":1536293458,
+    "wof:name":"Tsheletshele",
+    "wof:parent_id":85632235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.44016,
+    -24.48045,
+    25.44016,
+    -24.48045
+],
+  "geometry": {"coordinates":[25.44016,-24.48045],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209228721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.031,-22.59154,27.031,-22.59154",
+    "geom:latitude":-22.59154,
+    "geom:longitude":27.031,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Leupane",
+    "gn:country_code":"BW",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933502,
+    "gn:latitude":-22.59154,
+    "gn:longitude":27.031,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Leupane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lupani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933502
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"f070347dc46298b4f3ab2d6ce101391b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632235,
+            "locality_id":1209228721
+        }
+    ],
+    "wof:id":1209228721,
+    "wof:lastmodified":1537588932,
+    "wof:name":"Leupane",
+    "wof:parent_id":85632235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.031,
+    -22.59154,
+    27.031,
+    -22.59154
+],
+  "geometry": {"coordinates":[27.031,-22.59154],"type":"Point"}
+}

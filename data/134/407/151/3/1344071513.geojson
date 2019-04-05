@@ -1,0 +1,65 @@
+{
+  "id": 1344071513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13333,-19.88333,21.13333,-19.88333",
+    "geom:latitude":-19.88333,
+    "geom:longitude":21.13333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kai-Kai",
+    "gn:country_code":"BW",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933707,
+    "gn:latitude":-19.88333,
+    "gn:longitude":21.13333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Kai-Kai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933707
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"ee37b4e9d50a2245e77a3e1caa13e7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1344071513,
+            "region_id":85669599
+        }
+    ],
+    "wof:id":1344071513,
+    "wof:lastmodified":1536858242,
+    "wof:name":"Kai-Kai",
+    "wof:parent_id":85669599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13333,
+    -19.88333,
+    21.13333,
+    -19.88333
+],
+  "geometry": {"coordinates":[21.13333,-19.88333],"type":"Point"}
+}

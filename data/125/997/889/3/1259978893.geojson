@@ -1,0 +1,65 @@
+{
+  "id": 1259978893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.47327,-24.53621,26.47327,-24.53621",
+    "geom:latitude":-24.53621,
+    "geom:longitude":26.47327,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Malolwane",
+    "gn:country_code":"BW",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11395977,
+    "gn:latitude":-24.53621,
+    "gn:longitude":26.47327,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Malolwane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11395977
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"0a45bd93c363fc15896684880e02ec92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259978893,
+            "region_id":85669607
+        }
+    ],
+    "wof:id":1259978893,
+    "wof:lastmodified":1536640901,
+    "wof:name":"Malolwane",
+    "wof:parent_id":85669607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.47327,
+    -24.53621,
+    26.47327,
+    -24.53621
+],
+  "geometry": {"coordinates":[26.47327,-24.53621],"type":"Point"}
+}

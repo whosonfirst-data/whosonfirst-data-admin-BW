@@ -1,0 +1,64 @@
+{
+  "id": 890455835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.63507,-22.64623,27.63507,-22.64623",
+    "geom:latitude":-22.64623,
+    "geom:longitude":27.63507,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":374,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mokokwane",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933312,
+        "gp:id":1265737,
+        "qs:id":555030
+    },
+    "wof:country":"BW",
+    "wof:created":1469052977,
+    "wof:geomhash":"a5e7fef15ae4c822a90998ffb10a9bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890455835,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":890455835,
+    "wof:lastmodified":1505343666,
+    "wof:name":"Mokokwane",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":374,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.63507,
+    -22.64623,
+    27.63507,
+    -22.64623
+],
+  "geometry": {"coordinates":[27.63507,-22.64623],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1242695631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3672,-21.10424,26.3672,-21.10424",
+    "geom:latitude":-21.10424,
+    "geom:longitude":26.3672,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tsorotsaro",
+    "gn:country_code":"BW",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7575019,
+    "gn:latitude":-21.10424,
+    "gn:longitude":26.3672,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Tsorotsaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7575019
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"30acc74e330495ef4199f3196a3f8810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1242695631,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1242695631,
+    "wof:lastmodified":1536893489,
+    "wof:name":"Tsorotsaro",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3672,
+    -21.10424,
+    26.3672,
+    -21.10424
+],
+  "geometry": {"coordinates":[26.3672,-21.10424],"type":"Point"}
+}

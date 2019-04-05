@@ -1,0 +1,68 @@
+{
+  "id": 1310719485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0739,-23.56408,26.0739,-23.56408",
+    "geom:latitude":-23.56408,
+    "geom:longitude":26.0739,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ramoselwana",
+    "gn:country_code":"BW",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7859758,
+    "gn:latitude":-23.56408,
+    "gn:longitude":26.0739,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ramoselwana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ramaselwana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7859758
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"d5df91b7fbfaed2aab5f8427972b066c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1310719485,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1310719485,
+    "wof:lastmodified":1537588935,
+    "wof:name":"Ramoselwana",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0739,
+    -23.56408,
+    26.0739,
+    -23.56408
+],
+  "geometry": {"coordinates":[26.0739,-23.56408],"type":"Point"}
+}

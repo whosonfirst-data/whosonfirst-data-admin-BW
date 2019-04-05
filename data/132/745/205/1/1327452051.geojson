@@ -1,0 +1,68 @@
+{
+  "id": 1327452051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.07867,-24.08588,23.07867,-24.08588",
+    "geom:latitude":-24.08588,
+    "geom:longitude":23.07867,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Morwamosu",
+    "gn:country_code":"BW",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933280,
+    "gn:latitude":-24.08588,
+    "gn:longitude":23.07867,
+    "gn:modification_date":"2011-11-01",
+    "gn:name":"Morwamosu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morwamotsu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933280
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"8e9ee320cec17b8b1c36640fee67d895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1327452051,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1327452051,
+    "wof:lastmodified":1537588931,
+    "wof:name":"Morwamosu",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.07867,
+    -24.08588,
+    23.07867,
+    -24.08588
+],
+  "geometry": {"coordinates":[23.07867,-24.08588],"type":"Point"}
+}

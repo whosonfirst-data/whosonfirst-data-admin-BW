@@ -1,0 +1,65 @@
+{
+  "id": 1259372665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.82545,-24.84557,25.82545,-24.84557",
+    "geom:latitude":-24.84557,
+    "geom:longitude":25.82545,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Taung",
+    "gn:country_code":"BW",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7745126,
+    "gn:latitude":-24.84557,
+    "gn:longitude":25.82545,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Taung",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7745126
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"e58de7ba36448be59c7eaa49708f7d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259372665,
+            "region_id":85669615
+        }
+    ],
+    "wof:id":1259372665,
+    "wof:lastmodified":1537017135,
+    "wof:name":"Taung",
+    "wof:parent_id":85669615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.82545,
+    -24.84557,
+    25.82545,
+    -24.84557
+],
+  "geometry": {"coordinates":[25.82545,-24.84557],"type":"Point"}
+}

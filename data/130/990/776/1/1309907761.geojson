@@ -1,0 +1,65 @@
+{
+  "id": 1309907761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.18333,-23.01667,24.18333,-23.01667",
+    "geom:latitude":-23.01667,
+    "geom:longitude":24.18333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kukumane Kraal",
+    "gn:country_code":"BW",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933579,
+    "gn:latitude":-23.01667,
+    "gn:longitude":24.18333,
+    "gn:modification_date":"2014-10-29",
+    "gn:name":"Kukumane Kraal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933579
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"8fa897c4877ce915f2d2a1ebb79e5361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1309907761,
+            "region_id":85669589
+        }
+    ],
+    "wof:id":1309907761,
+    "wof:lastmodified":1536784605,
+    "wof:name":"Kukumane Kraal",
+    "wof:parent_id":85669589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.18333,
+    -23.01667,
+    24.18333,
+    -23.01667
+],
+  "geometry": {"coordinates":[24.18333,-23.01667],"type":"Point"}
+}

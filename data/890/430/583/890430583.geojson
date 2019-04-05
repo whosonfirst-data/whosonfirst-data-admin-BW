@@ -1,0 +1,101 @@
+{
+  "id": 890430583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.83333,-26.66667,21.83333,-26.66667",
+    "geom:latitude":-26.66667,
+    "geom:longitude":21.83333,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":827,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Khuis"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0445\u0443\u0438\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Khuis"
+    ],
+    "name:eng_x_preferred":[
+        "Khuis"
+    ],
+    "name:fre_x_preferred":[
+        "Khuis"
+    ],
+    "name:ita_x_preferred":[
+        "Khuis"
+    ],
+    "name:mlg_x_preferred":[
+        "Khuis"
+    ],
+    "name:pol_x_preferred":[
+        "Khuis"
+    ],
+    "name:swa_x_preferred":[
+        "Khuis"
+    ],
+    "name:swe_x_preferred":[
+        "Khuis"
+    ],
+    "qs:name":"Khuis",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:latitude":"-26.666667",
+    "wd:longitude":"21.833333",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933632,
+        "gp:id":1588549,
+        "qs:id":83982,
+        "wd:id":"Q170815",
+        "wk:page":"Khuis"
+    },
+    "wof:country":"BW",
+    "wof:created":1469051859,
+    "wof:geomhash":"e974394d03b9382532b9816c6e36d06a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":890430583,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":890430583,
+    "wof:lastmodified":1527729746,
+    "wof:name":"Khuis",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:population":827,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.83333,
+    -26.66667,
+    21.83333,
+    -26.66667
+],
+  "geometry": {"coordinates":[21.83333,-26.66667],"type":"Point"}
+}

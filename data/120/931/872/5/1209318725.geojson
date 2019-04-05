@@ -1,0 +1,61 @@
+{
+  "id": 1209318725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.91667,-20.65,24.91667,-20.65",
+    "geom:latitude":-20.65,
+    "geom:longitude":24.91667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chuma",
+    "gn:country_code":"BW",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933827,
+    "gn:latitude":-20.65,
+    "gn:longitude":24.91667,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Chuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933827
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"a1a99566964bc868a97740a3f22e9560",
+    "wof:hierarchy":[
+        {
+            "country_id":85632235,
+            "locality_id":1209318725
+        }
+    ],
+    "wof:id":1209318725,
+    "wof:lastmodified":1536290773,
+    "wof:name":"Chuma",
+    "wof:parent_id":85632235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.91667,
+    -20.65,
+    24.91667,
+    -20.65
+],
+  "geometry": {"coordinates":[24.91667,-20.65],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1226063947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7115,-24.93293,25.7115,-24.93293",
+    "geom:latitude":-24.93293,
+    "geom:longitude":25.7115,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kika",
+    "gn:country_code":"BW",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7745729,
+    "gn:latitude":-24.93293,
+    "gn:longitude":25.7115,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Kika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7745729
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"e31822653871b5240442a88ff4ee98c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1226063947,
+            "region_id":85669615
+        }
+    ],
+    "wof:id":1226063947,
+    "wof:lastmodified":1536699258,
+    "wof:name":"Kika",
+    "wof:parent_id":85669615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7115,
+    -24.93293,
+    25.7115,
+    -24.93293
+],
+  "geometry": {"coordinates":[25.7115,-24.93293],"type":"Point"}
+}

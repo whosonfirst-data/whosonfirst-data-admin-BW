@@ -1,0 +1,309 @@
+{
+  "id": 85669627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.453588,
+    "geom:area_square_m":5236153887.245198,
+    "geom:bbox":"27.2152459932,-21.5519133499,27.9904150795,-20.4730127963",
+    "geom:latitude":-20.99838,
+    "geom:longitude":27.539594,
+    "gn:population":89979,
+    "iso:country":"BW",
+    "label:eng_x_preferred_longname":[
+        "North-East District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-20.859582,
+    "lbl:longitude":27.447947,
+    "mps:latitude":-20.859582,
+    "mps:longitude":27.447947,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":6.0,
+    "name:afr_x_preferred":[
+        "Noord-Oos distrik"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0627\u0644\u0634\u0645\u0627\u0644 \u0627\u0644\u0634\u0631\u0642\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Distritu noreste"
+    ],
+    "name:baq_x_preferred":[
+        "Ipar-ekialdea"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u0430-\u0443\u0441\u0445\u043e\u0434\u043d\u044f\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09b0\u09cd\u09a5-\u0987\u09b8\u09cd\u099f \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "North-East"
+    ],
+    "name:cat_x_preferred":[
+        "Districte del Nord-est"
+    ],
+    "name:chi_x_preferred":[
+        "\u6771\u5317\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "North-East District"
+    ],
+    "name:dut_x_preferred":[
+        "North-East"
+    ],
+    "name:eng_x_preferred":[
+        "North-East"
+    ],
+    "name:eng_x_variant":[
+        "North-East District"
+    ],
+    "name:fin_x_preferred":[
+        "North-East District"
+    ],
+    "name:fre_x_preferred":[
+        "District du Nord-Est"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd-\u10d0\u10e6\u10db\u10dd\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "North-East District"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03bf\u03c1\u03b5\u03b9\u03bf\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a89\u0aa4\u0acd\u0aa4\u0ab0-\u0aaa\u0ac2\u0ab0\u0acd\u0ab5 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u0924\u094d\u0924\u0930-\u092a\u0942\u0930\u094d\u0935 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Timur Laut"
+    ],
+    "name:ita_x_preferred":[
+        "distretto Nordorientale"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30fc\u30b9\u30a4\u30fc\u30b9\u30c8\u5730\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c88\u0cb6\u0cbe\u0ca8\u0ccd\u0caf \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd81\ub3d9\ubd80 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Zieme\u013caustrumu distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160iaur\u0117s ryt\u0173 rajonas"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043e\u0438\u0441\u0442\u043e\u0447\u0435\u043d \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u0942\u0930\u094d\u0935-\u092a\u0942\u0930\u094d\u0935 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "North-East District"
+    ],
+    "name:nob_x_preferred":[
+        "North-East"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt P\u00f3\u0142nocno-Wschodni"
+    ],
+    "name:por_x_preferred":[
+        "Nordeste"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul North-East"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito Noreste"
+    ],
+    "name:swe_x_preferred":[
+        "Northeast"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 -\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c08\u0c36\u0c3e\u0c28\u0c4d\u0c2f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e40\u0e23\u0e21\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Kuzeydo\u011fu B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u043e-\u0421\u0445\u0456\u0434\u043d\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Francistown District"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0645\u0627\u0644-\u0645\u0634\u0631\u0642\u06cc \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn \u0110\u00f4ng-B\u1eafc"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BWA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BWA-4853",
+    "ne:adm1_code":"BWA-4853",
+    "ne:admin":"Botswana",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"BW.NE",
+    "ne:code_local":"",
+    "ne:datarank":"6",
+    "ne:diss_me":"4853",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BC08",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Botswana",
+    "ne:gn_a1_code":"BW.08",
+    "ne:gn_id":"933210",
+    "ne:gn_level":"1",
+    "ne:gn_name":"North East District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BC08",
+    "ne:gns_id":"-1397943",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"North East",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BWA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BW-NE",
+    "ne:iso_a2":"BW",
+    "ne:labelrank":"4",
+    "ne:latitude":"-20.93740000000",
+    "ne:longitude":"27.44870000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"North-East",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"NE",
+    "ne:provnum_ne":"2",
+    "ne:region":"",
+    "ne:region_cod":"BW.NE",
+    "ne:region_sub":"North-East",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"4",
+    "ne:sov_a3":"BWA",
+    "ne:sub_code":"",
+    "ne:type":"District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/North-East_District_(Botswana)",
+    "ne:woe_id":2344748,
+    "ne:woe_label":"North-East, BW, Botswana",
+    "ne:woe_name":"North-East",
+    "qs:a0":"Botswana",
+    "qs:a0_lc":"BW",
+    "qs:a1":"North-East",
+    "qs:a1_lc":"BWA-4853",
+    "qs:a1r_lc":"BW.NE",
+    "qs:adm0":"Botswana",
+    "qs:adm0_a3":"BWA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-08-09",
+    "statoids:area_km":"5,120",
+    "statoids:area_mi":"1,970",
+    "statoids:as_of_date":"2011-08-09",
+    "statoids:capital":"Francistown",
+    "statoids:country":"BW",
+    "statoids:gec":"BC08",
+    "statoids:hasc":"BW.NR",
+    "statoids:iso":"NE",
+    "statoids:name":"North-East",
+    "statoids:population":"60264",
+    "statoids:timezone":"+2",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191573,
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BC08",
+        "gn:id":933210,
+        "gp:id":2344748,
+        "hasc:id":"BW.NR",
+        "iso:id":"BW-NE",
+        "qs:id":229362,
+        "wd:id":"Q57636",
+        "wk:page":"North-East District (Botswana)"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"e0c85f06158ab282847c9ea397bc620c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "region_id":85669627
+        }
+    ],
+    "wof:id":85669627,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng",
+        "tsn"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "tsn"
+    ],
+    "wof:lastmodified":1553550320,
+    "wof:name":"North-East",
+    "wof:parent_id":85632235,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":60264,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:shortcode":"NR",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.21524599320804,
+    -21.55191334992111,
+    27.99041507949238,
+    -20.47301279630346
+],
+  "geometry": {"coordinates":[[[27.53411218273112,-20.48303802478495],[27.59085290533739,-20.4733228555653],[27.62578617449242,-20.48861907980665],[27.665990438508,-20.48913584374412],[27.68376713144801,-20.49606048590266],[27.69813317880323,-20.50908294702032],[27.70557458489924,-20.52665293258673],[27.70262902820713,-20.5661337279891],[27.69038171344539,-20.60148040649551],[27.68247521935592,-20.63734385163741],[27.70733158318609,-20.71671885179353],[27.70960534630973,-20.75671640933479],[27.6944124757552,-20.83774505588957],[27.68903812630856,-20.84901051872043],[27.68180342578751,-20.85758880547894],[27.67601566609017,-20.86668385797361],[27.67477543084152,-20.87991302466634],[27.67508549010336,-20.89128183938533],[27.67260502140465,-20.91370941046085],[27.67265669734877,-20.92352793246806],[27.68035648586317,-20.97964853834929],[27.67896122188296,-21.00073252228805],[27.66681726080799,-21.0537525427456],[27.66661055523298,-21.07121917642382],[27.67477543084152,-21.09013275182497],[27.70919193515971,-21.13447113003855],[27.72438480751293,-21.14966400059313],[27.7938379310757,-21.19741302349217],[27.8236035563591,-21.23172617592223],[27.84913171375763,-21.26965667681412],[27.88499515800021,-21.31017100009154],[27.8944002688574,-21.32433034277108],[27.89667403198104,-21.33239186559206],[27.89615726714419,-21.3478947945091],[27.89781091354286,-21.35543955429193],[27.90421879086455,-21.3647413114623],[27.92054854298095,-21.38117441816485],[27.95021081547679,-21.43832855192107],[27.95300134343728,-21.44866383876513],[27.94964237469588,-21.4565186560111],[27.94194258618148,-21.46850758745518],[27.93987552953212,-21.47801605199913],[27.9433378501617,-21.47987640397281],[27.9504175210518,-21.48204681340968],[27.95444828246229,-21.48783457400634],[27.94928063948998,-21.50075368143723],[27.95320804811297,-21.5104688515562],[27.95806563272282,-21.51150237943119],[27.96369836548723,-21.5104688515562],[27.97057132990301,-21.51439625927992],[27.97573897287538,-21.52256113668705],[27.98473067348186,-21.54292165111326],[27.99041507949238,-21.55191334992111],[27.91562034540266,-21.54584369862772],[27.85902443792753,-21.51754574533982],[27.78827955425805,-21.51754574533982],[27.72460915868578,-21.52462023343696],[27.63971529792269,-21.5033967682462],[27.56897041335395,-21.5033967682462],[27.49115104068801,-21.46802432686115],[27.44162962220935,-21.41142841938603],[27.40625717992498,-21.3477580238137],[27.38503371473422,-21.25578967405414],[27.34966127334911,-21.16382132519396],[27.3072143429676,-21.06477848733726],[27.27184190068323,-21.00110809176499],[27.22939497030171,-20.94451218428981],[27.21524599320804,-20.84546934643316],[27.21524599320804,-20.77472446276369],[27.22939497030171,-20.70397957909427],[27.25061843549247,-20.61908571743186],[27.27184190068323,-20.56248981085605],[27.26839196731549,-20.49575042754014],[27.30601241074419,-20.47735361697579],[27.34073897342495,-20.47301279630346],[27.45391035937564,-20.4733228555653],[27.53411218273112,-20.48303802478495]],[[27.44709570070609,-21.17601257082345],[27.44327009893595,-21.18646921488232],[27.44250497822225,-21.19871114090637],[27.44658562053002,-21.20610730390888],[27.46341826723932,-21.21044298585508],[27.48586179768387,-21.21120810566947],[27.49147267962053,-21.19871114090637],[27.50677508670094,-21.20202666160111],[27.53431941800676,-21.21554378761567],[27.53865509995296,-21.21579882815337],[27.5557427871999,-21.21171818584554],[27.55931334843234,-21.20559722373287],[27.55752806826581,-21.19871114090637],[27.55625286737597,-21.18723433559609],[27.55752806826581,-21.1749924104713],[27.55344742595798,-21.1673412069311],[27.54375590261287,-21.16326056552265],[27.53840006031459,-21.16045512410466],[27.53431941800676,-21.14566279809958],[27.54018534048112,-21.13189063154738],[27.55115206561538,-21.12372934873042],[27.55217222596752,-21.11505798483807],[27.54605126295547,-21.10740678129787],[27.53763493960082,-21.1068967011218],[27.52819845589408,-21.11174246324401],[27.50652004616325,-21.12219910730289],[27.4952982813906,-21.12474950908251],[27.4876470778504,-21.13648135403122],[27.4817811553761,-21.14413255757142],[27.46902915007524,-21.15331400074052],[27.45882754565474,-21.15586440252014],[27.45831746547867,-21.15943496375252],[27.45959266636851,-21.16683112675503],[27.45398178353253,-21.17218696905331],[27.44709570070609,-21.17601257082345]]],"type":"Polygon"}
+}

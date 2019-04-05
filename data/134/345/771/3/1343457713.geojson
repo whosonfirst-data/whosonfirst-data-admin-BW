@@ -1,0 +1,65 @@
+{
+  "id": 1343457713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.40193,-23.92891,26.40193,-23.92891",
+    "geom:latitude":-23.92891,
+    "geom:longitude":26.40193,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Linchwe",
+    "gn:country_code":"BW",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7863989,
+    "gn:latitude":-23.92891,
+    "gn:longitude":26.40193,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Linchwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7863989
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"73fc96438abd096c704b1de6ec924dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1343457713,
+            "region_id":85669607
+        }
+    ],
+    "wof:id":1343457713,
+    "wof:lastmodified":1536750041,
+    "wof:name":"Linchwe",
+    "wof:parent_id":85669607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.40193,
+    -23.92891,
+    26.40193,
+    -23.92891
+],
+  "geometry": {"coordinates":[26.40193,-23.92891],"type":"Point"}
+}

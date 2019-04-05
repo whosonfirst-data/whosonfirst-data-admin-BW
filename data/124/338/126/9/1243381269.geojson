@@ -1,0 +1,65 @@
+{
+  "id": 1243381269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.21234,-22.42907,28.21234,-22.42907",
+    "geom:latitude":-22.42907,
+    "geom:longitude":28.21234,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mmamaunatlala",
+    "gn:country_code":"BW",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7883617,
+    "gn:latitude":-22.42907,
+    "gn:longitude":28.21234,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Mmamaunatlala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7883617
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"97b524dbef0fd6a2dd6ba946ebdb3d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1243381269,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1243381269,
+    "wof:lastmodified":1536899582,
+    "wof:name":"Mmamaunatlala",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.21234,
+    -22.42907,
+    28.21234,
+    -22.42907
+],
+  "geometry": {"coordinates":[28.21234,-22.42907],"type":"Point"}
+}

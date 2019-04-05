@@ -1,0 +1,65 @@
+{
+  "id": 1327441051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.59825,-22.07369,28.59825,-22.07369",
+    "geom:latitude":-22.07369,
+    "geom:longitude":28.59825,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mhawaneng",
+    "gn:country_code":"BW",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11467688,
+    "gn:latitude":-22.07369,
+    "gn:longitude":28.59825,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Mhawaneng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11467688
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"0263dc3eebdf4a8c94d3549e8989fc5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1327441051,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1327441051,
+    "wof:lastmodified":1536668252,
+    "wof:name":"Mhawaneng",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.59825,
+    -22.07369,
+    28.59825,
+    -22.07369
+],
+  "geometry": {"coordinates":[28.59825,-22.07369],"type":"Point"}
+}

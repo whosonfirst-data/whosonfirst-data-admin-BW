@@ -1,0 +1,67 @@
+{
+  "id": 890454147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.15205,-23.10719,27.15205,-23.10719",
+    "geom:latitude":-23.10719,
+    "geom:longitude":27.15205,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":893,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Shakwe"
+    ],
+    "qs:name":"Shakgwe",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933076,
+        "gp:id":1265699,
+        "qs:id":555026
+    },
+    "wof:country":"BW",
+    "wof:created":1469052888,
+    "wof:geomhash":"095fb2cf95225b2a4dbc5126927618d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890454147,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":890454147,
+    "wof:lastmodified":1505343655,
+    "wof:name":"Shakgwe",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":893,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.15205,
+    -23.10719,
+    27.15205,
+    -23.10719
+],
+  "geometry": {"coordinates":[27.15205,-23.10719],"type":"Point"}
+}

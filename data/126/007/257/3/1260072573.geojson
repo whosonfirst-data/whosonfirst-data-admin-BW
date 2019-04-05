@@ -1,0 +1,65 @@
+{
+  "id": 1260072573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.54759,-24.63576,25.54759,-24.63576",
+    "geom:latitude":-24.63576,
+    "geom:longitude":25.54759,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khudiro",
+    "gn:country_code":"BW",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7752576,
+    "gn:latitude":-24.63576,
+    "gn:longitude":25.54759,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Khudiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7752576
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"fa16566c389ad4ef48c7e577ac67a7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1260072573,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1260072573,
+    "wof:lastmodified":1537003016,
+    "wof:name":"Khudiro",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.54759,
+    -24.63576,
+    25.54759,
+    -24.63576
+],
+  "geometry": {"coordinates":[25.54759,-24.63576],"type":"Point"}
+}

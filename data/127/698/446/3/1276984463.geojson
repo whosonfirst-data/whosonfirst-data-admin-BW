@@ -1,0 +1,65 @@
+{
+  "id": 1276984463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.37837,-22.254,27.37837,-22.254",
+    "geom:latitude":-22.254,
+    "geom:longitude":27.37837,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kolojwana",
+    "gn:country_code":"BW",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7666293,
+    "gn:latitude":-22.254,
+    "gn:longitude":27.37837,
+    "gn:modification_date":"2011-02-09",
+    "gn:name":"Kolojwana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7666293
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"91b2f3f80f2438d009e0d2217dc19bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1276984463,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1276984463,
+    "wof:lastmodified":1536901055,
+    "wof:name":"Kolojwana",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.37837,
+    -22.254,
+    27.37837,
+    -22.254
+],
+  "geometry": {"coordinates":[27.37837,-22.254],"type":"Point"}
+}

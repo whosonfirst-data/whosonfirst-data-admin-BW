@@ -1,0 +1,65 @@
+{
+  "id": 1226762031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.76667,-20.73333,25.76667,-20.73333",
+    "geom:latitude":-20.73333,
+    "geom:longitude":25.76667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Thabatskudu",
+    "gn:country_code":"BW",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933019,
+    "gn:latitude":-20.73333,
+    "gn:longitude":25.76667,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Thabatskudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933019
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"1b6b53c2ee33b8d045cfd93ee814863a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1226762031,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1226762031,
+    "wof:lastmodified":1536692201,
+    "wof:name":"Thabatskudu",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.76667,
+    -20.73333,
+    25.76667,
+    -20.73333
+],
+  "geometry": {"coordinates":[25.76667,-20.73333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310690283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45191,-25.25003,25.45191,-25.25003",
+    "geom:latitude":-25.25003,
+    "geom:longitude":25.45191,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Lokgwathe",
+    "gn:country_code":"BW",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7737585,
+    "gn:latitude":-25.25003,
+    "gn:longitude":25.45191,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lokgwathe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lokgwathi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7737585
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"1e9232a5f6c9c16824a03f69131f12df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1310690283,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1310690283,
+    "wof:lastmodified":1537588934,
+    "wof:name":"Lokgwathe",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45191,
+    -25.25003,
+    25.45191,
+    -25.25003
+],
+  "geometry": {"coordinates":[25.45191,-25.25003],"type":"Point"}
+}

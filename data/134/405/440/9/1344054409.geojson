@@ -1,0 +1,66 @@
+{
+  "id": 1344054409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.48864,-24.17892,25.48864,-24.17892",
+    "geom:latitude":-24.17892,
+    "geom:longitude":25.48864,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Moshaweng",
+    "gn:country_code":"BW",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7909172,
+    "gn:latitude":-24.17892,
+    "gn:longitude":25.48864,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Moshaweng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909172,
+        "wk:page":"Moshaweng"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"42158154585938c261c2c62bfa2f3aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1344054409,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1344054409,
+    "wof:lastmodified":1537488418,
+    "wof:name":"Moshaweng",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.48864,
+    -24.17892,
+    25.48864,
+    -24.17892
+],
+  "geometry": {"coordinates":[25.48864,-24.17892],"type":"Point"}
+}

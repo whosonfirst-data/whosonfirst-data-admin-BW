@@ -1,0 +1,65 @@
+{
+  "id": 1259701511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.83669,-22.54495,26.83669,-22.54495",
+    "geom:latitude":-22.54495,
+    "geom:longitude":26.83669,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jannyane",
+    "gn:country_code":"BW",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662048,
+    "gn:latitude":-22.54495,
+    "gn:longitude":26.83669,
+    "gn:modification_date":"2011-02-09",
+    "gn:name":"Jannyane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662048
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"ee315c5dc49c8e4ed4ac20941df5198f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259701511,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1259701511,
+    "wof:lastmodified":1537039387,
+    "wof:name":"Jannyane",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.83669,
+    -22.54495,
+    26.83669,
+    -22.54495
+],
+  "geometry": {"coordinates":[26.83669,-22.54495],"type":"Point"}
+}

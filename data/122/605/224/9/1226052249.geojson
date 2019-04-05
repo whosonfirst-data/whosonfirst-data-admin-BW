@@ -1,0 +1,65 @@
+{
+  "id": 1226052249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.79335,-21.8082,28.79335,-21.8082",
+    "geom:latitude":-21.8082,
+    "geom:longitude":28.79335,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Moshalalo",
+    "gn:country_code":"BW",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7694644,
+    "gn:latitude":-21.8082,
+    "gn:longitude":28.79335,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Moshalalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7694644
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"010f24c4f1a6a33bb384a095070c9f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1226052249,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1226052249,
+    "wof:lastmodified":1536716011,
+    "wof:name":"Moshalalo",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.79335,
+    -21.8082,
+    28.79335,
+    -21.8082
+],
+  "geometry": {"coordinates":[28.79335,-21.8082],"type":"Point"}
+}

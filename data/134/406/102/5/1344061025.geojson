@@ -1,0 +1,65 @@
+{
+  "id": 1344061025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.78356,-21.7832,26.78356,-21.7832",
+    "geom:latitude":-21.7832,
+    "geom:longitude":26.78356,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Puongwe",
+    "gn:country_code":"BW",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7751774,
+    "gn:latitude":-21.7832,
+    "gn:longitude":26.78356,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Puongwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7751774
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"4fd0b0881dc46931907bc972479e3d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1344061025,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1344061025,
+    "wof:lastmodified":1536873728,
+    "wof:name":"Puongwe",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78356,
+    -21.7832,
+    26.78356,
+    -21.7832
+],
+  "geometry": {"coordinates":[26.78356,-21.7832],"type":"Point"}
+}

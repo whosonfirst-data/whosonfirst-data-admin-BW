@@ -1,0 +1,321 @@
+{
+  "id": 85669607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.683058,
+    "geom:area_square_m":7708022405.788254,
+    "geom:bbox":"25.8862032411,-24.6608461945,26.966601603,-23.5662614887",
+    "geom:latitude":-24.144956,
+    "geom:longitude":26.348682,
+    "gn:population":79665,
+    "iso:country":"BW",
+    "label:eng_x_preferred_longname":[
+        "Kgatleng District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-24.15817,
+    "lbl:longitude":26.340374,
+    "mps:latitude":-24.15817,
+    "mps:longitude":26.340374,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":6.0,
+    "name:afr_x_preferred":[
+        "Kgatleng distrik"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u063a\u0627\u062a\u0644\u0646\u063a"
+    ],
+    "name:ast_x_preferred":[
+        "Kgatleng"
+    ],
+    "name:baq_x_preferred":[
+        "Kgatleng"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0440\u0443\u0433\u0430 \u041a\u0433\u0430\u0442\u043b\u0435\u043d\u0433"
+    ],
+    "name:ben_x_preferred":[
+        "\u0998\u09be\u09b2\u09c7\u0982 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Kgatleng"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u043b\u0430\u0441\u0442 \u041a\u0433\u0430\u0442\u043b\u0435\u043d\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "Districte de Kgatleng"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u7279\u502b\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Kgatleng District"
+    ],
+    "name:dut_x_preferred":[
+        "Kgatleng"
+    ],
+    "name:eng_x_preferred":[
+        "Kgatleng"
+    ],
+    "name:eng_x_variant":[
+        "Kgatleng District"
+    ],
+    "name:fin_x_preferred":[
+        "Kgatleng"
+    ],
+    "name:fre_x_preferred":[
+        "District de Kgatleng"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d2\u10d0\u10e2\u10da\u10d4\u10dc\u10d2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Kgatleng District"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b3\u03ba\u03b1\u03c4\u03bb\u03ad\u03bd\u03b3\u03ba"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0ac7\u0a97\u0abe\u0a9f\u0ab2\u0ac7\u0a82\u0a97 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0948\u091f\u0932\u0947\u0902\u0917 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Kgatleng"
+    ],
+    "name:ita_x_preferred":[
+        "distretto di Kgatleng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30c8\u30ec\u30f3\u5730\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cc6\u0c97\u0ccd\u0cb2\u0cbe\u0c82\u0c97\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\uac00\ud2c0\ub81d \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Khatlenas distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Kgatlengo rajonas"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u0433\u0430\u0442\u043b\u0435\u043d\u0433"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u093f\u0917\u091f\u093e\u0901\u0917 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Kgatleng District"
+    ],
+    "name:nob_x_preferred":[
+        "Kgatleng"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u06af\u0627\u062a\u0644\u0646\u06af"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u06a9\u06af\u0627\u062a\u0644\u0646\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Kgatleng"
+    ],
+    "name:por_x_preferred":[
+        "Kgatleng"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Kgatleng"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0433\u0430\u0442\u043b\u0435\u043d\u0433"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dca\u0d9c\u0da7\u0dca\u0dbd\u0dd9\u0db1\u0dca\u0d9c\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Kgatleng"
+    ],
+    "name:swe_x_preferred":[
+        "Kgatleng"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcd\u0b95\u0b9f\u0bb2\u0bc7\u0b99\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c3e\u0c1f\u0c4d\u0c32\u0c46\u0c02\u0c17\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e04\u0e01\u0e32\u0e17\u0e40\u0e25\u0e19\u0e08\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Kgatleng B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0433\u0430\u0442\u043b\u0435\u043d\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Mochudi"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06af\u0627\u0679\u0644\u06cc\u0646\u06af \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Kgatleng"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BWA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BWA-2646",
+    "ne:adm1_code":"BWA-2646",
+    "ne:admin":"Botswana",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BW.KL",
+    "ne:code_local":"",
+    "ne:datarank":"7",
+    "ne:diss_me":"2646",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BC05",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Botswana",
+    "ne:gn_a1_code":"BW.05",
+    "ne:gn_id":"933654",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Kgatleng District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BC05",
+    "ne:gns_id":"-1397493",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Kgatleng",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BWA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BW-",
+    "ne:iso_a2":"BW",
+    "ne:labelrank":"4",
+    "ne:latitude":"-24.20010000000",
+    "ne:longitude":"26.42630000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Kgatleng",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"KL",
+    "ne:provnum_ne":"1",
+    "ne:region":"",
+    "ne:region_cod":"BW.KL",
+    "ne:region_sub":"Kgatleng",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"4",
+    "ne:sov_a3":"BWA",
+    "ne:sub_code":"",
+    "ne:type":"District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344745,
+    "ne:woe_label":"Kgatleng, BW, Botswana",
+    "ne:woe_name":"Kgatleng",
+    "qs:a0":"Botswana",
+    "qs:a0_lc":"BW",
+    "qs:a1":"Kgatleng",
+    "qs:a1_lc":"BWA-2646",
+    "qs:a1r_lc":"BW.KL",
+    "qs:adm0":"Botswana",
+    "qs:adm0_a3":"BWA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-08-09",
+    "statoids:area_km":"7,960",
+    "statoids:area_mi":"3,063",
+    "statoids:as_of_date":"2011-08-09",
+    "statoids:capital":"Mochudi",
+    "statoids:country":"BW",
+    "statoids:gec":"BC05",
+    "statoids:hasc":"BW.KL",
+    "statoids:iso":"KL",
+    "statoids:name":"Kgatleng",
+    "statoids:population":"91660",
+    "statoids:timezone":"+2",
+    "statoids:type":"district",
+    "unlc:subdivision":"BW-KL",
+    "wof:belongsto":[
+        102191573,
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BC05",
+        "gn:id":933654,
+        "gp:id":2344745,
+        "hasc:id":"BW.KL",
+        "iso:id":"BW-KL",
+        "qs:id":219504,
+        "unlc:id":"BW-KL",
+        "wd:id":"Q57593",
+        "wk:page":"Kgatleng District"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"15a0a2a5577540dc939ae28738aa5027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "region_id":85669607
+        }
+    ],
+    "wof:id":85669607,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng",
+        "tsn"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "tsn"
+    ],
+    "wof:lastmodified":1553550320,
+    "wof:name":"Kgatleng",
+    "wof:parent_id":85632235,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":91660,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:shortcode":"KL",
+    "wof:subdivision":"BW-KL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88620324108678,
+    -24.66084619449623,
+    26.96660160298165,
+    -23.56626148867673
+],
+  "geometry": {"coordinates":[[[26.71747033059131,-23.94789194116009],[26.72150109200186,-23.94494638356872],[26.72506676631826,-23.94138071105095],[26.72806399895444,-23.93481780409832],[26.72961429166628,-23.93393930405557],[26.77612308111537,-23.880505872448],[26.80123782736388,-23.85807830227179],[26.80883426309083,-23.8565796846047],[26.82764448390589,-23.8593185357218],[26.83539594926367,-23.85807830227179],[26.83942671067422,-23.85342742323695],[26.84516279532681,-23.8377694637897],[26.84903852710642,-23.83074146884366],[26.87198286301879,-23.80273284274642],[26.88200809060095,-23.78722991293012],[26.89001793837718,-23.76867807363413],[26.89286014228179,-23.77394907029333],[26.90061160674031,-23.784284356238],[26.90366051621987,-23.78981373441627],[26.92722496885727,-23.76056487396971],[26.93978234198153,-23.75053964548823],[26.95890262205842,-23.74821420642047],[26.9643286483485,-23.7471806776461],[26.96454236503814,-23.74713996983371],[26.96660160298165,-23.75518971783117],[26.93812788889102,-23.80288706478615],[26.94500085420611,-23.82324757831304],[26.94117679837058,-23.85022267653522],[26.87089685070913,-24.11583953736471],[26.86893314594801,-24.16038462295194],[26.84970951308361,-24.24813120429161],[26.83916752246324,-24.2655978388691],[26.82325117969822,-24.27882700556182],[26.80227054944635,-24.28967905544403],[26.71400720237057,-24.31593068415373],[26.69292321843182,-24.32657602846092],[26.68408654745627,-24.34145884155225],[26.62347009307041,-24.39943979850784],[26.55835778838127,-24.43819712259909],[26.5311759854834,-24.45866099071213],[26.50606123833552,-24.4888400271455],[26.47681237788896,-24.55994679800625],[26.46947432547978,-24.57141896551281],[26.40436201989138,-24.63281056715391],[26.40400109227664,-24.63275806743081],[26.38162439045328,-24.62950327435658],[26.36353763825144,-24.62805633443224],[26.34452071096212,-24.62402557392107],[26.32571049014706,-24.62237192752241],[26.27878829044732,-24.62846974558227],[26.16591061678162,-24.66084619449623],[26.16582441586417,-24.6607166480548],[26.15678104021288,-24.64712574615623],[26.11244266109998,-24.60847177485249],[26.03335425329618,-24.55891477559635],[25.95121219208903,-24.50744434997671],[25.93493411591675,-24.49752247518205],[25.91503869038331,-24.48837574584394],[25.9040316099709,-24.48605030677618],[25.89441979263938,-24.47866057662429],[25.88775353379862,-24.4591268862967],[25.88620324108678,-24.43065317130674],[25.90046593565444,-24.37442921263801],[25.91286828004712,-24.34518035219145],[25.92620079862803,-24.32275278111592],[25.95663821837911,-24.1765084770845],[26.0204069350321,-23.56626148867673],[26.71747033059131,-23.94789194116009]]],"type":"Polygon"}
+}

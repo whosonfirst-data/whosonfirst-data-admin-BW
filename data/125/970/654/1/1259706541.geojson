@@ -1,0 +1,65 @@
+{
+  "id": 1259706541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.31722,-24.38856,26.31722,-24.38856",
+    "geom:latitude":-24.38856,
+    "geom:longitude":26.31722,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Segoditshane",
+    "gn:country_code":"BW",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7696605,
+    "gn:latitude":-24.38856,
+    "gn:longitude":26.31722,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Segoditshane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7696605
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"aaaa1fbc6ca1eb95442cb2da5eb4026d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259706541,
+            "region_id":85669607
+        }
+    ],
+    "wof:id":1259706541,
+    "wof:lastmodified":1537032499,
+    "wof:name":"Segoditshane",
+    "wof:parent_id":85669607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.31722,
+    -24.38856,
+    26.31722,
+    -24.38856
+],
+  "geometry": {"coordinates":[26.31722,-24.38856],"type":"Point"}
+}

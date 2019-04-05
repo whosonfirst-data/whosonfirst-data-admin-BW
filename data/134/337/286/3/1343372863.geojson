@@ -1,0 +1,65 @@
+{
+  "id": 1343372863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.03108,-21.18173,27.03108,-21.18173",
+    "geom:latitude":-21.18173,
+    "geom:longitude":27.03108,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dihudi",
+    "gn:country_code":"BW",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7752456,
+    "gn:latitude":-21.18173,
+    "gn:longitude":27.03108,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Dihudi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7752456
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"2f4923435b3d8a51f23766c709cc6e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1343372863,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1343372863,
+    "wof:lastmodified":1536871464,
+    "wof:name":"Dihudi",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.03108,
+    -21.18173,
+    27.03108,
+    -21.18173
+],
+  "geometry": {"coordinates":[27.03108,-21.18173],"type":"Point"}
+}

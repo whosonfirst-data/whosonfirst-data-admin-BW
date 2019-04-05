@@ -1,0 +1,65 @@
+{
+  "id": 1277088823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.78333,-19.71667,25.78333,-19.71667",
+    "geom:latitude":-19.71667,
+    "geom:longitude":25.78333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Metsematluko",
+    "gn:country_code":"BW",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933359,
+    "gn:latitude":-19.71667,
+    "gn:longitude":25.78333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Metsematluko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933359
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"d4b2e21a40a64f36b7928649683c36c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1277088823,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1277088823,
+    "wof:lastmodified":1536758934,
+    "wof:name":"Metsematluko",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.78333,
+    -19.71667,
+    25.78333,
+    -19.71667
+],
+  "geometry": {"coordinates":[25.78333,-19.71667],"type":"Point"}
+}

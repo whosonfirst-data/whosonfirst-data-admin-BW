@@ -1,0 +1,91 @@
+{
+  "id": 890454145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.63625,-25.50639,25.63625,-25.50639",
+    "geom:latitude":-25.50639,
+    "geom:longitude":25.63625,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":804,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0422\u043b\u0445\u0430\u0440\u0435\u0441\u0435\u043b\u0435\u043b\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Tlhareseleele"
+    ],
+    "name:eng_x_preferred":[
+        "Tlhareseleele"
+    ],
+    "name:fre_x_preferred":[
+        "Tlhareseleele"
+    ],
+    "name:ita_x_preferred":[
+        "Tlhareseleele"
+    ],
+    "name:mlg_x_preferred":[
+        "Tlhareseleele"
+    ],
+    "name:pol_x_preferred":[
+        "Tlhareseleele"
+    ],
+    "name:swa_x_preferred":[
+        "Tlhareseleele"
+    ],
+    "name:swe_x_preferred":[
+        "Tlhareseleele"
+    ],
+    "name:unk_x_variant":[
+        "Tlhareseleele"
+    ],
+    "qs:name":"Tlhareselele",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933007,
+        "gp:id":55949027,
+        "qs:id":555025,
+        "wd:id":"Q170904"
+    },
+    "wof:country":"BW",
+    "wof:created":1469052888,
+    "wof:geomhash":"90b52f995abd6e4865d0730005066282",
+    "wof:hierarchy":[
+        {
+            "country_id":85632235,
+            "locality_id":890454145
+        }
+    ],
+    "wof:id":890454145,
+    "wof:lastmodified":1513922323,
+    "wof:name":"Tlhareselele",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":804,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.63625,
+    -25.50639,
+    25.63625,
+    -25.50639
+],
+  "geometry": {"coordinates":[25.63625,-25.50639],"type":"Point"}
+}

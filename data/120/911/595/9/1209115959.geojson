@@ -1,0 +1,61 @@
+{
+  "id": 1209115959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.26667,-18.05,24.26667,-18.05",
+    "geom:latitude":-18.05,
+    "geom:longitude":24.26667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Paranatungu",
+    "gn:country_code":"BW",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933175,
+    "gn:latitude":-18.05,
+    "gn:longitude":24.26667,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Paranatungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933175
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"fe6914300817808d380dce6c9063d9b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632235,
+            "locality_id":1209115959
+        }
+    ],
+    "wof:id":1209115959,
+    "wof:lastmodified":1536297253,
+    "wof:name":"Paranatungu",
+    "wof:parent_id":85632235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.26667,
+    -18.05,
+    24.26667,
+    -18.05
+],
+  "geometry": {"coordinates":[24.26667,-18.05],"type":"Point"}
+}

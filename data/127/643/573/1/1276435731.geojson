@@ -1,0 +1,68 @@
+{
+  "id": 1276435731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.48785,-24.73962,25.48785,-24.73962",
+    "geom:latitude":-24.73962,
+    "geom:longitude":25.48785,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tsopane",
+    "gn:country_code":"BW",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7746973,
+    "gn:latitude":-24.73962,
+    "gn:longitude":25.48785,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tsopane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshopane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7746973
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"08ac1477d55d66d47de3df28c5b8c850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1276435731,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1276435731,
+    "wof:lastmodified":1537588934,
+    "wof:name":"Tsopane",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.48785,
+    -24.73962,
+    25.48785,
+    -24.73962
+],
+  "geometry": {"coordinates":[25.48785,-24.73962],"type":"Point"}
+}

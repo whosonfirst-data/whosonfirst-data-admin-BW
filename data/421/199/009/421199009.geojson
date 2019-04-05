@@ -1,0 +1,118 @@
+{
+  "id": 421199009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.73333,-25.01667,25.73333,-25.01667",
+    "geom:latitude":-25.01667,
+    "geom:longitude":25.73333,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Otse"
+    ],
+    "name:eng_x_preferred":[
+        "Otse"
+    ],
+    "name:fre_x_preferred":[
+        "Otse"
+    ],
+    "name:gre_x_preferred":[
+        "\u038c\u03c4\u03c3\u03b5"
+    ],
+    "name:ita_x_preferred":[
+        "Otse"
+    ],
+    "name:mlg_x_preferred":[
+        "Otse"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u062a\u0633\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Otse"
+    ],
+    "name:spa_x_preferred":[
+        "Otse"
+    ],
+    "name:swa_x_preferred":[
+        "Otse"
+    ],
+    "name:swe_x_preferred":[
+        "Otse"
+    ],
+    "name:tsn_x_preferred":[
+        "Otse"
+    ],
+    "name:unk_x_variant":[
+        "Ootsi"
+    ],
+    "qs:gn_country":"BW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":933184,
+    "qs:gn_pop":6275,
+    "qs:name":"Otse",
+    "qs:name_adm0":"Botswana",
+    "qs:name_adm1":"South-East",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":188782,
+    "qs:woe_adm0":23424755,
+    "qs:woe_id":1265827,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933184,
+        "gp:id":1265827,
+        "qs:id":188782,
+        "wd:id":"Q170659",
+        "wk:page":"Otse"
+    },
+    "wof:country":"BW",
+    "wof:created":1459009974,
+    "wof:geomhash":"6fa2d6a5d1e42d91f803fcbeb7aae840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":421199009,
+            "region_id":85669615
+        }
+    ],
+    "wof:id":421199009,
+    "wof:lastmodified":1513922316,
+    "wof:name":"Otse",
+    "wof:parent_id":85669615,
+    "wof:placetype":"locality",
+    "wof:population":6275,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.73333,
+    -25.01667,
+    25.73333,
+    -25.01667
+],
+  "geometry": {"coordinates":[25.73333,-25.01667],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 890443487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.88333,-24.48333,25.88333,-24.48333",
+    "geom:latitude":-24.48333,
+    "geom:longitude":25.88333,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":6895,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kopong"
+    ],
+    "name:chi_x_preferred":[
+        "\u79d1\u84ec"
+    ],
+    "name:dut_x_preferred":[
+        "Kopong"
+    ],
+    "name:eng_x_preferred":[
+        "Kopong"
+    ],
+    "name:fre_x_preferred":[
+        "Kopong"
+    ],
+    "name:ita_x_preferred":[
+        "Kopong"
+    ],
+    "name:oci_x_preferred":[
+        "Kopong"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0648\u067e\u0648\u0646\u06af\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Kopong"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u043e\u043d\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Kopong"
+    ],
+    "name:swa_x_preferred":[
+        "Kopong"
+    ],
+    "name:swe_x_preferred":[
+        "Kopong"
+    ],
+    "name:tsn_x_preferred":[
+        "Kopong"
+    ],
+    "name:unk_x_variant":[
+        "Kopong Villages"
+    ],
+    "qs:name":"Kopong",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:latitude":"-24.468611111",
+    "wd:longitude":"25.892222222",
+    "wd:wordcount":113,
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933596,
+        "gp:id":12510841,
+        "qs:id":1029416,
+        "wd:id":"Q38870",
+        "wk:page":"Kopong"
+    },
+    "wof:country":"BW",
+    "wof:created":1469052425,
+    "wof:geomhash":"5fbe842a7d3068b20471789e6e3f7e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890443487,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":890443487,
+    "wof:lastmodified":1527787068,
+    "wof:name":"Kopong",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:population":6895,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88333,
+    -24.48333,
+    25.88333,
+    -24.48333
+],
+  "geometry": {"coordinates":[25.88333,-24.48333],"type":"Point"}
+}

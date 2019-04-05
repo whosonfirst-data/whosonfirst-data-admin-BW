@@ -1,0 +1,105 @@
+{
+  "id": 890443509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93333,-21.53333,21.93333,-21.53333",
+    "geom:latitude":-21.53333,
+    "geom:longitude":21.93333,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":1043,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "D'Kar"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u043a\u0430\u0440"
+    ],
+    "name:dut_x_preferred":[
+        "Dekar"
+    ],
+    "name:eng_x_preferred":[
+        "Dekar"
+    ],
+    "name:fre_x_preferred":[
+        "Dekar"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03c4\u03b5\u03ba\u03ac\u03c1"
+    ],
+    "name:ita_x_preferred":[
+        "Dekar"
+    ],
+    "name:mlg_x_preferred":[
+        "Dekar"
+    ],
+    "name:pol_x_preferred":[
+        "Dekar"
+    ],
+    "name:swa_x_preferred":[
+        "Dekar"
+    ],
+    "name:swe_x_preferred":[
+        "Dekar"
+    ],
+    "name:tsn_x_preferred":[
+        "Dekar"
+    ],
+    "qs:name":"Dekar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:latitude":"-21.5333",
+    "wd:longitude":"21.9333",
+    "wd:wordcount":231,
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933815,
+        "gp:id":56618300,
+        "qs:id":1029430,
+        "wd:id":"Q170898",
+        "wk:page":"Dekar"
+    },
+    "wof:country":"BW",
+    "wof:created":1469052426,
+    "wof:geomhash":"b831935cb69274c7c3d1a26ce9c1df3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890443509,
+            "region_id":85669589
+        }
+    ],
+    "wof:id":890443509,
+    "wof:lastmodified":1527787065,
+    "wof:name":"Dekar",
+    "wof:parent_id":85669589,
+    "wof:placetype":"locality",
+    "wof:population":1043,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93333,
+    -21.53333,
+    21.93333,
+    -21.53333
+],
+  "geometry": {"coordinates":[21.93333,-21.53333],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890433519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.11667,-23.48333,27.11667,-23.48333",
+    "geom:latitude":-23.48333,
+    "geom:longitude":27.11667,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":1006,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Makoba",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":236,
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933446,
+        "gp:id":1581065,
+        "qs:id":130127,
+        "wk:page":"Camdeboo Local Municipality"
+    },
+    "wof:country":"BW",
+    "wof:created":1469051983,
+    "wof:geomhash":"3c3da82ea2263d439b07a5d1f38fef71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890433519,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":890433519,
+    "wof:lastmodified":1527792953,
+    "wof:name":"Makoba",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":1006,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.11667,
+    -23.48333,
+    27.11667,
+    -23.48333
+],
+  "geometry": {"coordinates":[27.11667,-23.48333],"type":"Point"}
+}

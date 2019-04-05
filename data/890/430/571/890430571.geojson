@@ -1,0 +1,67 @@
+{
+  "id": 890430571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8414,-22.43338,26.8414,-22.43338",
+    "geom:latitude":-22.43338,
+    "geom:longitude":26.8414,
+    "gn:country":"BW",
+    "gn:fcode":"PPLL",
+    "gn:pop":464,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Masama"
+    ],
+    "qs:name":"Masame",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933403,
+        "gp:id":12523235,
+        "qs:id":83977
+    },
+    "wof:country":"BW",
+    "wof:created":1469051858,
+    "wof:geomhash":"0360f26bdcacd83f90e11fc861cbde59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890430571,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":890430571,
+    "wof:lastmodified":1505343519,
+    "wof:name":"Masame",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":464,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8414,
+    -22.43338,
+    26.8414,
+    -22.43338
+],
+  "geometry": {"coordinates":[26.8414,-22.43338],"type":"Point"}
+}

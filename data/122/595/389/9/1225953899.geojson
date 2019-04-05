@@ -1,0 +1,65 @@
+{
+  "id": 1225953899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.80247,-23.04002,26.80247,-23.04002",
+    "geom:latitude":-23.04002,
+    "geom:longitude":26.80247,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mmitle",
+    "gn:country_code":"BW",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7884615,
+    "gn:latitude":-23.04002,
+    "gn:longitude":26.80247,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Mmitle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7884615
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"a47cf34f12f58e857fb357ac39cd2637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1225953899,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1225953899,
+    "wof:lastmodified":1536856218,
+    "wof:name":"Mmitle",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.80247,
+    -23.04002,
+    26.80247,
+    -23.04002
+],
+  "geometry": {"coordinates":[26.80247,-23.04002],"type":"Point"}
+}

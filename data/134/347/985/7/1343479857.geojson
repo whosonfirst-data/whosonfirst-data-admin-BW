@@ -1,0 +1,65 @@
+{
+  "id": 1343479857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.83046,-24.82769,25.83046,-24.82769",
+    "geom:latitude":-24.82769,
+    "geom:longitude":25.83046,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bojanjwe",
+    "gn:country_code":"BW",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7745124,
+    "gn:latitude":-24.82769,
+    "gn:longitude":25.83046,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Bojanjwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7745124
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"d32aacafe96f2b09e411303bfce7a057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1343479857,
+            "region_id":85669615
+        }
+    ],
+    "wof:id":1343479857,
+    "wof:lastmodified":1536718528,
+    "wof:name":"Bojanjwe",
+    "wof:parent_id":85669615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.83046,
+    -24.82769,
+    25.83046,
+    -24.82769
+],
+  "geometry": {"coordinates":[25.83046,-24.82769],"type":"Point"}
+}

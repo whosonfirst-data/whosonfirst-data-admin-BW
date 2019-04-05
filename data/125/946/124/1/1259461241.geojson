@@ -1,0 +1,66 @@
+{
+  "id": 1259461241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.38472,-19.84,22.38472,-19.84",
+    "geom:latitude":-19.84,
+    "geom:longitude":22.38472,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Habu",
+    "gn:country_code":"BW",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11352132,
+    "gn:latitude":-19.84,
+    "gn:longitude":22.38472,
+    "gn:modification_date":"2017-02-17",
+    "gn:name":"Habu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11352132,
+        "wk:page":"Habu%2C_Botswana"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"edf5c63ce5185da00c8f1dfbc5789455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259461241,
+            "region_id":85669599
+        }
+    ],
+    "wof:id":1259461241,
+    "wof:lastmodified":1537488419,
+    "wof:name":"Habu",
+    "wof:parent_id":85669599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.38472,
+    -19.84,
+    22.38472,
+    -19.84
+],
+  "geometry": {"coordinates":[22.38472,-19.84],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343980157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.88417,-24.53528,25.88417,-24.53528",
+    "geom:latitude":-24.53528,
+    "geom:longitude":25.88417,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Letlhajweng",
+    "gn:country_code":"BW",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1106208,
+    "gn:latitude":-24.53528,
+    "gn:longitude":25.88417,
+    "gn:modification_date":"2001-06-12",
+    "gn:name":"Letlhajweng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106208
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"cdcaf5a59acfd7b712788e2726e6f940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1343980157,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1343980157,
+    "wof:lastmodified":1536990799,
+    "wof:name":"Letlhajweng",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88417,
+    -24.53528,
+    25.88417,
+    -24.53528
+],
+  "geometry": {"coordinates":[25.88417,-24.53528],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 890433515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.65,-20.75,26.65,-20.75",
+    "geom:latitude":-20.75,
+    "geom:longitude":26.65,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":1780,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Mosetse"
+    ],
+    "name:eng_x_preferred":[
+        "Mosetse"
+    ],
+    "name:fre_x_preferred":[
+        "Mosetse"
+    ],
+    "name:ita_x_preferred":[
+        "Mosetse"
+    ],
+    "name:mlg_x_preferred":[
+        "Mosetse"
+    ],
+    "name:pol_x_preferred":[
+        "Mosetse"
+    ],
+    "name:swa_x_preferred":[
+        "Mosetse"
+    ],
+    "name:swe_x_preferred":[
+        "Mosetse"
+    ],
+    "name:tsn_x_preferred":[
+        "Motsana wa Mosetse"
+    ],
+    "qs:name":"Mosetse",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:latitude":"-20.650565",
+    "wd:longitude":"26.650818",
+    "wd:wordcount":106,
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933277,
+        "gp:id":1265790,
+        "qs:id":130123,
+        "wd:id":"Q430624",
+        "wk:page":"Mosetse"
+    },
+    "wof:country":"BW",
+    "wof:created":1469051983,
+    "wof:geomhash":"a2f09abd11171ad393d54a24ce8c0af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890433515,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":890433515,
+    "wof:lastmodified":1527792958,
+    "wof:name":"Mosetse",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":1780,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.65,
+    -20.75,
+    26.65,
+    -20.75
+],
+  "geometry": {"coordinates":[26.65,-20.75],"type":"Point"}
+}

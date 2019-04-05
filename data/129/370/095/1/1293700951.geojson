@@ -1,0 +1,65 @@
+{
+  "id": 1293700951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.841,-21.98219,27.841,-21.98219",
+    "geom:latitude":-21.98219,
+    "geom:longitude":27.841,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Botshabelo North",
+    "gn:country_code":"BW",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10941922,
+    "gn:latitude":-21.98219,
+    "gn:longitude":27.841,
+    "gn:modification_date":"2018-01-24",
+    "gn:name":"Botshabelo North",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10941922
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"5d94cfe6a30639dfa98e7c1f825dee40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1293700951,
+            "region_id":85669645
+        }
+    ],
+    "wof:id":1293700951,
+    "wof:lastmodified":1536976010,
+    "wof:name":"Botshabelo North",
+    "wof:parent_id":85669645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.841,
+    -21.98219,
+    27.841,
+    -21.98219
+],
+  "geometry": {"coordinates":[27.841,-21.98219],"type":"Point"}
+}

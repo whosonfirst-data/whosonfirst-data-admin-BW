@@ -1,0 +1,65 @@
+{
+  "id": 1243438063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.60146,-24.51684,23.60146,-24.51684",
+    "geom:latitude":-24.51684,
+    "geom:longitude":23.60146,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Khalwa",
+    "gn:country_code":"BW",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7890805,
+    "gn:latitude":-24.51684,
+    "gn:longitude":23.60146,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Khalwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890805
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"bc9bb5c4b92fda303c462baa2428fd9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1243438063,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1243438063,
+    "wof:lastmodified":1536816797,
+    "wof:name":"Khalwa",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.60146,
+    -24.51684,
+    23.60146,
+    -24.51684
+],
+  "geometry": {"coordinates":[23.60146,-24.51684],"type":"Point"}
+}

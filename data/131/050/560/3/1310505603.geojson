@@ -1,0 +1,65 @@
+{
+  "id": 1310505603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.56429,-21.04008,26.56429,-21.04008",
+    "geom:latitude":-21.04008,
+    "geom:longitude":26.56429,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tsogae",
+    "gn:country_code":"BW",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7575006,
+    "gn:latitude":-21.04008,
+    "gn:longitude":26.56429,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Tsogae",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7575006
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"a5f2fde9f8142d00f7b655c350c3e3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1310505603,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1310505603,
+    "wof:lastmodified":1536917251,
+    "wof:name":"Tsogae",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.56429,
+    -21.04008,
+    26.56429,
+    -21.04008
+],
+  "geometry": {"coordinates":[26.56429,-21.04008],"type":"Point"}
+}

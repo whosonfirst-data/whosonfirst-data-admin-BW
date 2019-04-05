@@ -1,0 +1,66 @@
+{
+  "id": 1310219413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3366,-21.96128,28.3366,-21.96128",
+    "geom:latitude":-21.96128,
+    "geom:longitude":28.3366,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kweneng",
+    "gn:country_code":"BW",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7651392,
+    "gn:latitude":-21.96128,
+    "gn:longitude":28.3366,
+    "gn:modification_date":"2016-10-04",
+    "gn:name":"Kweneng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7651392,
+        "wk:page":"Kweneng"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"1d273d666c873244a883f481e7907450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1310219413,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1310219413,
+    "wof:lastmodified":1537488416,
+    "wof:name":"Kweneng",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3366,
+    -21.96128,
+    28.3366,
+    -21.96128
+],
+  "geometry": {"coordinates":[28.3366,-21.96128],"type":"Point"}
+}

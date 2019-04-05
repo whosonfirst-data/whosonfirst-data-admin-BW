@@ -1,0 +1,65 @@
+{
+  "id": 1259498177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7,-26.36667,20.7,-26.36667",
+    "geom:latitude":-26.36667,
+    "geom:longitude":20.7,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Stumkies Dam",
+    "gn:country_code":"BW",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933041,
+    "gn:latitude":-26.36667,
+    "gn:longitude":20.7,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Stumkies Dam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933041
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"0a88d5bf1898449d61c1c91e77171a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259498177,
+            "region_id":85669593
+        }
+    ],
+    "wof:id":1259498177,
+    "wof:lastmodified":1536836571,
+    "wof:name":"Stumkies Dam",
+    "wof:parent_id":85669593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7,
+    -26.36667000000001,
+    20.7,
+    -26.36667000000001
+],
+  "geometry": {"coordinates":[20.7,-26.36667000000001],"type":"Point"}
+}

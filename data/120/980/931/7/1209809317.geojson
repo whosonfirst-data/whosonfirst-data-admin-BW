@@ -1,0 +1,65 @@
+{
+  "id": 1209809317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4586,-25.08612,25.4586,-25.08612",
+    "geom:latitude":-25.08612,
+    "geom:longitude":25.4586,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Lotlhakane West",
+    "gn:country_code":"BW",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11288481,
+    "gn:latitude":-25.08612,
+    "gn:longitude":25.4586,
+    "gn:modification_date":"2016-11-21",
+    "gn:name":"Lotlhakane West",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11288481
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"6fe54f1d4e0839c82f4e31839c015891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1209809317,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1209809317,
+    "wof:lastmodified":1536387163,
+    "wof:name":"Lotlhakane West",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4586,
+    -25.08612,
+    25.4586,
+    -25.08612
+],
+  "geometry": {"coordinates":[25.4586,-25.08612],"type":"Point"}
+}

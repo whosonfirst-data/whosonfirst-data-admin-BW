@@ -1,0 +1,65 @@
+{
+  "id": 1360280571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3174,-24.04433,25.3174,-24.04433",
+    "geom:latitude":-24.04433,
+    "geom:longitude":25.3174,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sekono",
+    "gn:country_code":"BW",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7909163,
+    "gn:latitude":-24.04433,
+    "gn:longitude":25.3174,
+    "gn:modification_date":"2011-07-12",
+    "gn:name":"Sekono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909163
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"bfda85cbc35795f6a1fb733c842846ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1360280571,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1360280571,
+    "wof:lastmodified":1536663700,
+    "wof:name":"Sekono",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3174,
+    -24.04433,
+    25.3174,
+    -24.04433
+],
+  "geometry": {"coordinates":[25.3174,-24.04433],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226762421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.78333,-18.26667,21.78333,-18.26667",
+    "geom:latitude":-18.26667,
+    "geom:longitude":21.78333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sehengos",
+    "gn:cc2":"BW",
+    "gn:country_code":"BW",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933110,
+    "gn:latitude":-18.26667,
+    "gn:longitude":21.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sehengos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sehengo",
+        "Sehengos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933110
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"f848d21a7777250e26452930fa4c5be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1226762421,
+            "region_id":85669599
+        }
+    ],
+    "wof:id":1226762421,
+    "wof:lastmodified":1537588931,
+    "wof:name":"Sehengos",
+    "wof:parent_id":85669599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.78333,
+    -18.26667,
+    21.78333,
+    -18.26667
+],
+  "geometry": {"coordinates":[21.78333,-18.26667],"type":"Point"}
+}

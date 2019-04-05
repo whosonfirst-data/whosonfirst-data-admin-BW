@@ -1,0 +1,65 @@
+{
+  "id": 1259667559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.53645,-24.41675,23.53645,-24.41675",
+    "geom:latitude":-24.41675,
+    "geom:longitude":23.53645,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bokhutlo",
+    "gn:country_code":"BW",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889491,
+    "gn:latitude":-24.41675,
+    "gn:longitude":23.53645,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Bokhutlo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889491
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"46ec777f078c6265be2aa4932eb369e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259667559,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1259667559,
+    "wof:lastmodified":1537086773,
+    "wof:name":"Bokhutlo",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.53645,
+    -24.41675,
+    23.53645,
+    -24.41675
+],
+  "geometry": {"coordinates":[23.53645,-24.41675],"type":"Point"}
+}

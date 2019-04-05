@@ -1,0 +1,125 @@
+{
+  "id": 421196705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9,-21.95,27.9,-21.95",
+    "geom:latitude":-21.95,
+    "geom:longitude":27.9,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0422\u043e\u0431\u0430\u043d\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Tobane"
+    ],
+    "name:dut_x_preferred":[
+        "Tobane"
+    ],
+    "name:eng_x_preferred":[
+        "Tobane"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0628\u0627\u0646\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Tobane"
+    ],
+    "name:fre_x_preferred":[
+        "Tobane"
+    ],
+    "name:ita_x_preferred":[
+        "Tobane"
+    ],
+    "name:mlg_x_preferred":[
+        "Tobane"
+    ],
+    "name:nld_x_preferred":[
+        "Tobane"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0648\u0628\u0627\u0646\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Tobane"
+    ],
+    "name:swa_x_preferred":[
+        "Tobane"
+    ],
+    "name:swe_x_preferred":[
+        "Tobane"
+    ],
+    "name:tsn_x_preferred":[
+        "Tobane"
+    ],
+    "qs:gn_country":"BW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":933002,
+    "qs:gn_pop":1925,
+    "qs:name":"Tobane",
+    "qs:name_adm0":"Botswana",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1296327,
+    "qs:woe_adm0":23424755,
+    "qs:woe_id":1265933,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":117,
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933002,
+        "gp:id":1265933,
+        "qs:id":1296327,
+        "wd:id":"Q166947",
+        "wk:page":"Tobane"
+    },
+    "wof:country":"BW",
+    "wof:created":1459009890,
+    "wof:geomhash":"5fe677a4d335c9cfb575e428a5c3676b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":421196705,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":421196705,
+    "wof:lastmodified":1527716365,
+    "wof:name":"Tobane",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":1925,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9,
+    -21.95,
+    27.9,
+    -21.95
+],
+  "geometry": {"coordinates":[27.9,-21.95],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1226544061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.22561,-21.10274,27.22561,-21.10274",
+    "geom:latitude":-21.10274,
+    "geom:longitude":27.22561,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Natale",
+    "gn:country_code":"BW",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7752436,
+    "gn:latitude":-21.10274,
+    "gn:longitude":27.22561,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Natale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7752436,
+        "wk:page":"Natale"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"0b650b88d76786618454b04e4f804fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1226544061,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1226544061,
+    "wof:lastmodified":1537488417,
+    "wof:name":"Natale",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.22561,
+    -21.10274,
+    27.22561,
+    -21.10274
+],
+  "geometry": {"coordinates":[27.22561,-21.10274],"type":"Point"}
+}

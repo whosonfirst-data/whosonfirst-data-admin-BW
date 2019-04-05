@@ -1,0 +1,65 @@
+{
+  "id": 1276232627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.51746,-24.32035,26.51746,-24.32035",
+    "geom:latitude":-24.32035,
+    "geom:longitude":26.51746,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dikeletsane",
+    "gn:country_code":"BW",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7735593,
+    "gn:latitude":-24.32035,
+    "gn:longitude":26.51746,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Dikeletsane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7735593
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"61c601785b62191b46855fc49126da3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1276232627,
+            "region_id":85669607
+        }
+    ],
+    "wof:id":1276232627,
+    "wof:lastmodified":1536914146,
+    "wof:name":"Dikeletsane",
+    "wof:parent_id":85669607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.51746,
+    -24.32035,
+    26.51746,
+    -24.32035
+],
+  "geometry": {"coordinates":[26.51746,-24.32035],"type":"Point"}
+}

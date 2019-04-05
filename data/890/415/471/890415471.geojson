@@ -1,0 +1,64 @@
+{
+  "id": 890415471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.83139,-24.63222,25.83139,-24.63222",
+    "geom:latitude":-24.63222,
+    "geom:longitude":25.83139,
+    "gn:country":"BW",
+    "gn:fcode":"PPLL",
+    "gn:pop":1578,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Nkoyaphiri",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106215,
+        "gp:id":1265760,
+        "qs:id":130560
+    },
+    "wof:country":"BW",
+    "wof:created":1469051090,
+    "wof:geomhash":"43777b667cb6e0ab879a0b2c12b63dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890415471,
+            "region_id":85669615
+        }
+    ],
+    "wof:id":890415471,
+    "wof:lastmodified":1505343426,
+    "wof:name":"Nkoyaphiri",
+    "wof:parent_id":85669615,
+    "wof:placetype":"locality",
+    "wof:population":1578,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.83139,
+    -24.63222,
+    25.83139,
+    -24.63222
+],
+  "geometry": {"coordinates":[25.83139,-24.63222],"type":"Point"}
+}

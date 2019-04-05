@@ -1,0 +1,65 @@
+{
+  "id": 1259592837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.09758,-20.83849,27.09758,-20.83849",
+    "geom:latitude":-20.83849,
+    "geom:longitude":27.09758,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Makale",
+    "gn:country_code":"BW",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7570918,
+    "gn:latitude":-20.83849,
+    "gn:longitude":27.09758,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Makale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7570918
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"a406ec313de52ceb577d99be670eb5e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259592837,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1259592837,
+    "wof:lastmodified":1536701501,
+    "wof:name":"Makale",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.09758,
+    -20.83849,
+    27.09758,
+    -20.83849
+],
+  "geometry": {"coordinates":[27.09758,-20.83849],"type":"Point"}
+}

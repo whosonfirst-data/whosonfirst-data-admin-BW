@@ -1,0 +1,65 @@
+{
+  "id": 1343366427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63333,-21.68333,21.63333,-21.68333",
+    "geom:latitude":-21.68333,
+    "geom:longitude":21.63333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khemsbok",
+    "gn:country_code":"BW",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933644,
+    "gn:latitude":-21.68333,
+    "gn:longitude":21.63333,
+    "gn:modification_date":"2014-10-29",
+    "gn:name":"Khemsbok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933644
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"2037ca162e817dab23d62c890dad55fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1343366427,
+            "region_id":85669589
+        }
+    ],
+    "wof:id":1343366427,
+    "wof:lastmodified":1536881113,
+    "wof:name":"Khemsbok",
+    "wof:parent_id":85669589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63333,
+    -21.68333,
+    21.63333,
+    -21.68333
+],
+  "geometry": {"coordinates":[21.63333,-21.68333],"type":"Point"}
+}

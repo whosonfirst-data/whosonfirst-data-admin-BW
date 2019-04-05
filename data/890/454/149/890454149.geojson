@@ -1,0 +1,97 @@
+{
+  "id": 890454149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.45058,-22.57234,27.45058,-22.57234",
+    "geom:latitude":-22.57234,
+    "geom:longitude":27.45058,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":546,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0440\u0435\u043c\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Moremi"
+    ],
+    "name:eng_x_preferred":[
+        "Moremi"
+    ],
+    "name:fre_x_preferred":[
+        "Moremi"
+    ],
+    "name:ita_x_preferred":[
+        "Moremi"
+    ],
+    "name:mlg_x_preferred":[
+        "Moremi"
+    ],
+    "name:pol_x_preferred":[
+        "Moremi"
+    ],
+    "name:swa_x_preferred":[
+        "Moremi"
+    ],
+    "name:swe_x_preferred":[
+        "Moremi"
+    ],
+    "name:unk_x_variant":[
+        "Horeme"
+    ],
+    "qs:name":"Moremi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933284,
+        "gp:id":1265737,
+        "qs:id":555027,
+        "wd:id":"Q170824",
+        "wk:page":"Moremi"
+    },
+    "wof:country":"BW",
+    "wof:created":1469052888,
+    "wof:geomhash":"08997f274016c6c839bed705f78fd01f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890454149,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":890454149,
+    "wof:lastmodified":1527735431,
+    "wof:name":"Moremi",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":546,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.45058,
+    -22.57234,
+    27.45058,
+    -22.57234
+],
+  "geometry": {"coordinates":[27.45058,-22.57234],"type":"Point"}
+}

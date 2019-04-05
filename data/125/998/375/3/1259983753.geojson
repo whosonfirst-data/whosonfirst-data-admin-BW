@@ -1,0 +1,65 @@
+{
+  "id": 1259983753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6625,-22.3483,26.6625,-22.3483",
+    "geom:latitude":-22.3483,
+    "geom:longitude":26.6625,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gamoleta",
+    "gn:country_code":"BW",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7659477,
+    "gn:latitude":-22.3483,
+    "gn:longitude":26.6625,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Gamoleta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7659477
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"559c17c257f53ad3e351a53a001d9291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259983753,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1259983753,
+    "wof:lastmodified":1536633343,
+    "wof:name":"Gamoleta",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6625,
+    -22.3483,
+    26.6625,
+    -22.3483
+],
+  "geometry": {"coordinates":[26.6625,-22.3483],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 890420081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9275,-24.53778,25.9275,-24.53778",
+    "geom:latitude":-24.53778,
+    "geom:longitude":25.9275,
+    "gn:country":"BW",
+    "gn:fcode":"PPLL",
+    "gn:pop":544,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kgaphamadi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106211,
+        "gp:id":12510841,
+        "qs:id":84151
+    },
+    "wof:country":"BW",
+    "wof:created":1469051316,
+    "wof:geomhash":"048465f536c903efd6d66695610c3109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890420081,
+            "region_id":85669631
+        }
+    ],
+    "wof:id":890420081,
+    "wof:lastmodified":1505343454,
+    "wof:name":"Kgaphamadi",
+    "wof:parent_id":85669631,
+    "wof:placetype":"locality",
+    "wof:population":544,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9275,
+    -24.53778,
+    25.9275,
+    -24.53778
+],
+  "geometry": {"coordinates":[25.9275,-24.53778],"type":"Point"}
+}

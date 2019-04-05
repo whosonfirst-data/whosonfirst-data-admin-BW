@@ -1,0 +1,65 @@
+{
+  "id": 1243189985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.58695,-21.82983,26.58695,-21.82983",
+    "geom:latitude":-21.82983,
+    "geom:longitude":26.58695,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sowa",
+    "gn:country_code":"BW",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7761259,
+    "gn:latitude":-21.82983,
+    "gn:longitude":26.58695,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Sowa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7761259
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"7a056da95bd9e392b7b25f84e97c2276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1243189985,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1243189985,
+    "wof:lastmodified":1536678291,
+    "wof:name":"Sowa",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.58695,
+    -21.82983,
+    26.58695,
+    -21.82983
+],
+  "geometry": {"coordinates":[26.58695,-21.82983],"type":"Point"}
+}

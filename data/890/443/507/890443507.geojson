@@ -1,0 +1,67 @@
+{
+  "id": 890443507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.41667,-20.58333,26.41667,-20.58333",
+    "geom:latitude":-20.58333,
+    "geom:longitude":26.41667,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":2037,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Dukwe Quarantine Camp"
+    ],
+    "qs:name":"Dukwe",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933790,
+        "gp:id":1265790,
+        "qs:id":1029429
+    },
+    "wof:country":"BW",
+    "wof:created":1469052426,
+    "wof:geomhash":"b273e17287b47c0a7a4985917c8eb253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890443507,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":890443507,
+    "wof:lastmodified":1505343594,
+    "wof:name":"Dukwe",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":2037,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.41667,
+    -20.58333,
+    26.41667,
+    -20.58333
+],
+  "geometry": {"coordinates":[26.41667,-20.58333],"type":"Point"}
+}

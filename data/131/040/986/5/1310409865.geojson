@@ -1,0 +1,65 @@
+{
+  "id": 1310409865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.55305,-22.72156,26.55305,-22.72156",
+    "geom:latitude":-22.72156,
+    "geom:longitude":26.55305,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ruthwane",
+    "gn:country_code":"BW",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7659464,
+    "gn:latitude":-22.72156,
+    "gn:longitude":26.55305,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Ruthwane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7659464
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"8fac77bb13292fcb7873af933005b518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1310409865,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1310409865,
+    "wof:lastmodified":1537052698,
+    "wof:name":"Ruthwane",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.55305,
+    -22.72156,
+    26.55305,
+    -22.72156
+],
+  "geometry": {"coordinates":[26.55305,-22.72156],"type":"Point"}
+}

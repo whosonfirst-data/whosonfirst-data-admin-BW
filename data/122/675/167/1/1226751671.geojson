@@ -1,0 +1,65 @@
+{
+  "id": 1226751671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.34492,-21.2018,27.34492,-21.2018",
+    "geom:latitude":-21.2018,
+    "geom:longitude":27.34492,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mooke",
+    "gn:country_code":"BW",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7754472,
+    "gn:latitude":-21.2018,
+    "gn:longitude":27.34492,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mooke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7754472
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"175796e5802e7187e81d4f47a95f6eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1226751671,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1226751671,
+    "wof:lastmodified":1536707216,
+    "wof:name":"Mooke",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.34492,
+    -21.2018,
+    27.34492,
+    -21.2018
+],
+  "geometry": {"coordinates":[27.34492,-21.2018],"type":"Point"}
+}

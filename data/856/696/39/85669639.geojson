@@ -1,0 +1,289 @@
+{
+  "id": 85669639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001758,
+    "geom:area_square_m":19664371.889014,
+    "geom:bbox":"25.6593412699,-25.2389663489,25.7055965467,-25.171810539",
+    "geom:latitude":-25.210169,
+    "geom:longitude":25.685218,
+    "iso:country":"BW",
+    "label:eng_x_preferred_longname":[
+        "Lobatse Town"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "town"
+    ],
+    "lbl:latitude":-25.220214,
+    "lbl:longitude":25.683641,
+    "mps:latitude":-25.220214,
+    "mps:longitude":25.683641,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":6.0,
+    "name:afr_x_preferred":[
+        "Lobatse"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629 \u0627\u0644\u062c\u0646\u0648\u0628 \u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:ast_x_preferred":[
+        "Distritu sureste"
+    ],
+    "name:baq_x_preferred":[
+        "Hego-ekialdea"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u0430-\u0443\u0441\u0445\u043e\u0434\u043d\u044f\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u0989\u09a5 \u0987\u09b8\u09cd\u099f \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Lobatse"
+    ],
+    "name:bul_x_preferred":[
+        "\u042e\u0433\u043e\u0438\u0437\u0442\u043e\u0447\u043d\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Districte del Sud-est"
+    ],
+    "name:ceb_x_preferred":[
+        "Lobatse"
+    ],
+    "name:chi_x_preferred":[
+        "\u6771\u5357\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "South-East District"
+    ],
+    "name:deu_x_preferred":[
+        "Lobatse"
+    ],
+    "name:dut_x_preferred":[
+        "South-East"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03bc\u03c0\u03ac\u03c4\u03c3\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "South-East"
+    ],
+    "name:est_x_preferred":[
+        "Lobatse"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0628\u0627\u062a\u0633\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Lobatse"
+    ],
+    "name:fra_x_preferred":[
+        "Lobatse"
+    ],
+    "name:fre_x_preferred":[
+        "District du Sud-Est"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7-\u10d0\u10e6\u10db\u10dd\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "South-East District"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03bf\u03c4\u03b9\u03bf\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3-\u0aaa\u0ac2\u0ab0\u0acd\u0ab5 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u0915\u094d\u0937\u093f\u0923-\u092a\u0942\u0930\u094d\u0935 \u091c\u093f\u0932\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Lobatse"
+    ],
+    "name:ind_x_preferred":[
+        "Lobatse"
+    ],
+    "name:ita_x_preferred":[
+        "Lobatse"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30d0\u30c4\u30a7"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0c97\u0ccd\u0ca8\u0cc7\u0caf \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\ubc14\uccb4"
+    ],
+    "name:lav_x_preferred":[
+        "Dienvidaustrumu distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Pietry\u010di\u0173 rajonas"
+    ],
+    "name:mac_x_preferred":[
+        "\u0408\u0443\u0433\u043e\u0438\u0441\u0442\u043e\u0447\u0435\u043d \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:mar_x_preferred":[
+        "\u0926\u0915\u094d\u0937\u093f\u0923-\u092a\u0942\u0930\u094d\u0935 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "South-East District"
+    ],
+    "name:nld_x_preferred":[
+        "Lobatse"
+    ],
+    "name:nob_x_preferred":[
+        "South-East"
+    ],
+    "name:nor_x_preferred":[
+        "Lobatse"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u062c\u0646\u0648\u0628 \u0634\u0631\u0642\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Lobatse"
+    ],
+    "name:por_x_preferred":[
+        "Lobatse"
+    ],
+    "name:ron_x_preferred":[
+        "Lobatse"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul South-East"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0431\u0430\u0446\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito Sudeste"
+    ],
+    "name:swe_x_preferred":[
+        "Lobatse"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 -\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c06\u0c17\u0c4d\u0c28\u0c47\u0c2f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e32\u0e17\u0e4c \u0e2d\u0e35\u0e2a \u0e14\u0e34\u0e2a\u0e17\u0e23\u0e34\u0e04"
+    ],
+    "name:tsn_x_preferred":[
+        "Lobatse"
+    ],
+    "name:tur_x_preferred":[
+        "G\u00fcneydo\u011fu B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u043e-\u0421\u0445\u0456\u0434\u043d\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0628\u0627\u0679\u0633\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn \u0110\u00f4ng-Nam"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u5df4\u7b56"
+    ],
+    "qs:a0":"Botswana",
+    "qs:a0_lc":"BW",
+    "qs:a1":"Lobatse",
+    "qs:a1_lc":"BWA-5503",
+    "qs:a1r_lc":"BW.SE",
+    "qs:adm0":"Botswana",
+    "qs:adm0_a3":"BWA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Town",
+    "qs:woeid":2344749,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "src:population:date":"2011-08-09",
+    "statoids:area_km":"42",
+    "statoids:area_mi":"16",
+    "statoids:as_of_date":"2011-08-09",
+    "statoids:capital":"",
+    "statoids:country":"BW",
+    "statoids:gec":"BC16",
+    "statoids:hasc":"BW.LB",
+    "statoids:iso":"LO",
+    "statoids:name":"Lobatse",
+    "statoids:population":"29007",
+    "statoids:timezone":"+2",
+    "statoids:type":"town",
+    "unlc:subdivision":"BW-LO",
+    "wd:elevation":1188.0,
+    "wd:latitude":-25.216667,
+    "wd:longitude":25.666667,
+    "wd:population":29700,
+    "wd:wordcount":351,
+    "wof:belongsto":[
+        102191573,
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BC16",
+        "gp:id":2344749,
+        "hasc:id":"BW.LB",
+        "iso:id":"BW-LO",
+        "unlc:id":"BW-LO",
+        "wd:id":"Q57695"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"0d8b6d32c6f0c7c5ba5ea0d3f1525216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "region_id":85669639
+        }
+    ],
+    "wof:id":85669639,
+    "wof:lang_x_official":[
+        "eng",
+        "tsn"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "tsn"
+    ],
+    "wof:lastmodified":1553550321,
+    "wof:name":"Lobatse",
+    "wof:parent_id":85632235,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"town",
+    "wof:population":29700,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:shortcode":"LB",
+    "wof:subdivision":"BW-LO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.65934126988373,
+    -25.23896634891781,
+    25.70559654674327,
+    -25.1718105390251
+],
+  "geometry": {"coordinates":[[[25.65934126988373,-25.23862371711078],[25.65968390169076,-25.23588266355404],[25.66790706236111,-25.22526108113397],[25.6713333786326,-25.21395423599915],[25.67167601043957,-25.19853581007953],[25.67715811755312,-25.18106159421717],[25.68092706563164,-25.1718105390251],[25.68572390913113,-25.17283843444613],[25.68743706816622,-25.18311738505923],[25.699086545108,-25.18106159421717],[25.70079970324377,-25.18825686036575],[25.70559654674327,-25.19271107205827],[25.69942917691503,-25.19887844188656],[25.70045707143674,-25.20367528538605],[25.69360443799445,-25.20881476069263],[25.69634549155126,-25.21463949961316],[25.70491128312926,-25.21429686780618],[25.70525391493629,-25.22423318661225],[25.699086545108,-25.23382687361129],[25.68743706816622,-25.23896634891781],[25.68058443382461,-25.23451213632598],[25.66996285230385,-25.23759582168975],[25.65934126988373,-25.23862371711078]]],"type":"Polygon"}
+}

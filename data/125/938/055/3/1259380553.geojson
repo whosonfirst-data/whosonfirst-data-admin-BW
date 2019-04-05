@@ -1,0 +1,65 @@
+{
+  "id": 1259380553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.48961,-24.48258,25.48961,-24.48258",
+    "geom:latitude":-24.48258,
+    "geom:longitude":25.48961,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gamorahei",
+    "gn:country_code":"BW",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7908238,
+    "gn:latitude":-24.48258,
+    "gn:longitude":25.48961,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Gamorahei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908238
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"96359ba9cc5bf6f00cadf28af4293938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259380553,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1259380553,
+    "wof:lastmodified":1537005809,
+    "wof:name":"Gamorahei",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.48961,
+    -24.48258,
+    25.48961,
+    -24.48258
+],
+  "geometry": {"coordinates":[25.48961,-24.48258],"type":"Point"}
+}

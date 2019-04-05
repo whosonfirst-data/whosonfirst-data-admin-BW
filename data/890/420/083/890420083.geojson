@@ -1,0 +1,84 @@
+{
+  "id": 890420083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.87444,-24.58722,25.87444,-24.58722",
+    "geom:latitude":-24.58722,
+    "geom:longitude":25.87444,
+    "gn:country":"BW",
+    "gn:fcode":"PPLL",
+    "gn:pop":865,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0414\u0443\u043c\u0430\u0434\u0443\u043c\u0430\u043d\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Dumadumana"
+    ],
+    "name:eng_x_preferred":[
+        "Dumadumana"
+    ],
+    "name:swe_x_preferred":[
+        "Dumadumana"
+    ],
+    "name:tsn_x_preferred":[
+        "Dumadumana"
+    ],
+    "qs:name":"Dumadumana",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:latitude":"-24.577383333",
+    "wd:longitude":"25.865172222",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106214,
+        "gp:id":1265760,
+        "qs:id":84152,
+        "wd:id":"Q5313598",
+        "wk:page":"Dumadumana"
+    },
+    "wof:country":"BW",
+    "wof:created":1469051316,
+    "wof:geomhash":"98148c2ec0df51d07ef2372c77bbec37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890420083,
+            "region_id":85669631
+        }
+    ],
+    "wof:id":890420083,
+    "wof:lastmodified":1527792807,
+    "wof:name":"Dumadumana",
+    "wof:parent_id":85669631,
+    "wof:placetype":"locality",
+    "wof:population":865,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.87444,
+    -24.58722,
+    25.87444,
+    -24.58722
+],
+  "geometry": {"coordinates":[25.87444,-24.58722],"type":"Point"}
+}

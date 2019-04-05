@@ -1,0 +1,124 @@
+{
+  "id": 421180385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.96667,-22.18333,27.96667,-22.18333",
+    "geom:latitude":-22.18333,
+    "geom:longitude":27.96667,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sefophe"
+    ],
+    "name:dut_x_preferred":[
+        "Sefophe"
+    ],
+    "name:eng_x_preferred":[
+        "Sefophe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0641\u0648\u067e\u0647\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Sefophe"
+    ],
+    "name:fre_x_preferred":[
+        "Sefophe"
+    ],
+    "name:ita_x_preferred":[
+        "Sefophe"
+    ],
+    "name:mlg_x_preferred":[
+        "Sefophe"
+    ],
+    "name:nld_x_preferred":[
+        "Sefophe"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0641\u0648\u067e\u0647\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Sefophe"
+    ],
+    "name:swa_x_preferred":[
+        "Sefophe"
+    ],
+    "name:swe_x_preferred":[
+        "Sefophe"
+    ],
+    "name:tsn_x_preferred":[
+        "Sefophe"
+    ],
+    "qs:gn_country":"BW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":933112,
+    "qs:gn_pop":4114,
+    "qs:name":"Sefophe",
+    "qs:name_adm0":"Botswana",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":428996,
+    "qs:woe_adm0":23424755,
+    "qs:woe_id":1265869,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-22.183333,
+    "wd:longitude":27.966667,
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933112,
+        "gp:id":1265869,
+        "qs:id":428996,
+        "wd:id":"Q166828",
+        "wk:page":"Sefophe"
+    },
+    "wof:country":"BW",
+    "wof:created":1459009254,
+    "wof:geomhash":"c56566c72f92b2412e6a1a0c23c842bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":421180385,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":421180385,
+    "wof:lastmodified":1527716237,
+    "wof:name":"Sefophe",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":4114,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.96667,
+    -22.18333,
+    27.96667,
+    -22.18333
+],
+  "geometry": {"coordinates":[27.96667,-22.18333],"type":"Point"}
+}

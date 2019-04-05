@@ -1,0 +1,66 @@
+{
+  "id": 1242576593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.07287,-24.37306,26.07287,-24.37306",
+    "geom:latitude":-24.37306,
+    "geom:longitude":26.07287,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rasesa",
+    "gn:country_code":"BW",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353058,
+    "gn:latitude":-24.37306,
+    "gn:longitude":26.07287,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Rasesa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353058,
+        "wk:page":"Rasesa"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"6c5241f9404f1cc15e27b62dc8e1ca53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1242576593,
+            "region_id":85669607
+        }
+    ],
+    "wof:id":1242576593,
+    "wof:lastmodified":1537488419,
+    "wof:name":"Rasesa",
+    "wof:parent_id":85669607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.07287,
+    -24.37306,
+    26.07287,
+    -24.37306
+],
+  "geometry": {"coordinates":[26.07287,-24.37306],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1344271753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.51667,-18.8,25.51667,-18.8",
+    "geom:latitude":-18.8,
+    "geom:longitude":25.51667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sebe",
+    "gn:country_code":"BW",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933119,
+    "gn:latitude":-18.8,
+    "gn:longitude":25.51667,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Sebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933119
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"d002930ae961b8accee07c4677ba3e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1344271753,
+            "region_id":85669599
+        }
+    ],
+    "wof:id":1344271753,
+    "wof:lastmodified":1537064876,
+    "wof:name":"Sebe",
+    "wof:parent_id":85669599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.51667,
+    -18.8,
+    25.51667,
+    -18.8
+],
+  "geometry": {"coordinates":[25.51667,-18.8],"type":"Point"}
+}

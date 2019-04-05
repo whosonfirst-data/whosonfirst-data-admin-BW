@@ -1,0 +1,65 @@
+{
+  "id": 1276144451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5958,-24.44507,25.5958,-24.44507",
+    "geom:latitude":-24.44507,
+    "geom:longitude":25.5958,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ngopelathagadi",
+    "gn:country_code":"BW",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7909149,
+    "gn:latitude":-24.44507,
+    "gn:longitude":25.5958,
+    "gn:modification_date":"2011-07-12",
+    "gn:name":"Ngopelathagadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909149
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"f49953497a9130a43581670a0930da9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1276144451,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1276144451,
+    "wof:lastmodified":1537030514,
+    "wof:name":"Ngopelathagadi",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5958,
+    -24.44507,
+    25.5958,
+    -24.44507
+],
+  "geometry": {"coordinates":[25.5958,-24.44507],"type":"Point"}
+}

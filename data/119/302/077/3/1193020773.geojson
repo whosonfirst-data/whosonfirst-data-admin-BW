@@ -1,0 +1,65 @@
+{
+  "id": 1193020773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.96816,-24.15208,25.96816,-24.15208",
+    "geom:latitude":-24.15208,
+    "geom:longitude":25.96816,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tibitshwane",
+    "gn:country_code":"BW",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7908683,
+    "gn:latitude":-24.15208,
+    "gn:longitude":25.96816,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tibitshwane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908683
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"a1cc8f5f6a2375264b43d8a01fb4a19c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1193020773,
+            "region_id":85669607
+        }
+    ],
+    "wof:id":1193020773,
+    "wof:lastmodified":1536373484,
+    "wof:name":"Tibitshwane",
+    "wof:parent_id":85669607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.96816,
+    -24.15208,
+    25.96816,
+    -24.15208
+],
+  "geometry": {"coordinates":[25.96816,-24.15208],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1225948433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.16146,-23.30715,26.16146,-23.30715",
+    "geom:latitude":-23.30715,
+    "geom:longitude":26.16146,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Masokwe",
+    "gn:country_code":"BW",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7884239,
+    "gn:latitude":-23.30715,
+    "gn:longitude":26.16146,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Masokwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7884239
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"e5cfb7600c49fc6b21f02b6a316cba6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1225948433,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1225948433,
+    "wof:lastmodified":1536864083,
+    "wof:name":"Masokwe",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.16146,
+    -23.30715,
+    26.16146,
+    -23.30715
+],
+  "geometry": {"coordinates":[26.16146,-23.30715],"type":"Point"}
+}

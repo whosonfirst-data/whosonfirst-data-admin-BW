@@ -1,0 +1,65 @@
+{
+  "id": 1276882865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.98169,-22.40716,27.98169,-22.40716",
+    "geom:latitude":-22.40716,
+    "geom:longitude":27.98169,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Seoka-Masung",
+    "gn:country_code":"BW",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7768430,
+    "gn:latitude":-22.40716,
+    "gn:longitude":27.98169,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Seoka-Masung",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7768430
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"2484d1409dd1f18be55ae67ab07b9688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1276882865,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1276882865,
+    "wof:lastmodified":1537035473,
+    "wof:name":"Seoka-Masung",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.98169,
+    -22.40716,
+    27.98169,
+    -22.40716
+],
+  "geometry": {"coordinates":[27.98169,-22.40716],"type":"Point"}
+}

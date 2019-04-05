@@ -1,0 +1,251 @@
+{
+  "id": 85669631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.025424,
+    "geom:area_square_m":285806302.021312,
+    "geom:bbox":"25.8349279144,-24.7161703716,26.0333542533,-24.50744435",
+    "geom:latitude":-24.61903,
+    "geom:longitude":25.931178,
+    "iso:country":"BW",
+    "label:eng_x_preferred_longname":[
+        "Gaborone City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
+    "lbl:latitude":-24.618994,
+    "lbl:longitude":25.929288,
+    "mps:latitude":-24.618994,
+    "mps:longitude":25.929288,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":6.0,
+    "name:afr_x_preferred":[
+        "Suid-Oos distrik"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629 \u0627\u0644\u062c\u0646\u0648\u0628 \u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:ast_x_preferred":[
+        "Distritu sureste"
+    ],
+    "name:baq_x_preferred":[
+        "Hego-ekialdea"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u0430-\u0443\u0441\u0445\u043e\u0434\u043d\u044f\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u0989\u09a5 \u0987\u09b8\u09cd\u099f \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "South-East"
+    ],
+    "name:bul_x_preferred":[
+        "\u042e\u0433\u043e\u0438\u0437\u0442\u043e\u0447\u043d\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Districte del Sud-est"
+    ],
+    "name:chi_x_preferred":[
+        "\u6771\u5357\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "South-East District"
+    ],
+    "name:dut_x_preferred":[
+        "South-East"
+    ],
+    "name:eng_x_preferred":[
+        "South-East"
+    ],
+    "name:fin_x_preferred":[
+        "South-East District"
+    ],
+    "name:fre_x_preferred":[
+        "District du Sud-Est"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7-\u10d0\u10e6\u10db\u10dd\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "South-East District"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03bf\u03c4\u03b9\u03bf\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3-\u0aaa\u0ac2\u0ab0\u0acd\u0ab5 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u0915\u094d\u0937\u093f\u0923-\u092a\u0942\u0930\u094d\u0935 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Tenggara"
+    ],
+    "name:ita_x_preferred":[
+        "distretto Sudorientale"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30a6\u30b9\u30a4\u30fc\u30b9\u30c8\u5730\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0c97\u0ccd\u0ca8\u0cc7\u0caf \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub0a8\ub3d9\ubd80 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Dienvidaustrumu distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Pietry\u010di\u0173 rajonas"
+    ],
+    "name:mac_x_preferred":[
+        "\u0408\u0443\u0433\u043e\u0438\u0441\u0442\u043e\u0447\u0435\u043d \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:mar_x_preferred":[
+        "\u0926\u0915\u094d\u0937\u093f\u0923-\u092a\u0942\u0930\u094d\u0935 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "South-East District"
+    ],
+    "name:nob_x_preferred":[
+        "South-East"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u062c\u0646\u0648\u0628 \u0634\u0631\u0642\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Po\u0142udniowo-Wschodni"
+    ],
+    "name:por_x_preferred":[
+        "Sudeste"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul South-East"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0433\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:sin_x_preferred":[
+        "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito Sudeste"
+    ],
+    "name:swe_x_preferred":[
+        "Southeast"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 -\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c06\u0c17\u0c4d\u0c28\u0c47\u0c2f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e32\u0e17\u0e4c \u0e2d\u0e35\u0e2a \u0e14\u0e34\u0e2a\u0e17\u0e23\u0e34\u0e04"
+    ],
+    "name:tur_x_preferred":[
+        "G\u00fcneydo\u011fu B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u043e-\u0421\u0445\u0456\u0434\u043d\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u0648\u0628-\u0645\u0634\u0631\u0642\u06cc \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn \u0110\u00f4ng-Nam"
+    ],
+    "qs:a0":"Botswana",
+    "qs:a0_lc":"BW",
+    "qs:a1":"Gaborone",
+    "qs:a1_lc":"BWA-5501",
+    "qs:a1r_lc":"BW.SE",
+    "qs:adm0":"Botswana",
+    "qs:adm0_a3":"BWA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"City",
+    "qs:woeid":2344749,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-08-09",
+    "statoids:area_km":"169",
+    "statoids:area_mi":"65",
+    "statoids:as_of_date":"2011-08-09",
+    "statoids:capital":"",
+    "statoids:country":"BW",
+    "statoids:gec":"BC14",
+    "statoids:hasc":"BW.GB",
+    "statoids:iso":"GA",
+    "statoids:name":"Gaborone",
+    "statoids:population":"231592",
+    "statoids:timezone":"+2",
+    "statoids:type":"city",
+    "unlc:subdivision":"BW-GA",
+    "wof:belongsto":[
+        102191573,
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:capital_of":85632235,
+    "wof:concordances":{
+        "fips:code":"BC14",
+        "gp:id":2344749,
+        "hasc:id":"BW.GB",
+        "iso:id":"BW-GA",
+        "unlc:id":"BW-GA",
+        "wd:id":"Q57695"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"1805df350359fccdb757e83dd0fd395c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "region_id":85669631
+        }
+    ],
+    "wof:id":85669631,
+    "wof:lang_x_official":[
+        "eng",
+        "tsn"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "tsn"
+    ],
+    "wof:lastmodified":1553550320,
+    "wof:name":"Gaborone",
+    "wof:parent_id":85632235,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"city",
+    "wof:population":231592,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:shortcode":"GB",
+    "wof:subdivision":"BW-GA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421174929
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.83492791439181,
+    -24.71617037156534,
+    26.03335425329618,
+    -24.50744434997671
+],
+  "geometry": {"coordinates":[[[26.03335425329618,-24.55891477559635],[26.03208439887595,-24.58208246173615],[25.98268951590848,-24.64985683612406],[25.98268951590848,-24.67512863637739],[25.95741771565508,-24.70729274636312],[25.91491514241994,-24.70959018324032],[25.89155618936672,-24.71617037156534],[25.85747923218088,-24.70844146480169],[25.84484333115483,-24.68661581896481],[25.84024845829975,-24.65100555456263],[25.83492791439181,-24.62270419644148],[25.95121219208903,-24.50744434997671],[26.03335425329618,-24.55891477559635]]],"type":"Polygon"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1225859137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.87859,-22.17755,28.87859,-22.17755",
+    "geom:latitude":-22.17755,
+    "geom:longitude":28.87859,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Motlhabaneng",
+    "gn:country_code":"BW",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353104,
+    "gn:latitude":-22.17755,
+    "gn:longitude":28.87859,
+    "gn:modification_date":"2016-12-04",
+    "gn:name":"Motlhabaneng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353104
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"bf5f5af68bd71a1e09bd4859b286442d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1225859137,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1225859137,
+    "wof:lastmodified":1536993440,
+    "wof:name":"Motlhabaneng",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.87859000000001,
+    -22.17755,
+    28.87859000000001,
+    -22.17755
+],
+  "geometry": {"coordinates":[28.87859000000001,-22.17755],"type":"Point"}
+}

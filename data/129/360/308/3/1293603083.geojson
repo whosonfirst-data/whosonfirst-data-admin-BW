@@ -1,0 +1,65 @@
+{
+  "id": 1293603083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.51311,-22.75253,27.51311,-22.75253",
+    "geom:latitude":-22.75253,
+    "geom:longitude":27.51311,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mmamonyai",
+    "gn:country_code":"BW",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7883429,
+    "gn:latitude":-22.75253,
+    "gn:longitude":27.51311,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Mmamonyai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7883429
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"9afc9c9cfcafe8019b7c65b0db7c02b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1293603083,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1293603083,
+    "wof:lastmodified":1536618256,
+    "wof:name":"Mmamonyai",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.51311,
+    -22.75253,
+    27.51311,
+    -22.75253
+],
+  "geometry": {"coordinates":[27.51311,-22.75253],"type":"Point"}
+}

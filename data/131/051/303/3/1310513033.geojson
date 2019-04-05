@@ -1,0 +1,65 @@
+{
+  "id": 1310513033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83333,-23.05,24.83333,-23.05",
+    "geom:latitude":-23.05,
+    "geom:longitude":24.83333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zuwe",
+    "gn:country_code":"BW",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932947,
+    "gn:latitude":-23.05,
+    "gn:longitude":24.83333,
+    "gn:modification_date":"2014-10-29",
+    "gn:name":"Zuwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932947
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"8b1726c74e84143a8a18bccb1555e743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1310513033,
+            "region_id":85669589
+        }
+    ],
+    "wof:id":1310513033,
+    "wof:lastmodified":1536906229,
+    "wof:name":"Zuwe",
+    "wof:parent_id":85669589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83333,
+    -23.05,
+    24.83333,
+    -23.05
+],
+  "geometry": {"coordinates":[24.83333,-23.05],"type":"Point"}
+}

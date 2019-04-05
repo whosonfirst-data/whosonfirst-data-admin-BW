@@ -1,0 +1,65 @@
+{
+  "id": 1343976391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6384,-24.95035,25.6384,-24.95035",
+    "geom:latitude":-24.95035,
+    "geom:longitude":25.6384,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mohuhutswane",
+    "gn:country_code":"BW",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7745749,
+    "gn:latitude":-24.95035,
+    "gn:longitude":25.6384,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mohuhutswane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7745749
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"83ba2dfa46c33e2adc61a843970c9703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1343976391,
+            "region_id":85669615
+        }
+    ],
+    "wof:id":1343976391,
+    "wof:lastmodified":1536996236,
+    "wof:name":"Mohuhutswane",
+    "wof:parent_id":85669615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6384,
+    -24.95035,
+    25.6384,
+    -24.95035
+],
+  "geometry": {"coordinates":[25.6384,-24.95035],"type":"Point"}
+}

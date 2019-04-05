@@ -1,0 +1,65 @@
+{
+  "id": 1226260429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.32437,-22.97875,27.32437,-22.97875",
+    "geom:latitude":-22.97875,
+    "geom:longitude":27.32437,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Moraleng",
+    "gn:country_code":"BW",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7845682,
+    "gn:latitude":-22.97875,
+    "gn:longitude":27.32437,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Moraleng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7845682
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"ebb777b527716328c0a0bcefde320399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1226260429,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1226260429,
+    "wof:lastmodified":1536912859,
+    "wof:name":"Moraleng",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.32437,
+    -22.97875,
+    27.32437,
+    -22.97875
+],
+  "geometry": {"coordinates":[27.32437,-22.97875],"type":"Point"}
+}

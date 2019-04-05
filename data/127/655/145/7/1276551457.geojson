@@ -1,0 +1,79 @@
+{
+  "id": 1276551457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.43625,-21.96554,28.43625,-21.96554",
+    "geom:latitude":-21.96554,
+    "geom:longitude":28.43625,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bobonong",
+    "gn:country_code":"BW",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933885,
+    "gn:latitude":-21.96554,
+    "gn:longitude":28.43625,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bobonong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0628\u0648\u0646\u0648\u0646\u06af\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0431\u043e\u043d\u043e\u043d\u0433"
+    ],
+    "name:und_x_variant":[
+        "Bahonong",
+        "Bobonong"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u535a\u8fb2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933885,
+        "wk:page":"Bobonong"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"5de58756105decf3713ce41f2e9ca726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1276551457,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1276551457,
+    "wof:lastmodified":1537588933,
+    "wof:name":"Bobonong",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.43625,
+    -21.96554,
+    28.43625,
+    -21.96554
+],
+  "geometry": {"coordinates":[28.43625,-21.96554],"type":"Point"}
+}

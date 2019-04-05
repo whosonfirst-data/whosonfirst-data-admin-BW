@@ -1,0 +1,65 @@
+{
+  "id": 1259698075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.21456,-21.82088,28.21456,-21.82088",
+    "geom:latitude":-21.82088,
+    "geom:longitude":28.21456,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Majande",
+    "gn:country_code":"BW",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7644662,
+    "gn:latitude":-21.82088,
+    "gn:longitude":28.21456,
+    "gn:modification_date":"2011-01-05",
+    "gn:name":"Majande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7644662
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"cbb2087de7c9acf35e8f615a3a16bb9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259698075,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1259698075,
+    "wof:lastmodified":1537044111,
+    "wof:name":"Majande",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.21456,
+    -21.82088,
+    28.21456,
+    -21.82088
+],
+  "geometry": {"coordinates":[28.21456,-21.82088],"type":"Point"}
+}

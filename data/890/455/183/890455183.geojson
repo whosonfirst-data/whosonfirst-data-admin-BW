@@ -1,0 +1,92 @@
+{
+  "id": 890455183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.91667,-26.65,21.91667,-26.65",
+    "geom:latitude":-26.65,
+    "geom:longitude":21.91667,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":374,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bogogobo"
+    ],
+    "name:eng_x_preferred":[
+        "Bogogobo"
+    ],
+    "name:fre_x_preferred":[
+        "Bogogobo"
+    ],
+    "name:ita_x_preferred":[
+        "Bogogobo"
+    ],
+    "name:mlg_x_preferred":[
+        "Bogogobo"
+    ],
+    "name:pol_x_preferred":[
+        "Bogogobo"
+    ],
+    "name:swa_x_preferred":[
+        "Bogogobo"
+    ],
+    "name:swe_x_preferred":[
+        "Bogogobo"
+    ],
+    "name:tsn_x_preferred":[
+        "Bogogobo"
+    ],
+    "qs:name":"Bogo Gobo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933884,
+        "gp:id":1588549,
+        "qs:id":83988,
+        "wd:id":"Q170624"
+    },
+    "wof:country":"BW",
+    "wof:created":1469052937,
+    "wof:geomhash":"e0e4fde076bec6e002bdb4d49ac3c54d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890455183,
+            "region_id":85669593
+        }
+    ],
+    "wof:id":890455183,
+    "wof:lastmodified":1513922291,
+    "wof:name":"Bogo Gobo",
+    "wof:parent_id":85669593,
+    "wof:placetype":"locality",
+    "wof:population":374,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91667,
+    -26.65,
+    21.91667,
+    -26.65
+],
+  "geometry": {"coordinates":[21.91667,-26.65],"type":"Point"}
+}

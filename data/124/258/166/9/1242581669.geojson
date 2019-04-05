@@ -1,0 +1,65 @@
+{
+  "id": 1242581669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.24102,-22.30341,28.24102,-22.30341",
+    "geom:latitude":-22.30341,
+    "geom:longitude":28.24102,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Madipitse",
+    "gn:country_code":"BW",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7883611,
+    "gn:latitude":-22.30341,
+    "gn:longitude":28.24102,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Madipitse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7883611
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"3cd601d5ad43953e148eb141d2326929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1242581669,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1242581669,
+    "wof:lastmodified":1537055350,
+    "wof:name":"Madipitse",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.24102,
+    -22.30341,
+    28.24102,
+    -22.30341
+],
+  "geometry": {"coordinates":[28.24102,-22.30341],"type":"Point"}
+}

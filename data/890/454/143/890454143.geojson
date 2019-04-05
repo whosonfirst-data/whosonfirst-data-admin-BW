@@ -1,0 +1,66 @@
+{
+  "id": 890454143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05,-22.4,22.05,-22.4",
+    "geom:latitude":-22.4,
+    "geom:longitude":22.05,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":214,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Tshwane",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":2142,
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932980,
+        "gp:id":56618300,
+        "qs:id":555024,
+        "wk:page":"City of Tshwane Metropolitan Municipality"
+    },
+    "wof:country":"BW",
+    "wof:created":1469052888,
+    "wof:geomhash":"5ba2079d45d3aa66755fad1114b7ee63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890454143,
+            "region_id":85669589
+        }
+    ],
+    "wof:id":890454143,
+    "wof:lastmodified":1527735429,
+    "wof:name":"Tshwane",
+    "wof:parent_id":85669589,
+    "wof:placetype":"locality",
+    "wof:population":214,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05,
+    -22.4,
+    22.05,
+    -22.4
+],
+  "geometry": {"coordinates":[22.05,-22.4],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1225823437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06667,-18.6,22.06667,-18.6",
+    "geom:latitude":-18.6,
+    "geom:longitude":22.06667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nxamasere",
+    "gn:country_code":"BW",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11437204,
+    "gn:latitude":-18.6,
+    "gn:longitude":22.06667,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Nxamasere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11437204
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"6e3a119c64942be16b60b3462ec8198c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1225823437,
+            "region_id":85669599
+        }
+    ],
+    "wof:id":1225823437,
+    "wof:lastmodified":1537044083,
+    "wof:name":"Nxamasere",
+    "wof:parent_id":85669599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06667,
+    -18.6,
+    22.06667,
+    -18.6
+],
+  "geometry": {"coordinates":[22.06667,-18.6],"type":"Point"}
+}

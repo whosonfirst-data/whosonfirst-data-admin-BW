@@ -1,0 +1,67 @@
+{
+  "id": 1327044867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.63333,-17.96667,24.63333,-17.96667",
+    "geom:latitude":-17.96667,
+    "geom:longitude":24.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lambeye",
+    "gn:country_code":"BW",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933557,
+    "gn:latitude":-17.96667,
+    "gn:longitude":24.63333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Lambeye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        1108804901,
+        421199941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933557
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"879755579b324ac6701e72516df74d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421199941,
+            "locality_id":1327044867,
+            "region_id":1108804901
+        }
+    ],
+    "wof:id":1327044867,
+    "wof:lastmodified":1536742168,
+    "wof:name":"Lambeye",
+    "wof:parent_id":421199941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.63333,
+    -17.96667,
+    24.63333,
+    -17.96667
+],
+  "geometry": {"coordinates":[24.63333,-17.96667],"type":"Point"}
+}

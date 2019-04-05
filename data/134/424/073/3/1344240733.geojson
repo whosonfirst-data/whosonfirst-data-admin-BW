@@ -1,0 +1,65 @@
+{
+  "id": 1344240733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.22068,-25.06566,25.22068,-25.06566",
+    "geom:latitude":-25.06566,
+    "geom:longitude":25.22068,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mohuduhutswe",
+    "gn:country_code":"BW",
+    "gn:dem":1323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7736837,
+    "gn:latitude":-25.06566,
+    "gn:longitude":25.22068,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mohuduhutswe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7736837
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"4f9e29bd9817d71a554aaed798b60ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1344240733,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1344240733,
+    "wof:lastmodified":1536613051,
+    "wof:name":"Mohuduhutswe",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.22068,
+    -25.06566,
+    25.22068,
+    -25.06566
+],
+  "geometry": {"coordinates":[25.22068,-25.06566],"type":"Point"}
+}

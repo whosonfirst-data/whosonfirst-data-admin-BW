@@ -1,0 +1,61 @@
+{
+  "id": 1209504219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.39483,-24.79842,25.39483,-24.79842",
+    "geom:latitude":-24.79842,
+    "geom:longitude":25.39483,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gakhudu",
+    "gn:country_code":"BW",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7746183,
+    "gn:latitude":-24.79842,
+    "gn:longitude":25.39483,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Gakhudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7746183
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"43c834d12f8dc83189c7b177af623bdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632235,
+            "locality_id":1209504219
+        }
+    ],
+    "wof:id":1209504219,
+    "wof:lastmodified":1536285085,
+    "wof:name":"Gakhudu",
+    "wof:parent_id":85632235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.39483,
+    -24.79842,
+    25.39483,
+    -24.79842
+],
+  "geometry": {"coordinates":[25.39483,-24.79842],"type":"Point"}
+}

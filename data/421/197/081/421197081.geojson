@@ -1,0 +1,111 @@
+{
+  "id": 421197081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.49403,-24.68954,23.49403,-24.68954",
+    "geom:latitude":-24.68954,
+    "geom:longitude":23.49403,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041a\u0445\u0430\u043a\u0445\u0435\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Khakhea"
+    ],
+    "name:eng_x_preferred":[
+        "Khakhea"
+    ],
+    "name:fre_x_preferred":[
+        "Khakhea"
+    ],
+    "name:ger_x_preferred":[
+        "Khakhea"
+    ],
+    "name:ita_x_preferred":[
+        "Khakhea"
+    ],
+    "name:mlg_x_preferred":[
+        "Khakhea"
+    ],
+    "name:pol_x_preferred":[
+        "Khakhea"
+    ],
+    "name:swa_x_preferred":[
+        "Khakhea"
+    ],
+    "name:swe_x_preferred":[
+        "Khakhea"
+    ],
+    "name:unk_x_variant":[
+        "Kakia"
+    ],
+    "qs:gn_country":"BW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":933649,
+    "qs:gn_pop":2133,
+    "qs:name":"Khakhea",
+    "qs:name_adm0":"Botswana",
+    "qs:name_adm1":"Southern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1296317,
+    "qs:woe_adm0":23424755,
+    "qs:woe_id":1265600,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933649,
+        "gp:id":1265600,
+        "qs:id":1296317,
+        "wd:id":"Q170954"
+    },
+    "wof:country":"BW",
+    "wof:created":1459009902,
+    "wof:geomhash":"cb6bfaee096fcd009720b3341f920e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":421197081,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":421197081,
+    "wof:lastmodified":1513922304,
+    "wof:name":"Khakhea",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:population":2133,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.49403,
+    -24.68954,
+    23.49403,
+    -24.68954
+],
+  "geometry": {"coordinates":[23.49403,-24.68954],"type":"Point"}
+}

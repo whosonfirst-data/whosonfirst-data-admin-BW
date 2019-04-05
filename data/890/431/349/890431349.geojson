@@ -1,0 +1,96 @@
+{
+  "id": 890431349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.43333,-24.6,26.43333,-24.6",
+    "geom:latitude":-24.6,
+    "geom:longitude":26.43333,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":2221,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Mmathubudukwane"
+    ],
+    "name:eng_x_preferred":[
+        "Mmathubudukwane"
+    ],
+    "name:fre_x_preferred":[
+        "Mmathubudukwane"
+    ],
+    "name:ita_x_preferred":[
+        "Mmathubudukwane"
+    ],
+    "name:mlg_x_preferred":[
+        "Mmathubudukwane"
+    ],
+    "name:pol_x_preferred":[
+        "Mmathubudukwane"
+    ],
+    "name:swa_x_preferred":[
+        "Mmathubudukwane"
+    ],
+    "name:swe_x_preferred":[
+        "Mmathubudukwane"
+    ],
+    "name:unk_x_variant":[
+        "Mathobudukwane"
+    ],
+    "qs:name":"Mmathubudukwane",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:latitude":"-24.6",
+    "wd:longitude":"26.433333",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933347,
+        "gp:id":1265904,
+        "qs:id":275856,
+        "wd:id":"Q170722",
+        "wk:page":"Mmathubudukwane"
+    },
+    "wof:country":"BW",
+    "wof:created":1469051887,
+    "wof:geomhash":"30a70d9a59aca60300b1989a2634a990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890431349,
+            "region_id":85669607
+        }
+    ],
+    "wof:id":890431349,
+    "wof:lastmodified":1527735414,
+    "wof:name":"Mmathubudukwane",
+    "wof:parent_id":85669607,
+    "wof:placetype":"locality",
+    "wof:population":2221,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.43333,
+    -24.6,
+    26.43333,
+    -24.6
+],
+  "geometry": {"coordinates":[26.43333,-24.6],"type":"Point"}
+}

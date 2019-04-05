@@ -1,0 +1,65 @@
+{
+  "id": 1259697937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.66667,-21.55,25.66667,-21.55",
+    "geom:latitude":-21.55,
+    "geom:longitude":25.66667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Detoie",
+    "gn:country_code":"BW",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933813,
+    "gn:latitude":-21.55,
+    "gn:longitude":25.66667,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Detoie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933813
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"b68a7017ff374471f8629f23da85e353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259697937,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1259697937,
+    "wof:lastmodified":1537044300,
+    "wof:name":"Detoie",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.66667,
+    -21.55,
+    25.66667,
+    -21.55
+],
+  "geometry": {"coordinates":[25.66667,-21.55],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1226744969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.66183,-24.75597,25.66183,-24.75597",
+    "geom:latitude":-24.75597,
+    "geom:longitude":25.66183,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mmokwanyane",
+    "gn:country_code":"BW",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7745677,
+    "gn:latitude":-24.75597,
+    "gn:longitude":25.66183,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mmokwanyane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7745677
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"0d3808e6874f8ad2142cf861997866f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1226744969,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1226744969,
+    "wof:lastmodified":1536716978,
+    "wof:name":"Mmokwanyane",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.66183,
+    -24.75597,
+    25.66183,
+    -24.75597
+],
+  "geometry": {"coordinates":[25.66183,-24.75597],"type":"Point"}
+}

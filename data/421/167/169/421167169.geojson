@@ -1,0 +1,102 @@
+{
+  "id": 421167169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.19376,-22.79904,27.19376,-22.79904",
+    "geom:latitude":-22.79904,
+    "geom:longitude":27.19376,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Pilikwe"
+    ],
+    "name:eng_x_preferred":[
+        "Pilikwe"
+    ],
+    "name:fre_x_preferred":[
+        "Pilikwe"
+    ],
+    "name:ita_x_preferred":[
+        "Pilikwe"
+    ],
+    "name:mlg_x_preferred":[
+        "Pilikwe"
+    ],
+    "name:pol_x_preferred":[
+        "Pilikwe"
+    ],
+    "name:swa_x_preferred":[
+        "Pilikwe"
+    ],
+    "name:swe_x_preferred":[
+        "Pilikwe"
+    ],
+    "qs:gn_country":"BW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":933162,
+    "qs:gn_pop":1375,
+    "qs:name":"Pilikwe",
+    "qs:name_adm0":"Botswana",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":130120,
+    "qs:woe_adm0":23424755,
+    "qs:woe_id":1265839,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933162,
+        "gp:id":1265839,
+        "qs:id":130120,
+        "wd:id":"Q72023"
+    },
+    "wof:country":"BW",
+    "wof:created":1459008721,
+    "wof:geomhash":"8532fc1e32f2a945d295d14facc5c3d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":421167169,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":421167169,
+    "wof:lastmodified":1513922317,
+    "wof:name":"Pilikwe",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":1375,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.19376,
+    -22.79904,
+    27.19376,
+    -22.79904
+],
+  "geometry": {"coordinates":[27.19376,-22.79904],"type":"Point"}
+}

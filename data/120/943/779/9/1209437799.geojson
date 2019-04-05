@@ -1,0 +1,61 @@
+{
+  "id": 1209437799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.34774,-24.3271,26.34774,-24.3271",
+    "geom:latitude":-24.3271,
+    "geom:longitude":26.34774,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ramokolonyane",
+    "gn:country_code":"BW",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7696637,
+    "gn:latitude":-24.3271,
+    "gn:longitude":26.34774,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ramokolonyane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7696637
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"2c286ddc833acb1265958ba6a2eb7dbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632235,
+            "locality_id":1209437799
+        }
+    ],
+    "wof:id":1209437799,
+    "wof:lastmodified":1536287050,
+    "wof:name":"Ramokolonyane",
+    "wof:parent_id":85632235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.34774,
+    -24.3271,
+    26.34774,
+    -24.3271
+],
+  "geometry": {"coordinates":[26.34774,-24.3271],"type":"Point"}
+}

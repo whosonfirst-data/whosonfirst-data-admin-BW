@@ -1,0 +1,70 @@
+{
+  "id": 1343550313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1732,-25.18941,25.1732,-25.18941",
+    "geom:latitude":-25.18941,
+    "geom:longitude":25.1732,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Segwagwa",
+    "gn:country_code":"BW",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933105,
+    "gn:latitude":-25.18941,
+    "gn:longitude":25.1732,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Segwagwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sekhawawa",
+        "Sekhwawa",
+        "Segwagwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933105
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"f27b573bd9f0242fdacaa20c0097f03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1343550313,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1343550313,
+    "wof:lastmodified":1537588931,
+    "wof:name":"Segwagwa",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1732,
+    -25.18941,
+    25.1732,
+    -25.18941
+],
+  "geometry": {"coordinates":[25.1732,-25.18941],"type":"Point"}
+}

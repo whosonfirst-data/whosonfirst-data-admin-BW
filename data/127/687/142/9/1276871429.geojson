@@ -1,0 +1,65 @@
+{
+  "id": 1276871429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.36192,-23.97365,26.36192,-23.97365",
+    "geom:latitude":-23.97365,
+    "geom:longitude":26.36192,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pitsetshweu",
+    "gn:country_code":"BW",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7863991,
+    "gn:latitude":-23.97365,
+    "gn:longitude":26.36192,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Pitsetshweu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7863991
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"d42f40fa29010c8c44b4e1b8ccaf4faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1276871429,
+            "region_id":85669607
+        }
+    ],
+    "wof:id":1276871429,
+    "wof:lastmodified":1537050367,
+    "wof:name":"Pitsetshweu",
+    "wof:parent_id":85669607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.36192,
+    -23.97365,
+    26.36192,
+    -23.97365
+],
+  "geometry": {"coordinates":[26.36192,-23.97365],"type":"Point"}
+}

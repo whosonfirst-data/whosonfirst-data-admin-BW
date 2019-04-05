@@ -1,0 +1,70 @@
+{
+  "id": 1344167015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.95,-23.75,26.95,-23.75",
+    "geom:latitude":-23.75,
+    "geom:longitude":26.95,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Phala",
+    "gn:cc2":"BW",
+    "gn:country_code":"BW",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933168,
+    "gn:latitude":-23.75,
+    "gn:longitude":26.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pala Camp",
+        "Phala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933168
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"26586ceca3e05c6441e63d645c69b413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1344167015,
+            "region_id":85669607
+        }
+    ],
+    "wof:id":1344167015,
+    "wof:lastmodified":1537588931,
+    "wof:name":"Phala",
+    "wof:parent_id":85669607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.95,
+    -23.75,
+    26.95,
+    -23.75
+],
+  "geometry": {"coordinates":[26.95,-23.75],"type":"Point"}
+}

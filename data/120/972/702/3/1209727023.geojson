@@ -1,0 +1,65 @@
+{
+  "id": 1209727023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.2075,-22.85722,22.2075,-22.85722",
+    "geom:latitude":-22.85722,
+    "geom:longitude":22.2075,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kacgae",
+    "gn:country_code":"BW",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11495930,
+    "gn:latitude":-22.85722,
+    "gn:longitude":22.2075,
+    "gn:modification_date":"2017-03-15",
+    "gn:name":"Kacgae",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11495930
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"b5f4e8ad76a430a543dce4c379f881b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1209727023,
+            "region_id":85669589
+        }
+    ],
+    "wof:id":1209727023,
+    "wof:lastmodified":1536382717,
+    "wof:name":"Kacgae",
+    "wof:parent_id":85669589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.2075,
+    -22.85722,
+    22.2075,
+    -22.85722
+],
+  "geometry": {"coordinates":[22.2075,-22.85722],"type":"Point"}
+}

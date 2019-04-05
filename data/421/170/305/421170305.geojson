@@ -1,0 +1,71 @@
+{
+  "id": 421170305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"25.04048,-17.839737,25.04048,-17.839737",
+    "geom:latitude":-17.839737,
+    "geom:longitude":25.04048,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Kabe",
+    "qs:name_adm0":"Namibia",
+    "qs:name_adm1":"Caprivi",
+    "qs:photos":2061,
+    "qs:photos_1k":418,
+    "qs:photos_9k":12,
+    "qs:photos_9r":10,
+    "qs:photos_all":2640,
+    "qs:photos_sr":16,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":238044,
+    "qs:woe_adm0":23424987,
+    "qs:woe_id":55921173,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55921173,
+        "qs:id":238044
+    },
+    "wof:country":"BW",
+    "wof:created":1459008847,
+    "wof:geomhash":"fb91286cbaab72e38a2c04b3f3fccf03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "county_id":421170305,
+            "region_id":85669599
+        }
+    ],
+    "wof:id":421170305,
+    "wof:lastmodified":1466635831,
+    "wof:name":"Kabe",
+    "wof:parent_id":85669599,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.04048,
+    -17.839737,
+    25.04048,
+    -17.839737
+],
+  "geometry": {"coordinates":[25.04048,-17.839737],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209599193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.53348,-24.94238,25.53348,-24.94238",
+    "geom:latitude":-24.94238,
+    "geom:longitude":25.53348,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Motswire",
+    "gn:country_code":"BW",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7745759,
+    "gn:latitude":-24.94238,
+    "gn:longitude":25.53348,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Motswire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7745759
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"cd578739a9cb60aa928f658b48f0b130",
+    "wof:hierarchy":[
+        {
+            "country_id":85632235,
+            "locality_id":1209599193
+        }
+    ],
+    "wof:id":1209599193,
+    "wof:lastmodified":1536282224,
+    "wof:name":"Motswire",
+    "wof:parent_id":85632235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.53348,
+    -24.94238,
+    25.53348,
+    -24.94238
+],
+  "geometry": {"coordinates":[25.53348,-24.94238],"type":"Point"}
+}

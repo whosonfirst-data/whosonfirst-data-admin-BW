@@ -1,0 +1,65 @@
+{
+  "id": 1242891735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.99038,-22.99758,26.99038,-22.99758",
+    "geom:latitude":-22.99758,
+    "geom:longitude":26.99038,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Majwana",
+    "gn:country_code":"BW",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7663503,
+    "gn:latitude":-22.99758,
+    "gn:longitude":26.99038,
+    "gn:modification_date":"2011-02-09",
+    "gn:name":"Majwana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7663503
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"f6099f103e210d53a613bdb3f9079d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1242891735,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1242891735,
+    "wof:lastmodified":1536608428,
+    "wof:name":"Majwana",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.99038,
+    -22.99758,
+    26.99038,
+    -22.99758
+],
+  "geometry": {"coordinates":[26.99038,-22.99758],"type":"Point"}
+}

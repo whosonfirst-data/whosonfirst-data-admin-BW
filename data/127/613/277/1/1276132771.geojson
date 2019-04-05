@@ -1,0 +1,65 @@
+{
+  "id": 1276132771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.84163,-22.32905,26.84163,-22.32905",
+    "geom:latitude":-22.32905,
+    "geom:longitude":26.84163,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khumanego",
+    "gn:country_code":"BW",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7654021,
+    "gn:latitude":-22.32905,
+    "gn:longitude":26.84163,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Khumanego",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7654021
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"c6b08ed6c5ec6185d585e49d65f72040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1276132771,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1276132771,
+    "wof:lastmodified":1537045405,
+    "wof:name":"Khumanego",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.84163,
+    -22.32905,
+    26.84163,
+    -22.32905
+],
+  "geometry": {"coordinates":[26.84163,-22.32905],"type":"Point"}
+}

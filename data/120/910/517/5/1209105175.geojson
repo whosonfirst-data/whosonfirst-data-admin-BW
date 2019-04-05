@@ -1,0 +1,61 @@
+{
+  "id": 1209105175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.47105,-24.0124,26.47105,-24.0124",
+    "geom:latitude":-24.0124,
+    "geom:longitude":26.47105,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Makhujwane",
+    "gn:country_code":"BW",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7697025,
+    "gn:latitude":-24.0124,
+    "gn:longitude":26.47105,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Makhujwane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697025
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"1a13e9bc0197add30ee9213e4256715a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632235,
+            "locality_id":1209105175
+        }
+    ],
+    "wof:id":1209105175,
+    "wof:lastmodified":1536297597,
+    "wof:name":"Makhujwane",
+    "wof:parent_id":85632235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.47105,
+    -24.0124,
+    26.47105,
+    -24.0124
+],
+  "geometry": {"coordinates":[26.47105,-24.0124],"type":"Point"}
+}

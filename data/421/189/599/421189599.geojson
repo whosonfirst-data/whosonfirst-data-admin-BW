@@ -1,0 +1,71 @@
+{
+  "id": 421189599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.134999,-22.183332,29.134999,-22.183332",
+    "geom:latitude":-22.183332,
+    "geom:longitude":29.134999,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Pont Drift",
+    "qs:name_adm0":"Botswana",
+    "qs:name_adm1":"Central",
+    "qs:photos":107,
+    "qs:photos_1k":22,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":107,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1114848,
+    "qs:woe_adm0":23424755,
+    "qs:woe_id":1265841,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1265841,
+        "qs:id":1114848
+    },
+    "wof:country":"BW",
+    "wof:created":1459009630,
+    "wof:geomhash":"65f4b225d366bb5e1066fe5b0959bfc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":421189599,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":421189599,
+    "wof:lastmodified":1466635869,
+    "wof:name":"Pont Drift",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.134999,
+    -22.183332,
+    29.134999,
+    -22.183332
+],
+  "geometry": {"coordinates":[29.134999,-22.183332],"type":"Point"}
+}

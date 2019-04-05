@@ -1,0 +1,67 @@
+{
+  "id": 1310124079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.5,-25.33333,23.5,-25.33333",
+    "geom:latitude":-25.33333,
+    "geom:longitude":23.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Wegdraai",
+    "gn:country_code":"BW",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932961,
+    "gn:latitude":-25.33333,
+    "gn:longitude":23.5,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Wegdraai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932961
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"f421f259c4a509e38411676264b2e1b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730607,
+            "locality_id":1310124079,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1310124079,
+    "wof:lastmodified":1536969386,
+    "wof:name":"Wegdraai",
+    "wof:parent_id":1108730607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.5,
+    -25.33333,
+    23.5,
+    -25.33333
+],
+  "geometry": {"coordinates":[23.5,-25.33333],"type":"Point"}
+}

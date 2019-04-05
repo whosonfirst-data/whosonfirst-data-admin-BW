@@ -1,0 +1,69 @@
+{
+  "id": 1259883937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.43333,-20.7,24.43333,-20.7",
+    "geom:latitude":-20.7,
+    "geom:longitude":24.43333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khasebake",
+    "gn:country_code":"BW",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933645,
+    "gn:latitude":-20.7,
+    "gn:longitude":24.43333,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Khasebake",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khasabake",
+        "Khasebake"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933645
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"a51df491aa7d773a76bf5b70f7dfc37e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259883937,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1259883937,
+    "wof:lastmodified":1537588933,
+    "wof:name":"Khasebake",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.43333,
+    -20.7,
+    24.43333,
+    -20.7
+],
+  "geometry": {"coordinates":[24.43333,-20.7],"type":"Point"}
+}

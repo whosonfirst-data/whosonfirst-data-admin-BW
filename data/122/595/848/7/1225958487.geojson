@@ -1,0 +1,65 @@
+{
+  "id": 1225958487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.59172,-22.33405,27.59172,-22.33405",
+    "geom:latitude":-22.33405,
+    "geom:longitude":27.59172,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kii",
+    "gn:country_code":"BW",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7767991,
+    "gn:latitude":-22.33405,
+    "gn:longitude":27.59172,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Kii",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7767991
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"7191835108af038c7983bb9084171f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1225958487,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1225958487,
+    "wof:lastmodified":1536849752,
+    "wof:name":"Kii",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.59172,
+    -22.33405,
+    27.59172,
+    -22.33405
+],
+  "geometry": {"coordinates":[27.59172,-22.33405],"type":"Point"}
+}

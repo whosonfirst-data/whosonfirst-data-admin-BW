@@ -1,0 +1,65 @@
+{
+  "id": 1243256089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.96167,-24.16667,24.96167,-24.16667",
+    "geom:latitude":-24.16667,
+    "geom:longitude":24.96167,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ditshegwane",
+    "gn:country_code":"BW",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11428707,
+    "gn:latitude":-24.16667,
+    "gn:longitude":24.96167,
+    "gn:modification_date":"2017-01-29",
+    "gn:name":"Ditshegwane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428707
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"338a21b624f11a803f3435ff14ca8aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1243256089,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1243256089,
+    "wof:lastmodified":1537076842,
+    "wof:name":"Ditshegwane",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.96167,
+    -24.16667,
+    24.96167,
+    -24.16667
+],
+  "geometry": {"coordinates":[24.96167,-24.16667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293189781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.65209,-24.80434,25.65209,-24.80434",
+    "geom:latitude":-24.80434,
+    "geom:longitude":25.65209,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bikwane",
+    "gn:country_code":"BW",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7745672,
+    "gn:latitude":-24.80434,
+    "gn:longitude":25.65209,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Bikwane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7745672
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"e8b499f964e2710f019acb4d7f1dec0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1293189781,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1293189781,
+    "wof:lastmodified":1536719639,
+    "wof:name":"Bikwane",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.65209,
+    -24.80434,
+    25.65209,
+    -24.80434
+],
+  "geometry": {"coordinates":[25.65209,-24.80434],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293218907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41667,-23.33333,24.41667,-23.33333",
+    "geom:latitude":-23.33333,
+    "geom:longitude":24.41667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Khutswe",
+    "gn:country_code":"BW",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933630,
+    "gn:latitude":-23.33333,
+    "gn:longitude":24.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khutswe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Khutse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933630
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"11c6114237a99b4e432b92b6508b5e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1293218907,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1293218907,
+    "wof:lastmodified":1537588932,
+    "wof:name":"Khutswe",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41667,
+    -23.33333,
+    24.41667,
+    -23.33333
+],
+  "geometry": {"coordinates":[24.41667,-23.33333],"type":"Point"}
+}

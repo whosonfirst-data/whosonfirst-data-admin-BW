@@ -1,0 +1,61 @@
+{
+  "id": 1209626913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.85638,-22.14921,20.85638,-22.14921",
+    "geom:latitude":-22.14921,
+    "geom:longitude":20.85638,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tshootsha",
+    "gn:country_code":"BW",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11288059,
+    "gn:latitude":-22.14921,
+    "gn:longitude":20.85638,
+    "gn:modification_date":"2016-11-18",
+    "gn:name":"Tshootsha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11288059
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"d94d96c46bfc68c54d579e3afcd23bc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632235,
+            "locality_id":1209626913
+        }
+    ],
+    "wof:id":1209626913,
+    "wof:lastmodified":1536281326,
+    "wof:name":"Tshootsha",
+    "wof:parent_id":85632235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.85638,
+    -22.14921,
+    20.85638,
+    -22.14921
+],
+  "geometry": {"coordinates":[20.85638,-22.14921],"type":"Point"}
+}

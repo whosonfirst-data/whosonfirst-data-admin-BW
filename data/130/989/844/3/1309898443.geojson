@@ -1,0 +1,66 @@
+{
+  "id": 1309898443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.64963,-24.72601,25.64963,-24.72601",
+    "geom:latitude":-24.72601,
+    "geom:longitude":25.64963,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mmankgodi",
+    "gn:country_code":"BW",
+    "gn:dem":1124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7752616,
+    "gn:latitude":-24.72601,
+    "gn:longitude":25.64963,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mmankgodi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7752616,
+        "wk:page":"Mmankgodi"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"f0ca40f048f73271ec7073926663b78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1309898443,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1309898443,
+    "wof:lastmodified":1537488417,
+    "wof:name":"Mmankgodi",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.64963,
+    -24.72601,
+    25.64963,
+    -24.72601
+],
+  "geometry": {"coordinates":[25.64963,-24.72601],"type":"Point"}
+}

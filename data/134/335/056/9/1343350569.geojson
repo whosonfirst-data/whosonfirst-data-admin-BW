@@ -1,0 +1,65 @@
+{
+  "id": 1343350569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.55666,-24.9547,25.55666,-24.9547",
+    "geom:latitude":-24.9547,
+    "geom:longitude":25.55666,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bathobabangwe",
+    "gn:country_code":"BW",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7745756,
+    "gn:latitude":-24.9547,
+    "gn:longitude":25.55666,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Bathobabangwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7745756
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"4acba114cede5a4222a5b8083006b52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1343350569,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1343350569,
+    "wof:lastmodified":1536905027,
+    "wof:name":"Bathobabangwe",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.55666,
+    -24.9547,
+    25.55666,
+    -24.9547
+],
+  "geometry": {"coordinates":[25.55666,-24.9547],"type":"Point"}
+}

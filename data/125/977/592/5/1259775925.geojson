@@ -1,0 +1,66 @@
+{
+  "id": 1259775925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.61326,-24.64769,25.61326,-24.64769",
+    "geom:latitude":-24.64769,
+    "geom:longitude":25.61326,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dikgatlong",
+    "gn:country_code":"BW",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7752580,
+    "gn:latitude":-24.64769,
+    "gn:longitude":25.61326,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Dikgatlong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7752580,
+        "wk:page":"Dikgatlong_Local_Municipality"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"8a60f33b86dff9690e160475f1ed6e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259775925,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1259775925,
+    "wof:lastmodified":1537488417,
+    "wof:name":"Dikgatlong",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.61326,
+    -24.64769,
+    25.61326,
+    -24.64769
+],
+  "geometry": {"coordinates":[25.61326,-24.64769],"type":"Point"}
+}

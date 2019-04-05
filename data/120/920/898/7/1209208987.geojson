@@ -1,0 +1,61 @@
+{
+  "id": 1209208987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.66667,-24.78333,25.66667,-24.78333",
+    "geom:latitude":-24.78333,
+    "geom:longitude":25.66667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Leftka",
+    "gn:country_code":"BW",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933551,
+    "gn:latitude":-24.78333,
+    "gn:longitude":25.66667,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Leftka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933551
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"1bb8c297297c88ee8b36290ec0542bc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632235,
+            "locality_id":1209208987
+        }
+    ],
+    "wof:id":1209208987,
+    "wof:lastmodified":1536294354,
+    "wof:name":"Leftka",
+    "wof:parent_id":85632235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.66667,
+    -24.78333,
+    25.66667,
+    -24.78333
+],
+  "geometry": {"coordinates":[25.66667,-24.78333],"type":"Point"}
+}

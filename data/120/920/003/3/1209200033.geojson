@@ -1,0 +1,61 @@
+{
+  "id": 1209200033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.47761,-20.63967,27.47761,-20.63967",
+    "geom:latitude":-20.63967,
+    "geom:longitude":27.47761,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mosojane",
+    "gn:country_code":"BW",
+    "gn:dem":1190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7543383,
+    "gn:latitude":-20.63967,
+    "gn:longitude":27.47761,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Mosojane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7543383
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"edcfcd5698ac0b830c8e6d639e21c1c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632235,
+            "locality_id":1209200033
+        }
+    ],
+    "wof:id":1209200033,
+    "wof:lastmodified":1536294643,
+    "wof:name":"Mosojane",
+    "wof:parent_id":85632235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.47761,
+    -20.63967,
+    27.47761,
+    -20.63967
+],
+  "geometry": {"coordinates":[27.47761,-20.63967],"type":"Point"}
+}

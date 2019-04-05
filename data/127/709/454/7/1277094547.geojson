@@ -1,0 +1,65 @@
+{
+  "id": 1277094547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8063,-24.6561,24.8063,-24.6561",
+    "geom:latitude":-24.6561,
+    "geom:longitude":24.8063,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sese",
+    "gn:country_code":"BW",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258235,
+    "gn:latitude":-24.6561,
+    "gn:longitude":24.8063,
+    "gn:modification_date":"2016-09-29",
+    "gn:name":"Sese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258235
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"b73b844ddea76afec9cd93f6e4c2601d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1277094547,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1277094547,
+    "wof:lastmodified":1536750544,
+    "wof:name":"Sese",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8063,
+    -24.6561,
+    24.8063,
+    -24.6561
+],
+  "geometry": {"coordinates":[24.8063,-24.6561],"type":"Point"}
+}

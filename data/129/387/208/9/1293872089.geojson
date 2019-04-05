@@ -1,0 +1,75 @@
+{
+  "id": 1293872089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.75201,-19.16422,23.75201,-19.16422",
+    "geom:latitude":-19.16422,
+    "geom:longitude":23.75201,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Khwai River Lodge",
+    "gn:country_code":"BW",
+    "gn:dem":940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8521727,
+    "gn:latitude":-19.16422,
+    "gn:longitude":23.75201,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Khwai River Lodge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Khwai River Lodge"
+    ],
+    "name:eng_x_variant":[
+        "Khwai"
+    ],
+    "name:und_x_variant":[
+        "Khwai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8521727,
+        "wk:page":"Khwai"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"528930c896c2c7a6a096461d823ee5bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1293872089,
+            "region_id":85669599
+        }
+    ],
+    "wof:id":1293872089,
+    "wof:lastmodified":1537588935,
+    "wof:name":"Khwai River Lodge",
+    "wof:parent_id":85669599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.75201,
+    -19.16422,
+    23.75201,
+    -19.16422
+],
+  "geometry": {"coordinates":[23.75201,-19.16422],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343257935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.60662,-24.95829,25.60662,-24.95829",
+    "geom:latitude":-24.95829,
+    "geom:longitude":25.60662,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Matsatsi",
+    "gn:country_code":"BW",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7745751,
+    "gn:latitude":-24.95829,
+    "gn:longitude":25.60662,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Matsatsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7745751
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"0776448ca71f3e9e4a99243d381a3cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1343257935,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1343257935,
+    "wof:lastmodified":1537036959,
+    "wof:name":"Matsatsi",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.60662,
+    -24.95829,
+    25.60662,
+    -24.95829
+],
+  "geometry": {"coordinates":[25.60662,-24.95829],"type":"Point"}
+}

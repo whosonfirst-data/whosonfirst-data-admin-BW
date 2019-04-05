@@ -1,0 +1,65 @@
+{
+  "id": 1293102835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.72095,-21.64444,27.72095,-21.64444",
+    "geom:latitude":-21.64444,
+    "geom:longitude":27.72095,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Maseshola",
+    "gn:country_code":"BW",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7651282,
+    "gn:latitude":-21.64444,
+    "gn:longitude":27.72095,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Maseshola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7651282
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"d369bb1356bdd95f9985a3b8db48444f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1293102835,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1293102835,
+    "wof:lastmodified":1536843519,
+    "wof:name":"Maseshola",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.72095,
+    -21.64444,
+    27.72095,
+    -21.64444
+],
+  "geometry": {"coordinates":[27.72095,-21.64444],"type":"Point"}
+}

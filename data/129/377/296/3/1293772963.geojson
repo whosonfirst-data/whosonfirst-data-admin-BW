@@ -1,0 +1,65 @@
+{
+  "id": 1293772963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.36657,-24.99396,25.36657,-24.99396",
+    "geom:latitude":-24.99396,
+    "geom:longitude":25.36657,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gamafikana",
+    "gn:country_code":"BW",
+    "gn:dem":1368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7746220,
+    "gn:latitude":-24.99396,
+    "gn:longitude":25.36657,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Gamafikana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7746220
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"6ca5e1bab8d689e0bc5c8b7269c6c3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1293772963,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1293772963,
+    "wof:lastmodified":1536871545,
+    "wof:name":"Gamafikana",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.36657,
+    -24.99396,
+    25.36657,
+    -24.99396
+],
+  "geometry": {"coordinates":[25.36657,-24.99396],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1310695633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.39569,-25.17041,25.39569,-25.17041",
+    "geom:latitude":-25.17041,
+    "geom:longitude":25.39569,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dibajakwena",
+    "gn:country_code":"BW",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7736918,
+    "gn:latitude":-25.17041,
+    "gn:longitude":25.39569,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Dibajakwena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7736918
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"b215d48bb5b020eddb192ea51df87296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1310695633,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1310695633,
+    "wof:lastmodified":1536641820,
+    "wof:name":"Dibajakwena",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.39569,
+    -25.17041,
+    25.39569,
+    -25.17041
+],
+  "geometry": {"coordinates":[25.39569,-25.17041],"type":"Point"}
+}

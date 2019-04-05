@@ -1,0 +1,65 @@
+{
+  "id": 1293291719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.59439,-23.96217,26.59439,-23.96217",
+    "geom:latitude":-23.96217,
+    "geom:longitude":26.59439,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lerula",
+    "gn:country_code":"BW",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7888464,
+    "gn:latitude":-23.96217,
+    "gn:longitude":26.59439,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Lerula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7888464
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"d59267763769d79d5ad1150407e84307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1293291719,
+            "region_id":85669607
+        }
+    ],
+    "wof:id":1293291719,
+    "wof:lastmodified":1537066333,
+    "wof:name":"Lerula",
+    "wof:parent_id":85669607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.59439,
+    -23.96217,
+    26.59439,
+    -23.96217
+],
+  "geometry": {"coordinates":[26.59439,-23.96217],"type":"Point"}
+}

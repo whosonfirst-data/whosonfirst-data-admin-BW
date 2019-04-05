@@ -1,0 +1,67 @@
+{
+  "id": 890433517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.71667,-23.4,21.71667,-23.4",
+    "geom:latitude":-23.4,
+    "geom:longitude":21.71667,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":3338,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Manyane"
+    ],
+    "qs:name":"Manyana",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933416,
+        "gp:id":56618298,
+        "qs:id":130126
+    },
+    "wof:country":"BW",
+    "wof:created":1469051983,
+    "wof:geomhash":"9af34cdc94c1301848c764e480dbf4d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890433517,
+            "region_id":85669593
+        }
+    ],
+    "wof:id":890433517,
+    "wof:lastmodified":1505343536,
+    "wof:name":"Manyana",
+    "wof:parent_id":85669593,
+    "wof:placetype":"locality",
+    "wof:population":3338,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.71667,
+    -23.4,
+    21.71667,
+    -23.4
+],
+  "geometry": {"coordinates":[21.71667,-23.4],"type":"Point"}
+}

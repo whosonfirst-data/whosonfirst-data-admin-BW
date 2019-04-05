@@ -1,0 +1,65 @@
+{
+  "id": 1193025911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06667,-20.25,24.06667,-20.25",
+    "geom:latitude":-20.25,
+    "geom:longitude":24.06667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Labani",
+    "gn:country_code":"BW",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933559,
+    "gn:latitude":-20.25,
+    "gn:longitude":24.06667,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Labani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933559
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"8166497b7f2e408adcae9fff0de68a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1193025911,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1193025911,
+    "wof:lastmodified":1536367920,
+    "wof:name":"Labani",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06667,
+    -20.25,
+    24.06667,
+    -20.25
+],
+  "geometry": {"coordinates":[24.06667,-20.25],"type":"Point"}
+}

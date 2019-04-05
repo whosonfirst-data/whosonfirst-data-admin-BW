@@ -1,0 +1,65 @@
+{
+  "id": 1343254441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.48222,-24.19116,25.48222,-24.19116",
+    "geom:latitude":-24.19116,
+    "geom:longitude":25.48222,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mosokwane",
+    "gn:country_code":"BW",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7909171,
+    "gn:latitude":-24.19116,
+    "gn:longitude":25.48222,
+    "gn:modification_date":"2011-07-12",
+    "gn:name":"Mosokwane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909171
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"e2b55a05de46d1fc31f98dcc401c132c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1343254441,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1343254441,
+    "wof:lastmodified":1537041858,
+    "wof:name":"Mosokwane",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.48222,
+    -24.19116,
+    25.48222,
+    -24.19116
+],
+  "geometry": {"coordinates":[25.48222,-24.19116],"type":"Point"}
+}

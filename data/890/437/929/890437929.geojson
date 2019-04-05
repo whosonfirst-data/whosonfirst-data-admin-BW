@@ -1,0 +1,104 @@
+{
+  "id": 890437929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.80306,-24.55139,25.80306,-24.55139",
+    "geom:latitude":-24.55139,
+    "geom:longitude":25.80306,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":5544,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Metsimotlhaba"
+    ],
+    "name:dut_x_preferred":[
+        "Metsimotlhabe"
+    ],
+    "name:eng_x_preferred":[
+        "Metsimotlhaba"
+    ],
+    "name:fre_x_preferred":[
+        "Metsimotlhaba"
+    ],
+    "name:ita_x_preferred":[
+        "Metsimotlhabe"
+    ],
+    "name:mlg_x_preferred":[
+        "Metsimotlhabe"
+    ],
+    "name:oci_x_preferred":[
+        "Metsimotlhaba"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u062a\u0633\u06cc\u0645\u0648\u062a\u0644\u0647\u0627\u0628\u0627\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Metsimotlhaba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0446\u0438\u043c\u043e\u0442\u043b\u0445\u0430\u0431\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Metsimotlhabe"
+    ],
+    "name:swa_x_preferred":[
+        "Metsimotlhabe"
+    ],
+    "name:swe_x_preferred":[
+        "Metsimotlhabe"
+    ],
+    "qs:name":"Metsemotlhaba",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106206,
+        "gp:id":1265760,
+        "qs:id":1029717,
+        "wd:id":"Q39137"
+    },
+    "wof:country":"BW",
+    "wof:created":1469052172,
+    "wof:geomhash":"7dd699ceb566e32754c387590e503ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890437929,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":890437929,
+    "wof:lastmodified":1513922310,
+    "wof:name":"Metsemotlhaba",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:population":5544,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.80306,
+    -24.55139,
+    25.80306,
+    -24.55139
+],
+  "geometry": {"coordinates":[25.80306,-24.55139],"type":"Point"}
+}

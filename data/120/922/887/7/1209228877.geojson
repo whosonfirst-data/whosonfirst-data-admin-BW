@@ -1,0 +1,61 @@
+{
+  "id": 1209228877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.70845,-21.70845,27.70845,-21.70845",
+    "geom:latitude":-21.70845,
+    "geom:longitude":27.70845,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Legotho",
+    "gn:country_code":"BW",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7651176,
+    "gn:latitude":-21.70845,
+    "gn:longitude":27.70845,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Legotho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7651176
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"ccc9a3b981eb14e9cc437ac2161a364e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632235,
+            "locality_id":1209228877
+        }
+    ],
+    "wof:id":1209228877,
+    "wof:lastmodified":1536293703,
+    "wof:name":"Legotho",
+    "wof:parent_id":85632235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.70845,
+    -21.70845,
+    27.70845,
+    -21.70845
+],
+  "geometry": {"coordinates":[27.70845,-21.70845],"type":"Point"}
+}

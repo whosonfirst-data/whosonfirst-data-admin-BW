@@ -1,0 +1,111 @@
+{
+  "id": 890441737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.33333,-21.01667,24.33333,-21.01667",
+    "geom:latitude":-21.01667,
+    "geom:longitude":24.33333,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":5222,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u62c9\u79d1\u666e\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Tsienyane"
+    ],
+    "name:eng_x_preferred":[
+        "Rakops"
+    ],
+    "name:fre_x_preferred":[
+        "Tsienyane/Rakops"
+    ],
+    "name:ita_x_preferred":[
+        "Tsienyane/Rakops"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b3\u30d7\u30b9"
+    ],
+    "name:mlg_x_preferred":[
+        "Tsienyane/Rakops"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0627\u06a9\u0648\u067e\u0633\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Tsienyane"
+    ],
+    "name:spa_x_preferred":[
+        "Tsienyane"
+    ],
+    "name:swa_x_preferred":[
+        "Tsienyane/Rakops"
+    ],
+    "name:swe_x_preferred":[
+        "Rakops"
+    ],
+    "name:tsn_x_preferred":[
+        "Rakops"
+    ],
+    "name:unk_x_variant":[
+        "Tsienyane"
+    ],
+    "qs:name":"Rakops",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:latitude":"-21.029833333",
+    "wd:longitude":"24.402541666",
+    "wd:wordcount":82,
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933151,
+        "gp:id":1265843,
+        "qs:id":130119,
+        "wd:id":"Q168026",
+        "wk:page":"Rakops"
+    },
+    "wof:country":"BW",
+    "wof:created":1469052335,
+    "wof:geomhash":"ed94bb537aa124209a56a22096ee3c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890441737,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":890441737,
+    "wof:lastmodified":1527727226,
+    "wof:name":"Rakops",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":5222,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.33333,
+    -21.01667,
+    24.33333,
+    -21.01667
+],
+  "geometry": {"coordinates":[24.33333,-21.01667],"type":"Point"}
+}

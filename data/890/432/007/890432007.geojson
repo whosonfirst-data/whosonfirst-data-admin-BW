@@ -1,0 +1,64 @@
+{
+  "id": 890432007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.35001,-22.75785,27.35001,-22.75785",
+    "geom:latitude":-22.75785,
+    "geom:longitude":27.35001,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":1275,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Maapi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933498,
+        "gp:id":1265556,
+        "qs:id":130136
+    },
+    "wof:country":"BW",
+    "wof:created":1469051925,
+    "wof:geomhash":"85226d748712ffb5ffb08136ba609e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890432007,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":890432007,
+    "wof:lastmodified":1505343527,
+    "wof:name":"Maapi",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:population":1275,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.35001,
+    -22.75785,
+    27.35001,
+    -22.75785
+],
+  "geometry": {"coordinates":[27.35001,-22.75785],"type":"Point"}
+}

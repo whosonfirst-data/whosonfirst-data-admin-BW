@@ -1,0 +1,65 @@
+{
+  "id": 1343345329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.88121,-24.60732,23.88121,-24.60732",
+    "geom:latitude":-24.60732,
+    "geom:longitude":23.88121,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Masonke",
+    "gn:country_code":"BW",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7891997,
+    "gn:latitude":-24.60732,
+    "gn:longitude":23.88121,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Masonke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891997
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"80e39615c030038222cdf08b205ba42d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1343345329,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1343345329,
+    "wof:lastmodified":1536912867,
+    "wof:name":"Masonke",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.88121,
+    -24.60732,
+    23.88121,
+    -24.60732
+],
+  "geometry": {"coordinates":[23.88121,-24.60732],"type":"Point"}
+}

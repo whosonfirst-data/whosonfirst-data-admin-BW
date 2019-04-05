@@ -1,0 +1,66 @@
+{
+  "id": 1327328119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.69691,-24.98418,25.69691,-24.98418",
+    "geom:latitude":-24.98418,
+    "geom:longitude":25.69691,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mogobane",
+    "gn:country_code":"BW",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7745742,
+    "gn:latitude":-24.98418,
+    "gn:longitude":25.69691,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mogobane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7745742,
+        "wk:page":"Mogobane"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"2edd2c30b1eab65a1c42bbf37653e016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1327328119,
+            "region_id":85669615
+        }
+    ],
+    "wof:id":1327328119,
+    "wof:lastmodified":1537488417,
+    "wof:name":"Mogobane",
+    "wof:parent_id":85669615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.69691,
+    -24.98418,
+    25.69691,
+    -24.98418
+],
+  "geometry": {"coordinates":[25.69691,-24.98418],"type":"Point"}
+}

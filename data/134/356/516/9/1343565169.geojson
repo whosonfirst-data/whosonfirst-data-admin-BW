@@ -1,0 +1,68 @@
+{
+  "id": 1343565169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.29494,-22.09445,28.29494,-22.09445",
+    "geom:latitude":-22.09445,
+    "geom:longitude":28.29494,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Thune Number One",
+    "gn:country_code":"BW",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7846961,
+    "gn:latitude":-22.09445,
+    "gn:longitude":28.29494,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Thune Number One",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thune Number 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7846961
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"989207b370b372b22078f98ead50bee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1343565169,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1343565169,
+    "wof:lastmodified":1537588934,
+    "wof:name":"Thune Number One",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.29494,
+    -22.09445,
+    28.29494,
+    -22.09445
+],
+  "geometry": {"coordinates":[28.29494,-22.09445],"type":"Point"}
+}

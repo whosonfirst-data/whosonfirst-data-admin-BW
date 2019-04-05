@@ -1,0 +1,65 @@
+{
+  "id": 1309898399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.27604,-24.18404,25.27604,-24.18404",
+    "geom:latitude":-24.18404,
+    "geom:longitude":25.27604,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tswaane",
+    "gn:country_code":"BW",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7909169,
+    "gn:latitude":-24.18404,
+    "gn:longitude":25.27604,
+    "gn:modification_date":"2011-07-12",
+    "gn:name":"Tswaane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909169
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"8cb655c06af37ff7d0fc6c6c2a67bb19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1309898399,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1309898399,
+    "wof:lastmodified":1536797728,
+    "wof:name":"Tswaane",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.27604,
+    -24.18404,
+    25.27604,
+    -24.18404
+],
+  "geometry": {"coordinates":[25.27604,-24.18404],"type":"Point"}
+}

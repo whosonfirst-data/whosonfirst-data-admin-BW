@@ -1,0 +1,61 @@
+{
+  "id": 1209203669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.36667,-25.35,25.36667,-25.35",
+    "geom:latitude":-25.35,
+    "geom:longitude":25.36667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sefhetla",
+    "gn:country_code":"BW",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933113,
+    "gn:latitude":-25.35,
+    "gn:longitude":25.36667,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Sefhetla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933113
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"6031c1aadb2a0ea9bf0f7bf1b99a9d4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632235,
+            "locality_id":1209203669
+        }
+    ],
+    "wof:id":1209203669,
+    "wof:lastmodified":1536294525,
+    "wof:name":"Sefhetla",
+    "wof:parent_id":85632235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.366670000000006,
+    -25.35,
+    25.366670000000006,
+    -25.35
+],
+  "geometry": {"coordinates":[25.36667000000001,-25.35],"type":"Point"}
+}

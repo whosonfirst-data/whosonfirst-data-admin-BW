@@ -1,0 +1,65 @@
+{
+  "id": 1260196797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.64999,-22.65506,27.64999,-22.65506",
+    "geom:latitude":-22.65506,
+    "geom:longitude":27.64999,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Goomosweu",
+    "gn:country_code":"BW",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7845567,
+    "gn:latitude":-22.65506,
+    "gn:longitude":27.64999,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Goomosweu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7845567
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"d2377f6811192b638719535fe94dad82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1260196797,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1260196797,
+    "wof:lastmodified":1536828625,
+    "wof:name":"Goomosweu",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.64999000000001,
+    -22.65506,
+    27.64999000000001,
+    -22.65506
+],
+  "geometry": {"coordinates":[27.64999000000001,-22.65506],"type":"Point"}
+}

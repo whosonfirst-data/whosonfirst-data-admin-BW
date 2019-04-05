@@ -1,0 +1,65 @@
+{
+  "id": 1210038413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.63518,-24.61426,25.63518,-24.61426",
+    "geom:latitude":-24.61426,
+    "geom:longitude":25.63518,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Metsemotlhaba",
+    "gn:country_code":"BW",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7752582,
+    "gn:latitude":-24.61426,
+    "gn:longitude":25.63518,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Metsemotlhaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7752582
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"1c26685a8b4cce9eef7b2ee3ef853afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1210038413,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1210038413,
+    "wof:lastmodified":1536385434,
+    "wof:name":"Metsemotlhaba",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.63518,
+    -24.61426,
+    25.63518,
+    -24.61426
+],
+  "geometry": {"coordinates":[25.63518,-24.61426],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1225834049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3892,-24.83003,25.3892,-24.83003",
+    "geom:latitude":-24.83003,
+    "geom:longitude":25.3892,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ngwanaoesi",
+    "gn:country_code":"BW",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7746185,
+    "gn:latitude":-24.83003,
+    "gn:longitude":25.3892,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Ngwanaoesi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7746185
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"113c974e7a3ffe412309e77db3d7bbb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1225834049,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1225834049,
+    "wof:lastmodified":1537029283,
+    "wof:name":"Ngwanaoesi",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3892,
+    -24.83003,
+    25.3892,
+    -24.83003
+],
+  "geometry": {"coordinates":[25.3892,-24.83003],"type":"Point"}
+}

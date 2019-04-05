@@ -1,0 +1,65 @@
+{
+  "id": 1259397415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.75,-22.48333,28.75,-22.48333",
+    "geom:latitude":-22.48333,
+    "geom:longitude":28.75,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Baines Drift",
+    "gn:country_code":"BW",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933898,
+    "gn:latitude":-22.48333,
+    "gn:longitude":28.75,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Baines Drift",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933898
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"3ab12c6713223434acf4aef5e36f1861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259397415,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1259397415,
+    "wof:lastmodified":1536981501,
+    "wof:name":"Baines Drift",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.75,
+    -22.48333,
+    28.75,
+    -22.48333
+],
+  "geometry": {"coordinates":[28.75,-22.48333],"type":"Point"}
+}

@@ -1,0 +1,320 @@
+{
+  "id": 85669619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":2.413878,
+    "geom:area_square_m":27069037666.574608,
+    "geom:bbox":"23.0493221368,-25.8292233265,25.6872489759,-23.9991032847",
+    "geom:latitude":-24.928394,
+    "geom:longitude":24.459159,
+    "gn:population":179888,
+    "iso:country":"BW",
+    "label:eng_x_preferred_longname":[
+        "Southern District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-25.178351,
+    "lbl:longitude":24.768842,
+    "mps:latitude":-25.178351,
+    "mps:longitude":24.768842,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":6.0,
+    "name:afr_x_preferred":[
+        "Suid distrik"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
+    ],
+    "name:ast_x_preferred":[
+        "Distritu sur"
+    ],
+    "name:baq_x_preferred":[
+        "Hegoaldea"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u0430\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u0989\u09a6\u09be\u09b0\u09cd\u09a8 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Southern"
+    ],
+    "name:bul_x_preferred":[
+        "\u042e\u0436\u043d\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Districte del Sud"
+    ],
+    "name:chi_x_preferred":[
+        "\u5357\u90e8\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Southern District"
+    ],
+    "name:dut_x_preferred":[
+        "Southern"
+    ],
+    "name:eng_x_preferred":[
+        "Southern"
+    ],
+    "name:eng_x_variant":[
+        "Ngwaketsi",
+        "Ngwaketsi District",
+        "Southern District"
+    ],
+    "name:fin_x_preferred":[
+        "Southern District"
+    ],
+    "name:fre_x_preferred":[
+        "District du Sud"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Southern District"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03cc\u03c4\u03b9\u03b1 \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u0915\u094d\u0937\u093f\u0923\u0940 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Selatan"
+    ],
+    "name:ita_x_preferred":[
+        "distretto Meridionale"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30b6\u30f3\u5730\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub0a8\ubd80 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Dienvidu distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Piet\u0173 rajonas"
+    ],
+    "name:mac_x_preferred":[
+        "\u0408\u0443\u0436\u0435\u043d \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:mar_x_preferred":[
+        "\u0926\u0915\u094d\u0937\u093f\u0923\u0940  \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Southern District"
+    ],
+    "name:nob_x_preferred":[
+        "Southern"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u062a\u06be\u0644\u0648\u0627\u06ba"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Po\u0142udniowy"
+    ],
+    "name:por_x_preferred":[
+        "Distrito do Sul"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Southern"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0436\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:sin_x_preferred":[
+        "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito Sur"
+    ],
+    "name:swe_x_preferred":[
+        "Southern"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e20\u0e32\u0e04\u0e43\u0e15\u0e49"
+    ],
+    "name:tsn_x_preferred":[
+        "Motsana wa Molapowabojang"
+    ],
+    "name:tur_x_preferred":[
+        "G\u00fcney B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Ngwaketse District"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u062f\u0631\u0646 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Mi\u1ec1n Nam"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BWA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BWA-2649",
+    "ne:adm1_code":"BWA-2649",
+    "ne:admin":"Botswana",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BW.SO",
+    "ne:code_local":"",
+    "ne:datarank":"6",
+    "ne:diss_me":"2649",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BC10",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Botswana",
+    "ne:gn_a1_code":"BW.10",
+    "ne:gn_id":"933043",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Southern District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BC10",
+    "ne:gns_id":"-1398119",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Southern",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BWA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BW-",
+    "ne:iso_a2":"BW",
+    "ne:labelrank":"4",
+    "ne:latitude":"-25.00040000000",
+    "ne:longitude":"24.36830000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Southern",
+    "ne:name_alt":"Borwa|Ngwakets|Ngwaketse",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SO",
+    "ne:provnum_ne":"3",
+    "ne:region":"",
+    "ne:region_cod":"BW.SO",
+    "ne:region_sub":"Southern",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"4",
+    "ne:sov_a3":"BWA",
+    "ne:sub_code":"",
+    "ne:type":"District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344750,
+    "ne:woe_label":"Southern, BW, Botswana",
+    "ne:woe_name":"Southern",
+    "qs:a0":"Botswana",
+    "qs:a0_lc":"BW",
+    "qs:a1":"Southern",
+    "qs:a1_lc":"BWA-2649",
+    "qs:a1r_lc":"BW.SO",
+    "qs:adm0":"Botswana",
+    "qs:adm0_a3":"BWA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-08-09",
+    "statoids:area_km":"28,470",
+    "statoids:area_mi":"10,954",
+    "statoids:as_of_date":"2011-08-09",
+    "statoids:capital":"Kanye",
+    "statoids:country":"BW",
+    "statoids:gec":"BC10",
+    "statoids:hasc":"BW.SN",
+    "statoids:iso":"SO",
+    "statoids:name":"Southern",
+    "statoids:population":"197767",
+    "statoids:timezone":"+2",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191573,
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BC10",
+        "gn:id":933043,
+        "gp:id":2344750,
+        "hasc:id":"BW.SN",
+        "iso:id":"BW-SO",
+        "qs:id":279860,
+        "wd:id":"Q57609",
+        "wk:page":"Southern District (Botswana)"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"7219d837f5628b4c79e31ede8f036922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":85669619,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng",
+        "tsn"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "tsn"
+    ],
+    "wof:lastmodified":1553814712,
+    "wof:name":"Southern",
+    "wof:parent_id":85632235,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":197767,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:shortcode":"SN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.04932213680723,
+    -25.82922332649525,
+    25.68724897585957,
+    -23.99910328468877
+],
+  "geometry": {"coordinates":[[[24.63966110357711,-24.46118492634321],[24.63764677417936,-24.66032608508073],[24.82057761346613,-24.65203795648648],[24.81361001339144,-24.51185515409202],[25.46674563959965,-24.70210946957633],[25.5848262879029,-24.76226083776743],[25.60270633273115,-24.76613656954703],[25.68724897585957,-24.7690821271384],[25.66833540225707,-24.8402922498874],[25.65639814585779,-24.85093759509391],[25.64394412642037,-24.86545867297934],[25.63479739798157,-24.87393360784966],[25.63619266106252,-24.88726612643052],[25.63092166530265,-24.91325937272183],[25.59883060095154,-25.00100595496082],[25.59929568894495,-25.00255624767266],[25.60100101128768,-25.00679371465816],[25.60952762210212,-25.0075688619134],[25.63696780831776,-25.00627695072063],[25.65014529816705,-25.00736215543907],[25.65980879144263,-25.011444593693],[25.65965376181168,-25.02467376128499],[25.65670820511963,-25.03821298544091],[25.54234825986435,-25.40196339309608],[25.54281334785776,-25.41322885502757],[25.54823937324852,-25.42397755302159],[25.65252241407819,-25.46319996510624],[25.65283770199841,-25.46331854971123],[25.60885502094249,-25.5592656449935],[25.587254272167,-25.61952036507273],[25.458424926769,-25.71119435593471],[25.38649133270889,-25.74354380270427],[25.17782189916136,-25.76328419950613],[25.1359639905458,-25.75656626382198],[25.0902820233967,-25.74364715459245],[25.05173140488046,-25.73785939489511],[25.01328413915178,-25.7430270387668],[24.96791223126451,-25.76287078745685],[24.9083809824964,-25.80410858114607],[24.88853723110839,-25.8116533409289],[24.82890262865345,-25.82601938828412],[24.79862023943258,-25.82922332649525],[24.77071496612285,-25.82260874359861],[24.73795210730395,-25.8158908079144],[24.66498498536885,-25.82333221401041],[24.62963830596311,-25.81609751259009],[24.57672163919233,-25.78333465556983],[24.50085111718533,-25.75784843355831],[24.48670210142092,-25.67259286906562],[24.46014041524802,-25.65373097050787],[24.41404503784827,-25.65063038508418],[24.3985421080319,-25.64634124125524],[24.2830969580582,-25.54045623087029],[24.25033410013867,-25.50144052525997],[24.2343660823289,-25.02575896600342],[24.22987023292495,-25.00395151075355],[24.21932824140526,-24.98736337711813],[24.20646080901918,-24.97191212324583],[24.09070560068295,-24.86225473386884],[24.07499596529163,-24.85104094788142],[24.05964806510616,-24.84690683368336],[24.0441451352898,-24.84530486412814],[23.08518558104976,-24.85057585988795],[23.07025109201436,-24.84918059680706],[23.05645348544004,-24.84582162896498],[23.05118248878091,-24.83574472364006],[23.04932213680723,-24.82323902825851],[23.05335289911704,-23.99910328468877],[24.63966110357711,-24.46118492634321]]],"type":"Polygon"}
+}

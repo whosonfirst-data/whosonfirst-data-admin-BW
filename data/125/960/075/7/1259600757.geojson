@@ -1,0 +1,65 @@
+{
+  "id": 1259600757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68662,-22.83951,27.68662,-22.83951",
+    "geom:latitude":-22.83951,
+    "geom:longitude":27.68662,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jwelejwete",
+    "gn:country_code":"BW",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7883445,
+    "gn:latitude":-22.83951,
+    "gn:longitude":27.68662,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Jwelejwete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7883445
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"38ccaf20a6584c35da34778cfc85b234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1259600757,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1259600757,
+    "wof:lastmodified":1536690020,
+    "wof:name":"Jwelejwete",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68662,
+    -22.83951,
+    27.68662,
+    -22.83951
+],
+  "geometry": {"coordinates":[27.68662,-22.83951],"type":"Point"}
+}

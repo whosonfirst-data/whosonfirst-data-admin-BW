@@ -1,0 +1,66 @@
+{
+  "id": 1293306971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.39797,-22.41595,28.39797,-22.41595",
+    "geom:latitude":-22.41595,
+    "geom:longitude":28.39797,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tsetsebjwe",
+    "gn:country_code":"BW",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7847878,
+    "gn:latitude":-22.41595,
+    "gn:longitude":28.39797,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Tsetsebjwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7847878,
+        "wk:page":"Tsetsebjwe"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"a291997e4140f25721ab70465d858e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1293306971,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1293306971,
+    "wof:lastmodified":1537488418,
+    "wof:name":"Tsetsebjwe",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.39797,
+    -22.41595,
+    28.39797,
+    -22.41595
+],
+  "geometry": {"coordinates":[28.39797,-22.41595],"type":"Point"}
+}

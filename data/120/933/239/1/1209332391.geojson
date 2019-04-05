@@ -1,0 +1,61 @@
+{
+  "id": 1209332391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.69878,-21.63248,26.69878,-21.63248",
+    "geom:latitude":-21.63248,
+    "geom:longitude":26.69878,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mahibitwane",
+    "gn:country_code":"BW",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7759602,
+    "gn:latitude":-21.63248,
+    "gn:longitude":26.69878,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mahibitwane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7759602
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"8c5a5a58b236c7287f74209d32a7ab98",
+    "wof:hierarchy":[
+        {
+            "country_id":85632235,
+            "locality_id":1209332391
+        }
+    ],
+    "wof:id":1209332391,
+    "wof:lastmodified":1536290332,
+    "wof:name":"Mahibitwane",
+    "wof:parent_id":85632235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.69878,
+    -21.63248,
+    26.69878,
+    -21.63248
+],
+  "geometry": {"coordinates":[26.69878,-21.63248],"type":"Point"}
+}

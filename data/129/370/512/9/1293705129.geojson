@@ -1,0 +1,65 @@
+{
+  "id": 1293705129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.93333,-19.46667,23.93333,-19.46667",
+    "geom:latitude":-19.46667,
+    "geom:longitude":23.93333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chiro Pan",
+    "gn:country_code":"BW",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933841,
+    "gn:latitude":-19.46667,
+    "gn:longitude":23.93333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Chiro Pan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933841
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"cf04dde98e44149741d32e9bab257b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1293705129,
+            "region_id":85669599
+        }
+    ],
+    "wof:id":1293705129,
+    "wof:lastmodified":1536970305,
+    "wof:name":"Chiro Pan",
+    "wof:parent_id":85669599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.93333,
+    -19.46667,
+    23.93333,
+    -19.46667
+],
+  "geometry": {"coordinates":[23.93333,-19.46667],"type":"Point"}
+}

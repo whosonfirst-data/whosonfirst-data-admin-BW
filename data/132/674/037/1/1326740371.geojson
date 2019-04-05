@@ -1,0 +1,65 @@
+{
+  "id": 1326740371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25,-19.35,22.25,-19.35",
+    "geom:latitude":-19.35,
+    "geom:longitude":22.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Soromesis",
+    "gn:country_code":"BW",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933045,
+    "gn:latitude":-19.35,
+    "gn:longitude":22.25,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Soromesis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933045
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"ae82045fbbdd4cf676667a6d205cccb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1326740371,
+            "region_id":85669599
+        }
+    ],
+    "wof:id":1326740371,
+    "wof:lastmodified":1536683859,
+    "wof:name":"Soromesis",
+    "wof:parent_id":85669599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25,
+    -19.35,
+    22.25,
+    -19.35
+],
+  "geometry": {"coordinates":[22.25,-19.35],"type":"Point"}
+}

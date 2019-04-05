@@ -1,0 +1,69 @@
+{
+  "id": 1292937595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.68333,-23.98333,26.68333,-23.98333",
+    "geom:latitude":-23.98333,
+    "geom:longitude":26.68333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lokala Drift",
+    "gn:country_code":"BW",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933514,
+    "gn:latitude":-23.98333,
+    "gn:longitude":26.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lokala Drift",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lokala",
+        "Lokala Drift"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933514
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"689f8a80836732f5836a471243353d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1292937595,
+            "region_id":85669607
+        }
+    ],
+    "wof:id":1292937595,
+    "wof:lastmodified":1537588932,
+    "wof:name":"Lokala Drift",
+    "wof:parent_id":85669607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.68333,
+    -23.98333,
+    26.68333,
+    -23.98333
+],
+  "geometry": {"coordinates":[26.68333,-23.98333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1310188937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.50182,-24.78027,23.50182,-24.78027",
+    "geom:latitude":-24.78027,
+    "geom:longitude":23.50182,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Thari",
+    "gn:country_code":"BW",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7893428,
+    "gn:latitude":-24.78027,
+    "gn:longitude":23.50182,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Thari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7893428
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"bdaf5149bb63a0369f35a1843a848540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1310188937,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1310188937,
+    "wof:lastmodified":1536875284,
+    "wof:name":"Thari",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.50182,
+    -24.78027,
+    23.50182,
+    -24.78027
+],
+  "geometry": {"coordinates":[23.50182,-24.78027],"type":"Point"}
+}

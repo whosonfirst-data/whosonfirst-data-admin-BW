@@ -1,0 +1,65 @@
+{
+  "id": 1243063209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.34326,-25.23177,25.34326,-25.23177",
+    "geom:latitude":-25.23177,
+    "geom:longitude":25.34326,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Malau",
+    "gn:country_code":"BW",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":933428,
+    "gn:latitude":-25.23177,
+    "gn:longitude":25.34326,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Malau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933428
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"58477b293d20d95b976d6cad46207cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1243063209,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1243063209,
+    "wof:lastmodified":1536859655,
+    "wof:name":"Malau",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.34326,
+    -25.23177,
+    25.34326,
+    -25.23177
+],
+  "geometry": {"coordinates":[25.34326,-25.23177],"type":"Point"}
+}

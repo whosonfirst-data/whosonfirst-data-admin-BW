@@ -1,0 +1,67 @@
+{
+  "id": 890415467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.87417,-24.56694,25.87417,-24.56694",
+    "geom:latitude":-24.56694,
+    "geom:longitude":25.87417,
+    "gn:country":"BW",
+    "gn:fcode":"PPL",
+    "gn:pop":4927,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Mmopane Lands"
+    ],
+    "qs:name":"Mmopone",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106213,
+        "gp:id":1265760,
+        "qs:id":130559
+    },
+    "wof:country":"BW",
+    "wof:created":1469051089,
+    "wof:geomhash":"66cd08b4cc05e650023165fead5da1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":890415467,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":890415467,
+    "wof:lastmodified":1505343426,
+    "wof:name":"Mmopone",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:population":4927,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.87417,
+    -24.56694,
+    25.87417,
+    -24.56694
+],
+  "geometry": {"coordinates":[25.87417,-24.56694],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1242888491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71496,-24.79785,25.71496,-24.79785",
+    "geom:latitude":-24.79785,
+    "geom:longitude":25.71496,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Hukung",
+    "gn:country_code":"BW",
+    "gn:dem":1089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7745685,
+    "gn:latitude":-24.79785,
+    "gn:longitude":25.71496,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Hukung",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7745685
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"69e5883e8941db2bc532e9ac12e8ddd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1242888491,
+            "region_id":85669615
+        }
+    ],
+    "wof:id":1242888491,
+    "wof:lastmodified":1536613394,
+    "wof:name":"Hukung",
+    "wof:parent_id":85669615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71496,
+    -24.79785,
+    25.71496,
+    -24.79785
+],
+  "geometry": {"coordinates":[25.71496,-24.79785],"type":"Point"}
+}

@@ -1,0 +1,125 @@
+{
+  "id": 421172743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.985498,-24.576085,25.985498,-24.576085",
+    "geom:latitude":-24.576085,
+    "geom:longitude":25.985498,
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Oodi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03cc\u03bd\u03c4\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Oodi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062f\u06cc\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Oodi"
+    ],
+    "name:fre_x_preferred":[
+        "Oodi"
+    ],
+    "name:gre_x_preferred":[
+        "\u039f\u03cc\u03bd\u03c4\u03b9"
+    ],
+    "name:ita_x_preferred":[
+        "Oodi"
+    ],
+    "name:mlg_x_preferred":[
+        "Oodi"
+    ],
+    "name:nld_x_preferred":[
+        "Oodi"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0648\u062f\u06cc\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Oodi"
+    ],
+    "name:spa_x_preferred":[
+        "Oodi"
+    ],
+    "name:swa_x_preferred":[
+        "Oodi"
+    ],
+    "name:swe_x_preferred":[
+        "Oodi"
+    ],
+    "name:tsn_x_preferred":[
+        "Motsana wa Oodi"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Oodi",
+    "qs:name_adm0":"Botswana",
+    "qs:name_adm1":"Kgatleng",
+    "qs:photos":166,
+    "qs:photos_1k":34,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":166,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1320750,
+    "qs:woe_adm0":23424755,
+    "qs:woe_id":55949038,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-24.573056,
+    "wd:longitude":26.033889,
+    "wd:wordcount":74,
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55949038,
+        "qs:id":1320750,
+        "wd:id":"Q170647"
+    },
+    "wof:country":"BW",
+    "wof:created":1459008953,
+    "wof:geomhash":"ca7d8d23fe991271cfb07f0f54b70d22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":421172743,
+            "region_id":85669631
+        }
+    ],
+    "wof:id":421172743,
+    "wof:lastmodified":1527716309,
+    "wof:name":"Oodi",
+    "wof:parent_id":85669631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.985498,
+    -24.576085,
+    25.985498,
+    -24.576085
+],
+  "geometry": {"coordinates":[25.985498,-24.576085],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1243190141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.22909,-20.32482,27.22909,-20.32482",
+    "geom:latitude":-20.32482,
+    "geom:longitude":27.22909,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Changate",
+    "gn:country_code":"BW",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7573791,
+    "gn:latitude":-20.32482,
+    "gn:longitude":27.22909,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Changate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7573791,
+        "wk:page":"Changate"
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"f678e232b7987a1879588c498f30a86c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1243190141,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":1243190141,
+    "wof:lastmodified":1537488415,
+    "wof:name":"Changate",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.22909000000001,
+    -20.32482000000001,
+    27.22909000000001,
+    -20.32482000000001
+],
+  "geometry": {"coordinates":[27.22909000000001,-20.32482000000001],"type":"Point"}
+}

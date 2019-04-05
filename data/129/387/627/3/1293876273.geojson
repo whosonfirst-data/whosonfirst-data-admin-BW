@@ -1,0 +1,65 @@
+{
+  "id": 1293876273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.36446,-24.65693,25.36446,-24.65693",
+    "geom:latitude":-24.65693,
+    "geom:longitude":25.36446,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Morarwana",
+    "gn:country_code":"BW",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7746930,
+    "gn:latitude":-24.65693,
+    "gn:longitude":25.36446,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Morarwana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"BW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7746930
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"f0a6c75fd92faaca1c3cd36cd68f311d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1293876273,
+            "region_id":85669611
+        }
+    ],
+    "wof:id":1293876273,
+    "wof:lastmodified":1536724130,
+    "wof:name":"Morarwana",
+    "wof:parent_id":85669611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.36446,
+    -24.65693,
+    25.36446,
+    -24.65693
+],
+  "geometry": {"coordinates":[25.36446,-24.65693],"type":"Point"}
+}

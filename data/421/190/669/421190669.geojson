@@ -10,6 +10,12 @@
     "geom:latitude":-22.119417,
     "geom:longitude":29.133,
     "iso:country":"BW",
+    "label:eng_x_preferred_longname":[
+        "Beitbridge County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
@@ -26,6 +32,9 @@
         "Beitbridge"
     ],
     "name:fra_x_preferred":[
+        "Beitbridge"
+    ],
+    "name:fre_x_preferred":[
         "Beitbridge"
     ],
     "name:ita_x_preferred":[
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":421190669,
-    "wof:lastmodified":1527716392,
+    "wof:lastmodified":1555220347,
     "wof:name":"Beitbridge",
     "wof:parent_id":85669601,
     "wof:placetype":"county",

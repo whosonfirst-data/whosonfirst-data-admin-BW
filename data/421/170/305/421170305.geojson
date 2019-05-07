@@ -5,11 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"25.04048,-17.839737,25.04048,-17.839737",
     "geom:latitude":-17.839737,
     "geom:longitude":25.04048,
     "iso:country":"BW",
+    "label:eng_x_preferred_longname":[
+        "Kabe County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -42,7 +50,7 @@
     },
     "wof:country":"BW",
     "wof:created":1459008847,
-    "wof:geomhash":"fb91286cbaab72e38a2c04b3f3fccf03",
+    "wof:geomhash":"247447e6455e4d5b21d197de6d3ce226",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":421170305,
-    "wof:lastmodified":1466635831,
+    "wof:lastmodified":1555220345,
     "wof:name":"Kabe",
     "wof:parent_id":85669599,
     "wof:placetype":"county",

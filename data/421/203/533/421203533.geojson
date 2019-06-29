@@ -23,9 +23,6 @@
     "name:ast_x_preferred":[
         "Nata"
     ],
-    "name:baq_x_preferred":[
-        "Nata"
-    ],
     "name:bar_x_preferred":[
         "Nata"
     ],
@@ -38,19 +35,19 @@
     "name:ceb_x_preferred":[
         "Nata"
     ],
+    "name:ces_x_preferred":[
+        "Nata"
+    ],
     "name:cos_x_preferred":[
         "Nata"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Nata"
     ],
     "name:dan_x_preferred":[
         "Nata"
     ],
     "name:deu_x_preferred":[
-        "Nata"
-    ],
-    "name:dut_x_preferred":[
         "Nata"
     ],
     "name:eng_x_preferred":[
@@ -62,6 +59,9 @@
     "name:est_x_preferred":[
         "Nata"
     ],
+    "name:eus_x_preferred":[
+        "Nata"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062a\u0627\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
     ],
@@ -71,16 +71,10 @@
     "name:fra_x_preferred":[
         "Nata"
     ],
-    "name:fre_x_preferred":[
-        "Nata"
-    ],
     "name:frp_x_preferred":[
         "Nata"
     ],
     "name:fur_x_preferred":[
-        "Nata"
-    ],
-    "name:ger_x_preferred":[
         "Nata"
     ],
     "name:gla_x_preferred":[
@@ -101,9 +95,6 @@
     "name:hun_x_preferred":[
         "Nata"
     ],
-    "name:ice_x_preferred":[
-        "Nata"
-    ],
     "name:ido_x_preferred":[
         "Nata"
     ],
@@ -114,6 +105,9 @@
         "Nata"
     ],
     "name:ind_x_preferred":[
+        "Nata"
+    ],
+    "name:isl_x_preferred":[
         "Nata"
     ],
     "name:ita_x_preferred":[
@@ -134,13 +128,13 @@
     "name:ltz_x_preferred":[
         "Nata"
     ],
-    "name:may_x_preferred":[
-        "Nata"
-    ],
     "name:min_x_preferred":[
         "Nata"
     ],
     "name:mlg_x_preferred":[
+        "Nata"
+    ],
+    "name:msa_x_preferred":[
         "Nata"
     ],
     "name:nap_x_preferred":[
@@ -167,9 +161,6 @@
     "name:pcd_x_preferred":[
         "Nata"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062a\u0627\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
-    ],
     "name:pms_x_preferred":[
         "Nata"
     ],
@@ -182,7 +173,7 @@
     "name:roh_x_preferred":[
         "Nata"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nata"
     ],
     "name:rus_x_preferred":[
@@ -194,7 +185,7 @@
     "name:sco_x_preferred":[
         "Nata"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Nata"
     ],
     "name:slv_x_preferred":[
@@ -225,9 +216,6 @@
         "Nata"
     ],
     "name:vol_x_preferred":[
-        "Nata"
-    ],
-    "name:wel_x_preferred":[
         "Nata"
     ],
     "name:wln_x_preferred":[
@@ -379,7 +367,7 @@
         }
     ],
     "wof:id":421203533,
-    "wof:lastmodified":1527716189,
+    "wof:lastmodified":1561843687,
     "wof:name":"Nata",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

@@ -25,14 +25,14 @@
     "name:cat_x_preferred":[
         "Jwaneng"
     ],
-    "name:chi_x_preferred":[
-        "\u6731\u74e6\u80fd"
-    ],
     "name:dan_x_preferred":[
         "Jwaneng"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jwaneng"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03bf\u03c5\u03b1\u03bd\u03ad\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Jwaneng Township Area"
@@ -40,17 +40,14 @@
     "name:eng_x_variant":[
         "Jwaneng"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0627\u0646\u0646\u06af\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Jwaneng"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jwaneng"
-    ],
-    "name:ger_x_preferred":[
-        "Jwaneng"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03bf\u03c5\u03b1\u03bd\u03ad\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0acd\u0ab5\u0abe\u0aa8\u0ac7\u0a82\u0a97"
@@ -82,14 +79,14 @@
     "name:mar_x_preferred":[
         "\u091c\u0941\u0935\u093e\u0928\u0947\u0902\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Jwaneng"
+    ],
+    "name:nld_x_preferred":[
         "Jwaneng"
     ],
     "name:nob_x_preferred":[
         "Jwaneng"
-    ],
-    "name:per_x_preferred":[
-        "\u06cc\u0648\u0627\u0646\u0646\u06af\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "Jwaneng"
@@ -97,7 +94,7 @@
     "name:por_x_preferred":[
         "Jwaneng"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Jwaneng"
     ],
     "name:rus_x_preferred":[
@@ -135,6 +132,9 @@
     ],
     "name:vie_x_preferred":[
         "Jwaneng"
+    ],
+    "name:zho_x_preferred":[
+        "\u6731\u74e6\u80fd"
     ],
     "qs:gn_country":"BW",
     "qs:gn_fcode":"PPL",
@@ -185,7 +185,7 @@
         }
     ],
     "wof:id":421171237,
-    "wof:lastmodified":1527726497,
+    "wof:lastmodified":1561843688,
     "wof:name":"Jwaneng",
     "wof:parent_id":85669653,
     "wof:placetype":"locality",

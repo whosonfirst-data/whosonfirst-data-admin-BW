@@ -16,22 +16,13 @@
     "name:afr_x_preferred":[
         "Thamaga"
     ],
-    "name:baq_x_preferred":[
-        "Thamaga"
-    ],
     "name:cat_x_preferred":[
         "Thamaga"
     ],
     "name:ceb_x_preferred":[
         "Thamaga"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u99ac\u54c8"
-    ],
     "name:deu_x_preferred":[
-        "Thamaga"
-    ],
-    "name:dut_x_preferred":[
         "Thamaga"
     ],
     "name:ell_x_preferred":[
@@ -52,15 +43,6 @@
     "name:fra_x_preferred":[
         "Thamaga"
     ],
-    "name:fre_x_preferred":[
-        "Thamaga"
-    ],
-    "name:ger_x_preferred":[
-        "Thamaga"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03bc\u03ac\u03b3\u03ba\u03b1"
-    ],
     "name:ita_x_preferred":[
         "Thamaga"
     ],
@@ -79,16 +61,10 @@
     "name:oci_x_preferred":[
         "Thamaga"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u0645\u0627\u06af\u0627\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
-    ],
     "name:pol_x_preferred":[
         "Thamaga"
     ],
     "name:ron_x_preferred":[
-        "Thamaga"
-    ],
-    "name:rum_x_preferred":[
         "Thamaga"
     ],
     "name:rus_x_preferred":[
@@ -161,7 +137,7 @@
         }
     ],
     "wof:id":421170193,
-    "wof:lastmodified":1527716458,
+    "wof:lastmodified":1561843688,
     "wof:name":"Thamaga",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

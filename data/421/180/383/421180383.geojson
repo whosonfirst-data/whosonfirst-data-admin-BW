@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Bonwapitse"
     ],
-    "name:dut_x_preferred":[
-        "Bonwapitse"
-    ],
     "name:eng_x_preferred":[
         "Bonwapitse"
     ],
     "name:fra_x_preferred":[
-        "Bonwapitse"
-    ],
-    "name:fre_x_preferred":[
         "Bonwapitse"
     ],
     "name:ita_x_preferred":[
@@ -100,7 +94,7 @@
         }
     ],
     "wof:id":421180383,
-    "wof:lastmodified":1527716237,
+    "wof:lastmodified":1561843687,
     "wof:name":"Bonwapitse",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

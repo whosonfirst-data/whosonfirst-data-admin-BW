@@ -19,13 +19,7 @@
     "name:ceb_x_preferred":[
         "Tlokweng"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u6d1b\u6606"
-    ],
     "name:deu_x_preferred":[
-        "Tlokweng"
-    ],
-    "name:dut_x_preferred":[
         "Tlokweng"
     ],
     "name:ell_x_preferred":[
@@ -40,15 +34,6 @@
     "name:fra_x_preferred":[
         "Tlokweng"
     ],
-    "name:fre_x_preferred":[
-        "Tlokweng"
-    ],
-    "name:ger_x_preferred":[
-        "Tlokweng"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bb\u03bf\u03ba\u03bf\u03c5\u03ad\u03bd\u03b3\u03ba"
-    ],
     "name:ita_x_preferred":[
         "Tlokweng"
     ],
@@ -61,9 +46,6 @@
     "name:nor_x_preferred":[
         "Tlokweng"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0644\u0648\u06a9\u0648\u0646\u06af\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
-    ],
     "name:pol_x_preferred":[
         "Tlokweng"
     ],
@@ -71,9 +53,6 @@
         "Tlokweng"
     ],
     "name:ron_x_preferred":[
-        "Tlokweng"
-    ],
-    "name:rum_x_preferred":[
         "Tlokweng"
     ],
     "name:rus_x_preferred":[
@@ -140,7 +119,7 @@
         }
     ],
     "wof:id":421177709,
-    "wof:lastmodified":1527716477,
+    "wof:lastmodified":1561843688,
     "wof:name":"Tlokweng",
     "wof:parent_id":85669631,
     "wof:placetype":"locality",

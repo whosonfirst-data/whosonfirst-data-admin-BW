@@ -22,16 +22,10 @@
     "name:dan_x_preferred":[
         "Botlhapatlou"
     ],
-    "name:dut_x_preferred":[
-        "Botlhapatlou"
-    ],
     "name:eng_x_preferred":[
         "Botlhapatlou"
     ],
     "name:fra_x_preferred":[
-        "Botlhapatlou"
-    ],
-    "name:fre_x_preferred":[
         "Botlhapatlou"
     ],
     "name:ita_x_preferred":[
@@ -106,7 +100,7 @@
         }
     ],
     "wof:id":421180381,
-    "wof:lastmodified":1527716243,
+    "wof:lastmodified":1561843687,
     "wof:name":"Botlapatla",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

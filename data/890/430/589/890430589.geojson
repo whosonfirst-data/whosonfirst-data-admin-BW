@@ -18,19 +18,19 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0447\u0438\u043a\u0430\u0443"
     ],
-    "name:dut_x_preferred":[
-        "Kachikau"
-    ],
     "name:eng_x_preferred":[
         "Kachikau"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kachikau"
     ],
     "name:ita_x_preferred":[
         "Kachikau"
     ],
     "name:mlg_x_preferred":[
+        "Kachikau"
+    ],
+    "name:nld_x_preferred":[
         "Kachikau"
     ],
     "name:pol_x_preferred":[
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":890430589,
-    "wof:lastmodified":1527729738,
+    "wof:lastmodified":1561843688,
     "wof:name":"Kachikau",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

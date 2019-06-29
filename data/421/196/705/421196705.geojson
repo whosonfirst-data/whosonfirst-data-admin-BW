@@ -19,9 +19,6 @@
     "name:ceb_x_preferred":[
         "Tobane"
     ],
-    "name:dut_x_preferred":[
-        "Tobane"
-    ],
     "name:eng_x_preferred":[
         "Tobane"
     ],
@@ -29,9 +26,6 @@
         "\u062a\u0648\u0628\u0627\u0646\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
     ],
     "name:fra_x_preferred":[
-        "Tobane"
-    ],
-    "name:fre_x_preferred":[
         "Tobane"
     ],
     "name:ita_x_preferred":[
@@ -42,9 +36,6 @@
     ],
     "name:nld_x_preferred":[
         "Tobane"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0628\u0627\u0646\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "Tobane"
@@ -104,7 +95,7 @@
         }
     ],
     "wof:id":421196705,
-    "wof:lastmodified":1527716365,
+    "wof:lastmodified":1561843687,
     "wof:name":"Tobane",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

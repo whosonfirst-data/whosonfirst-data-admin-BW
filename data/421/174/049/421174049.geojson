@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Paje"
     ],
-    "name:dut_x_preferred":[
-        "Paje"
-    ],
     "name:eng_x_preferred":[
         "Paje"
     ],
     "name:fra_x_preferred":[
-        "Paje"
-    ],
-    "name:fre_x_preferred":[
         "Paje"
     ],
     "name:ita_x_preferred":[
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":421174049,
-    "wof:lastmodified":1527716225,
+    "wof:lastmodified":1561843687,
     "wof:name":"Paje",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

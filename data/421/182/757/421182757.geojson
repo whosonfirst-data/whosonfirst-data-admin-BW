@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Tshane"
     ],
-    "name:dut_x_preferred":[
-        "Tshane"
-    ],
     "name:eng_x_preferred":[
         "Tshane"
     ],
     "name:fra_x_preferred":[
-        "Tshane"
-    ],
-    "name:fre_x_preferred":[
         "Tshane"
     ],
     "name:ita_x_preferred":[
@@ -109,7 +103,7 @@
         }
     ],
     "wof:id":421182757,
-    "wof:lastmodified":1527726456,
+    "wof:lastmodified":1561843688,
     "wof:name":"Tshane",
     "wof:parent_id":85669593,
     "wof:placetype":"locality",

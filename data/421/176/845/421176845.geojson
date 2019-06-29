@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Mathathane"
     ],
-    "name:dut_x_preferred":[
-        "Mathathane"
-    ],
     "name:eng_x_preferred":[
         "Mathathane"
     ],
     "name:fra_x_preferred":[
-        "Mathathane"
-    ],
-    "name:fre_x_preferred":[
         "Mathathane"
     ],
     "name:ita_x_preferred":[
@@ -97,7 +91,7 @@
         }
     ],
     "wof:id":421176845,
-    "wof:lastmodified":1527726469,
+    "wof:lastmodified":1561843688,
     "wof:name":"Mathathane",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

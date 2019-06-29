@@ -23,13 +23,7 @@
     "name:ceb_x_preferred":[
         "Palapye"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u62c9\u4f69"
-    ],
     "name:deu_x_preferred":[
-        "Palapye"
-    ],
-    "name:dut_x_preferred":[
         "Palapye"
     ],
     "name:ell_x_preferred":[
@@ -47,15 +41,6 @@
     "name:fra_x_preferred":[
         "Palapye"
     ],
-    "name:fre_x_preferred":[
-        "Palapye"
-    ],
-    "name:ger_x_preferred":[
-        "Palapye"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03bb\u03ac\u03c0\u03b9\u03b5"
-    ],
     "name:ita_x_preferred":[
         "Palapye"
     ],
@@ -68,9 +53,6 @@
     "name:nld_x_preferred":[
         "Palapye"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0644\u0627\u067e\u06cc\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
-    ],
     "name:pol_x_preferred":[
         "Palapye"
     ],
@@ -78,9 +60,6 @@
         "Palapye"
     ],
     "name:ron_x_preferred":[
-        "Palapye"
-    ],
-    "name:rum_x_preferred":[
         "Palapye"
     ],
     "name:rus_x_preferred":[
@@ -254,7 +233,7 @@
         }
     ],
     "wof:id":421199593,
-    "wof:lastmodified":1527716409,
+    "wof:lastmodified":1561843687,
     "wof:name":"Palapye",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

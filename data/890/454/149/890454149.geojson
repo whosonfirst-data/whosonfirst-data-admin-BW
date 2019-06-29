@@ -18,19 +18,19 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0440\u0435\u043c\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Moremi"
-    ],
     "name:eng_x_preferred":[
         "Moremi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Moremi"
     ],
     "name:ita_x_preferred":[
         "Moremi"
     ],
     "name:mlg_x_preferred":[
+        "Moremi"
+    ],
+    "name:nld_x_preferred":[
         "Moremi"
     ],
     "name:pol_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":890454149,
-    "wof:lastmodified":1527735431,
+    "wof:lastmodified":1561843689,
     "wof:name":"Moremi",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

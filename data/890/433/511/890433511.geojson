@@ -21,19 +21,16 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u0430\u043f\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u62c9\u5e15"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Orapa"
     ],
     "name:eng_x_preferred":[
         "Orapa"
     ],
-    "name:fre_x_preferred":[
-        "Orapa"
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0627\u067e\u0627\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Orapa"
     ],
     "name:ita_x_preferred":[
@@ -42,13 +39,13 @@
     "name:jpn_x_preferred":[
         "\u30aa\u30e9\u30d1"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0631\u0627\u067e\u0627\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    "name:nld_x_preferred":[
+        "Orapa"
     ],
     "name:pol_x_preferred":[
         "Orapa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Orapa"
     ],
     "name:rus_x_preferred":[
@@ -62,6 +59,9 @@
     ],
     "name:tsn_x_preferred":[
         "Orapa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u62c9\u5e15"
     ],
     "qs:name":"Orapa",
     "qs:photos_9r":0,
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":890433511,
-    "wof:lastmodified":1553816395,
+    "wof:lastmodified":1561843690,
     "wof:name":"Orapa",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

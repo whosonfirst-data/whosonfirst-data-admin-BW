@@ -18,22 +18,22 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0430\u043a\u0430\u043c\u0430\u0442\u0438"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kalakamati"
     ],
     "name:eng_x_preferred":[
         "Kalakamati"
     ],
-    "name:fre_x_preferred":[
-        "Kalakamati"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kalakamati"
     ],
     "name:ita_x_preferred":[
         "Kalakamati"
     ],
     "name:mlg_x_preferred":[
+        "Kalakamati"
+    ],
+    "name:nld_x_preferred":[
         "Kalakamati"
     ],
     "name:pol_x_preferred":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":890430587,
-    "wof:lastmodified":1527729738,
+    "wof:lastmodified":1561843688,
     "wof:name":"Kalakamati",
     "wof:parent_id":85669627,
     "wof:placetype":"locality",

@@ -18,25 +18,25 @@
     "name:afr_x_preferred":[
         "Werda"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Werda"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03ad\u03c1\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Werda"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Werda"
-    ],
-    "name:ger_x_preferred":[
-        "Werda"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03ad\u03c1\u03bd\u03c4\u03b1"
     ],
     "name:ita_x_preferred":[
         "Werda"
     ],
     "name:mlg_x_preferred":[
+        "Werda"
+    ],
+    "name:nld_x_preferred":[
         "Werda"
     ],
     "name:pol_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":890438467,
-    "wof:lastmodified":1553816398,
+    "wof:lastmodified":1561843689,
     "wof:name":"Werda",
     "wof:parent_id":85669593,
     "wof:placetype":"locality",

@@ -18,19 +18,19 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043b\u0435\u043d\u0433"
     ],
-    "name:dut_x_preferred":[
-        "Makaleng"
-    ],
     "name:eng_x_preferred":[
         "Makaleng"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Makaleng"
     ],
     "name:ita_x_preferred":[
         "Makaleng"
     ],
     "name:mlg_x_preferred":[
+        "Makaleng"
+    ],
+    "name:nld_x_preferred":[
         "Makaleng"
     ],
     "name:pol_x_preferred":[
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":890433521,
-    "wof:lastmodified":1513922308,
+    "wof:lastmodified":1561843690,
     "wof:name":"Makaleng",
     "wof:parent_id":85669627,
     "wof:placetype":"locality",

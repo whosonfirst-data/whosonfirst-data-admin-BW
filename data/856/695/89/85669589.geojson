@@ -34,9 +34,6 @@
     "name:ast_x_preferred":[
         "Ghanzi"
     ],
-    "name:baq_x_preferred":[
-        "Ghanzi"
-    ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0440\u0443\u0433\u0430 \u0413\u0430\u043d\u0437\u0456"
     ],
@@ -52,14 +49,14 @@
     "name:cat_x_preferred":[
         "Districte de Ghanzi"
     ],
-    "name:chi_x_preferred":[
-        "\u676d\u6fdf\u5340"
-    ],
     "name:dan_x_preferred":[
         "Ghanzi District"
     ],
-    "name:dut_x_preferred":[
-        "Ghanzi"
+    "name:deu_x_preferred":[
+        "Ghanzi District"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0393\u03ba\u03ac\u03bd\u03b6\u03b9"
     ],
     "name:eng_x_preferred":[
         "Ghanzi"
@@ -67,20 +64,14 @@
     "name:eng_x_variant":[
         "Ghanzi District"
     ],
+    "name:eus_x_preferred":[
+        "Ghanzi"
+    ],
     "name:fin_x_preferred":[
         "Ghanzi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Ghanzi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10dc\u10d6\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ghanzi District"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0393\u03ba\u03ac\u03bd\u03b6\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a98\u0abe\u0a82\u0a9d\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -100,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0c96\u0cbe\u0ca8\u0ccd\u0c9c\u0cbf \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10dc\u10d6\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uac04\uc9c0 \uad6c"
     ],
@@ -109,14 +103,17 @@
     "name:lit_x_preferred":[
         "Ganzio rajonas"
     ],
-    "name:mac_x_preferred":[
-        "\u0413\u0430\u043d\u0437\u0438"
-    ],
     "name:mar_x_preferred":[
         "\u0918\u0928\u091d\u0940 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0413\u0430\u043d\u0437\u0438"
+    ],
+    "name:msa_x_preferred":[
         "Ghanzi District"
+    ],
+    "name:nld_x_preferred":[
+        "Ghanzi"
     ],
     "name:nob_x_preferred":[
         "Ghanzi"
@@ -130,7 +127,7 @@
     "name:por_x_preferred":[
         "Ghanzi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Ghanzi"
     ],
     "name:rus_x_preferred":[
@@ -171,6 +168,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Ghanzi"
+    ],
+    "name:zho_x_preferred":[
+        "\u676d\u6fdf\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BWA",
@@ -296,7 +296,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1553550319,
+    "wof:lastmodified":1561843680,
     "wof:name":"Ghanzi",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

@@ -19,12 +19,6 @@
     "name:ceb_x_preferred":[
         "Mosopa"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u8212\u5e15"
-    ],
-    "name:dut_x_preferred":[
-        "Moshupa"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03c3\u03bf\u03cd\u03c0\u03b1"
     ],
@@ -37,12 +31,6 @@
     "name:fra_x_preferred":[
         "Moshupa"
     ],
-    "name:fre_x_preferred":[
-        "Moshupa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03c3\u03bf\u03cd\u03c0\u03b1"
-    ],
     "name:ita_x_preferred":[
         "Moshupa"
     ],
@@ -52,16 +40,10 @@
     "name:nld_x_preferred":[
         "Moshupa"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0634\u0648\u067e\u0627\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
-    ],
     "name:pol_x_preferred":[
         "Moshupa"
     ],
     "name:ron_x_preferred":[
-        "Moshupa"
-    ],
-    "name:rum_x_preferred":[
         "Moshupa"
     ],
     "name:rus_x_preferred":[
@@ -134,7 +116,7 @@
         }
     ],
     "wof:id":421198591,
-    "wof:lastmodified":1527716355,
+    "wof:lastmodified":1561843687,
     "wof:name":"Mosopa",
     "wof:parent_id":85669619,
     "wof:placetype":"locality",

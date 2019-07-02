@@ -22,19 +22,19 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u0431\u0438\u043d\u0430"
     ],
-    "name:dut_x_preferred":[
-        "Sebina"
-    ],
     "name:eng_x_preferred":[
         "Sebina"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sebina"
     ],
     "name:ita_x_preferred":[
         "Sebina"
     ],
     "name:mlg_x_preferred":[
+        "Sebina"
+    ],
+    "name:nld_x_preferred":[
         "Sebina"
     ],
     "name:pol_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1125820007,
-    "wof:lastmodified":1513922318,
+    "wof:lastmodified":1561843690,
     "wof:name":"Sebina",
     "wof:parent_id":85669627,
     "wof:placetype":"locality",

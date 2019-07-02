@@ -34,9 +34,6 @@
     "name:fra_x_preferred":[
         "Beitbridge"
     ],
-    "name:fre_x_preferred":[
-        "Beitbridge"
-    ],
     "name:ita_x_preferred":[
         "Beitbridge"
     ],
@@ -126,7 +123,7 @@
         }
     ],
     "wof:id":421190669,
-    "wof:lastmodified":1555220347,
+    "wof:lastmodified":1561843687,
     "wof:name":"Beitbridge",
     "wof:parent_id":85669601,
     "wof:placetype":"county",

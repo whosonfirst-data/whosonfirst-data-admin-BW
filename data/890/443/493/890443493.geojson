@@ -18,19 +18,19 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0430\u043c\u0430\u0440\u0435"
     ],
-    "name:dut_x_preferred":[
-        "Kalamare"
-    ],
     "name:eng_x_preferred":[
         "Kalamare"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kalamare"
     ],
     "name:ita_x_preferred":[
         "Kalamare"
     ],
     "name:mlg_x_preferred":[
+        "Kalamare"
+    ],
+    "name:nld_x_preferred":[
         "Kalamare"
     ],
     "name:pol_x_preferred":[
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":890443493,
-    "wof:lastmodified":1527787068,
+    "wof:lastmodified":1561843690,
     "wof:name":"Kalamare",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

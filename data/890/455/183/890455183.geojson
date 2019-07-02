@@ -15,19 +15,19 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Bogogobo"
-    ],
     "name:eng_x_preferred":[
         "Bogogobo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bogogobo"
     ],
     "name:ita_x_preferred":[
         "Bogogobo"
     ],
     "name:mlg_x_preferred":[
+        "Bogogobo"
+    ],
+    "name:nld_x_preferred":[
         "Bogogobo"
     ],
     "name:pol_x_preferred":[
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":890455183,
-    "wof:lastmodified":1513922291,
+    "wof:lastmodified":1561843689,
     "wof:name":"Bogo Gobo",
     "wof:parent_id":85669593,
     "wof:placetype":"locality",

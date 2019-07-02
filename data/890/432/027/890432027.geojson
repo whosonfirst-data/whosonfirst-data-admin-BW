@@ -19,17 +19,14 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0445\u0443\u0442\u0443\u0442\u0443"
     ],
-    "name:dut_x_preferred":[
-        "Lehututu"
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03c7\u03bf\u03c5\u03c4\u03bf\u03cd\u03c4\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Lehututu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lehututu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b5\u03c7\u03bf\u03c5\u03c4\u03bf\u03cd\u03c4\u03bf\u03c5"
     ],
     "name:ita_x_preferred":[
         "Lehututu"
@@ -38,6 +35,9 @@
         "\u30ec\u30d5\u30c8\u30a5\u30c8\u30a5"
     ],
     "name:mlg_x_preferred":[
+        "Lehututu"
+    ],
+    "name:nld_x_preferred":[
         "Lehututu"
     ],
     "name:pol_x_preferred":[
@@ -177,7 +177,7 @@
         }
     ],
     "wof:id":890432027,
-    "wof:lastmodified":1527793040,
+    "wof:lastmodified":1561843690,
     "wof:name":"Lehututu",
     "wof:parent_id":85669593,
     "wof:placetype":"locality",

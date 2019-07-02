@@ -18,26 +18,23 @@
     "name:cat_x_preferred":[
         "Kopong"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u84ec"
-    ],
-    "name:dut_x_preferred":[
-        "Kopong"
-    ],
     "name:eng_x_preferred":[
         "Kopong"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u067e\u0648\u0646\u06af\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
         "Kopong"
     ],
     "name:ita_x_preferred":[
         "Kopong"
     ],
-    "name:oci_x_preferred":[
+    "name:nld_x_preferred":[
         "Kopong"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u067e\u0648\u0646\u06af\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    "name:oci_x_preferred":[
+        "Kopong"
     ],
     "name:pol_x_preferred":[
         "Kopong"
@@ -59,6 +56,9 @@
     ],
     "name:unk_x_variant":[
         "Kopong Villages"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u84ec"
     ],
     "qs:name":"Kopong",
     "qs:photos_9r":0,
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":890443487,
-    "wof:lastmodified":1527787068,
+    "wof:lastmodified":1561843689,
     "wof:name":"Kopong",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

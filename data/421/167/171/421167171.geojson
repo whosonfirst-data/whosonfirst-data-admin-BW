@@ -19,9 +19,6 @@
     "name:ceb_x_preferred":[
         "Mookane"
     ],
-    "name:dut_x_preferred":[
-        "Mookane"
-    ],
     "name:eng_x_preferred":[
         "Mookane"
     ],
@@ -29,9 +26,6 @@
         "\u0645\u0648\u06a9\u0627\u0646\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
     ],
     "name:fra_x_preferred":[
-        "Mookane"
-    ],
-    "name:fre_x_preferred":[
         "Mookane"
     ],
     "name:ita_x_preferred":[
@@ -45,9 +39,6 @@
     ],
     "name:oci_x_preferred":[
         "Mookane"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u06a9\u0627\u0646\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "Mookane"
@@ -109,7 +100,7 @@
         }
     ],
     "wof:id":421167171,
-    "wof:lastmodified":1527716163,
+    "wof:lastmodified":1561843687,
     "wof:name":"Mookane",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

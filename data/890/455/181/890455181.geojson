@@ -21,17 +21,14 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u043a\u0441\u043f\u0438\u0446"
     ],
-    "name:dut_x_preferred":[
-        "Bokspits"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03cc\u03ba\u03c3\u03c0\u03b9\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Bokspits"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bokspits"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03cc\u03ba\u03c3\u03c0\u03b9\u03c4\u03c2"
     ],
     "name:ita_x_preferred":[
         "Bokspits"
@@ -40,6 +37,9 @@
         "\u30dc\u30c3\u30af\u30b9\u30d4\u30c3\u30c4"
     ],
     "name:mlg_x_preferred":[
+        "Bokspits"
+    ],
+    "name:nld_x_preferred":[
         "Bokspits"
     ],
     "name:pol_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":890455181,
-    "wof:lastmodified":1527734193,
+    "wof:lastmodified":1561843689,
     "wof:name":"Bokspits",
     "wof:parent_id":1108730597,
     "wof:placetype":"locality",

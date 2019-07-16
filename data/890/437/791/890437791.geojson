@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0442\u0445\u043e\u043b\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Ratholo"
+    ],
     "name:eng_x_preferred":[
         "Ratholo"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890437791,
-    "wof:lastmodified":1561843689,
+    "wof:lastmodified":1563263962,
     "wof:name":"Ratholo",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Makwate"
     ],
+    "name:ceb_x_preferred":[
+        "Makwata"
+    ],
     "name:eng_x_preferred":[
         "Makwate"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421194589,
-    "wof:lastmodified":1561843686,
+    "wof:lastmodified":1563263931,
     "wof:name":"Makwata",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:fas_x_preferred":[
         "\u0645\u0648\u06a9\u0627\u0646\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u06a9\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "Mookane"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421167171,
-    "wof:lastmodified":1561843687,
+    "wof:lastmodified":1563263933,
     "wof:name":"Mookane",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

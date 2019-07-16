@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0430\u0442\u043b\u0430\u043d\u0430\u043c\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Boatlaname"
+    ],
     "name:eng_x_preferred":[
         "Boatlaname"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890454097,
-    "wof:lastmodified":1561843689,
+    "wof:lastmodified":1563263967,
     "wof:name":"Boatlaname",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

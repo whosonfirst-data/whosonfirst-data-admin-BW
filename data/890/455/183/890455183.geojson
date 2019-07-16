@@ -15,6 +15,9 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bogo Gobo"
+    ],
     "name:eng_x_preferred":[
         "Bogogobo"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890455183,
-    "wof:lastmodified":1561843689,
+    "wof:lastmodified":1563263964,
     "wof:name":"Bogo Gobo",
     "wof:parent_id":85669593,
     "wof:placetype":"locality",

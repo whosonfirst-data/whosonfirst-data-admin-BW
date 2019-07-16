@@ -22,8 +22,17 @@
     "name:deu_x_preferred":[
         "Katima Mulilo Land"
     ],
+    "name:eng_x_preferred":[
+        "Katima Mulilo Rural Constituency"
+    ],
+    "name:fra_x_preferred":[
+        "Katima Mulilo"
+    ],
     "name:ita_x_preferred":[
         "Katima Mulilo Rurale"
+    ],
+    "name:nld_x_preferred":[
+        "Katima Mulilo Rural"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0442\u0438\u043c\u0430-\u041c\u0443\u043b\u0438\u043b\u043e \u041b\u044d\u043d\u0434"
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":421186333,
-    "wof:lastmodified":1555220346,
+    "wof:lastmodified":1563263939,
     "wof:name":"Katima Mulilo Rural",
     "wof:parent_id":85669599,
     "wof:placetype":"county",

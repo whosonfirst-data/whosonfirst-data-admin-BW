@@ -64,6 +64,9 @@
     "name:eng_x_variant":[
         "North-West District"
     ],
+    "name:epo_x_preferred":[
+        "Nord-Okcidenta Distrikto"
+    ],
     "name:eus_x_preferred":[
         "Ipar-mendebaldea"
     ],
@@ -290,7 +293,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1561843680,
+    "wof:lastmodified":1563263785,
     "wof:name":"North-West",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0445\u0443\u0442\u0443\u0442\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Lehututu"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03b5\u03c7\u03bf\u03c5\u03c4\u03bf\u03cd\u03c4\u03bf\u03c5"
     ],
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":890432027,
-    "wof:lastmodified":1561843690,
+    "wof:lastmodified":1563263979,
     "wof:name":"Lehututu",
     "wof:parent_id":85669593,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0445\u0430\u043a\u0445\u0435\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Khakhea"
+    ],
     "name:deu_x_preferred":[
         "Khakhea"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421197081,
-    "wof:lastmodified":1561843687,
+    "wof:lastmodified":1563263943,
     "wof:name":"Khakhea",
     "wof:parent_id":85669619,
     "wof:placetype":"locality",

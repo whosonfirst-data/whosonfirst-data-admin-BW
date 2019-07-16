@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Gobojango"
+    ],
     "name:eng_x_preferred":[
         "Kobojango"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421196699,
-    "wof:lastmodified":1561843687,
+    "wof:lastmodified":1563263942,
     "wof:name":"Gobojango",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

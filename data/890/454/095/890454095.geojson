@@ -15,8 +15,14 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u06a9\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Bokaa"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03ba\u03ac\u03b1"
@@ -26,6 +32,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u06a9\u0627\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0648\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "Bokaa"
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":890454095,
-    "wof:lastmodified":1561843689,
+    "wof:lastmodified":1563263968,
     "wof:name":"Bokaa",
     "wof:parent_id":85669607,
     "wof:placetype":"locality",

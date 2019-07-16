@@ -43,6 +43,9 @@
     "name:tsn_x_preferred":[
         "Mathathane"
     ],
+    "name:tsn_x_variant":[
+        "Tshane"
+    ],
     "qs:gn_country":"BW",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":933383,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421176845,
-    "wof:lastmodified":1561843688,
+    "wof:lastmodified":1563263955,
     "wof:name":"Mathathane",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

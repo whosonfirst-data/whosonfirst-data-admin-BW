@@ -15,6 +15,15 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bb\u03ac\u03ba\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Malakas"
+    ],
+    "name:lat_x_preferred":[
+        "Malakas"
+    ],
     "name:unk_x_variant":[
         "Malake"
     ],
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":890430573,
-    "wof:lastmodified":1527729738,
+    "wof:lastmodified":1563263961,
     "wof:name":"Malaka",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

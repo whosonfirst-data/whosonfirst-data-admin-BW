@@ -18,6 +18,9 @@
     "name:afr_x_preferred":[
         "Werda"
     ],
+    "name:ceb_x_preferred":[
+        "Werda"
+    ],
     "name:deu_x_preferred":[
         "Werda"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890438467,
-    "wof:lastmodified":1561843689,
+    "wof:lastmodified":1563263967,
     "wof:name":"Werda",
     "wof:parent_id":85669593,
     "wof:placetype":"locality",

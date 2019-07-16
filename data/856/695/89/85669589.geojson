@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629\u063a\u0627\u0646\u0632\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u063a\u0627\u0646\u0632\u064a"
+    ],
     "name:ast_x_preferred":[
         "Ghanzi"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:cat_x_preferred":[
         "Districte de Ghanzi"
+    ],
+    "name:ceb_x_preferred":[
+        "Ghanzi District"
     ],
     "name:dan_x_preferred":[
         "Ghanzi District"
@@ -72,6 +78,12 @@
     ],
     "name:fra_x_preferred":[
         "District de Ghanzi"
+    ],
+    "name:fra_x_variant":[
+        "Ghanzi"
+    ],
+    "name:frr_x_preferred":[
+        "Ghanzi"
     ],
     "name:guj_x_preferred":[
         "\u0a98\u0abe\u0a82\u0a9d\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -138,6 +150,9 @@
     ],
     "name:spa_x_preferred":[
         "Ghanzi"
+    ],
+    "name:spa_x_variant":[
+        "Distrito Ghanzi"
     ],
     "name:swe_x_preferred":[
         "Ghanzi"
@@ -296,7 +311,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1561843680,
+    "wof:lastmodified":1563263784,
     "wof:name":"Ghanzi",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

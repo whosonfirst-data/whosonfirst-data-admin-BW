@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0432\u0438\u043c\u0431\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kavimba"
+    ],
     "name:eng_x_preferred":[
         "Kavimba"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890430585,
-    "wof:lastmodified":1561843688,
+    "wof:lastmodified":1563263961,
     "wof:name":"Kavimba",
     "wof:parent_id":421199941,
     "wof:placetype":"locality",

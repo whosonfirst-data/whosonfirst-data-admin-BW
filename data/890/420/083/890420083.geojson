@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0443\u043c\u0430\u0434\u0443\u043c\u0430\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Dumadumana"
+    ],
     "name:eng_x_preferred":[
         "Dumadumana"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":890420083,
-    "wof:lastmodified":1561843690,
+    "wof:lastmodified":1563263975,
     "wof:name":"Dumadumana",
     "wof:parent_id":85669631,
     "wof:placetype":"locality",

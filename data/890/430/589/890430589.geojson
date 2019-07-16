@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0447\u0438\u043a\u0430\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Kachikau"
+    ],
     "name:eng_x_preferred":[
         "Kachikau"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890430589,
-    "wof:lastmodified":1561843688,
+    "wof:lastmodified":1563263960,
     "wof:name":"Kachikau",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

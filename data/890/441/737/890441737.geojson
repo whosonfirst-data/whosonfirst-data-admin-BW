@@ -15,11 +15,20 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Rakops"
+    ],
+    "name:dan_x_preferred":[
+        "Rakops"
+    ],
     "name:eng_x_preferred":[
         "Rakops"
     ],
     "name:fas_x_preferred":[
         "\u0631\u0627\u06a9\u0648\u067e\u0633\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u0627\u06a9\u0648\u067e\u0633"
     ],
     "name:fra_x_preferred":[
         "Tsienyane/Rakops"
@@ -57,6 +66,9 @@
     "name:zho_x_preferred":[
         "\u62c9\u79d1\u666e\u65af"
     ],
+    "name:zho_x_variant":[
+        "\u6c99\u5361\u97cb"
+    ],
     "qs:name":"Rakops",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":890441737,
-    "wof:lastmodified":1561843688,
+    "wof:lastmodified":1563263956,
     "wof:name":"Rakops",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

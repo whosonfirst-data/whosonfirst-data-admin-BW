@@ -15,6 +15,9 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Makobeng"
+    ],
     "name:eng_x_preferred":[
         "Mokobeng"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890441291,
-    "wof:lastmodified":1561843688,
+    "wof:lastmodified":1563263957,
     "wof:name":"Makobeng",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

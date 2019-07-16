@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Pandamatenga"
     ],
+    "name:ces_x_preferred":[
+        "Pandamatenga"
+    ],
     "name:eng_x_preferred":[
         "Pandamatenga"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421188199,
-    "wof:lastmodified":1561843687,
+    "wof:lastmodified":1563263938,
     "wof:name":"Pandamatenga",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

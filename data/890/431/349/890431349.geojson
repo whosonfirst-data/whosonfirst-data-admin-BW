@@ -15,6 +15,9 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mmathubudukwane"
+    ],
     "name:eng_x_preferred":[
         "Mmathubudukwane"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890431349,
-    "wof:lastmodified":1561843689,
+    "wof:lastmodified":1563263965,
     "wof:name":"Mmathubudukwane",
     "wof:parent_id":85669607,
     "wof:placetype":"locality",

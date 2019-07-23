@@ -15,14 +15,23 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0645\u062a\u0633\u06cc\u0645\u0648\u062a\u0644\u0647\u0627\u0628\u0627"
+    ],
     "name:cat_x_preferred":[
         "Metsimotlhaba"
+    ],
+    "name:ceb_x_preferred":[
+        "Metsemotlhaba"
     ],
     "name:eng_x_preferred":[
         "Metsimotlhaba"
     ],
     "name:fas_x_preferred":[
         "\u0645\u062a\u0633\u06cc\u0645\u0648\u062a\u0644\u0647\u0627\u0628\u0627\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u062a\u0633\u06cc\u0645\u0648\u062a\u0644\u0647\u0627\u0628\u0627"
     ],
     "name:fra_x_preferred":[
         "Metsimotlhaba"
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":890437929,
-    "wof:lastmodified":1561843689,
+    "wof:lastmodified":1563263963,
     "wof:name":"Metsemotlhaba",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

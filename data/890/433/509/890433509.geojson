@@ -15,6 +15,9 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pilane"
+    ],
     "name:eng_x_preferred":[
         "Pilane"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890433509,
-    "wof:lastmodified":1561843690,
+    "wof:lastmodified":1563263978,
     "wof:name":"Pilane",
     "wof:parent_id":85669607,
     "wof:placetype":"locality",

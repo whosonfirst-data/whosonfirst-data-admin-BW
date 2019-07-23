@@ -16,8 +16,17 @@
     "name:afr_x_preferred":[
         "Moshupa"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0634\u0648\u067e\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Mosopa"
+    ],
+    "name:dan_x_preferred":[
+        "Moshupa"
+    ],
+    "name:deu_x_preferred":[
+        "Moshupa"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03c3\u03bf\u03cd\u03c0\u03b1"
@@ -27,6 +36,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0634\u0648\u067e\u0627\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u0634\u0648\u067e\u0627"
     ],
     "name:fra_x_preferred":[
         "Moshupa"
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":421198591,
-    "wof:lastmodified":1561843687,
+    "wof:lastmodified":1563263940,
     "wof:name":"Mosopa",
     "wof:parent_id":85669619,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "name:afr_x_preferred":[
         "Lobatse"
     ],
+    "name:afr_x_variant":[
+        "Suid-Oos distrik"
+    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629 \u0627\u0644\u062c\u0646\u0648\u0628 \u0634\u0631\u0642\u064a\u0629"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:bre_x_preferred":[
         "Lobatse"
+    ],
+    "name:bre_x_variant":[
+        "South-East"
     ],
     "name:bul_x_preferred":[
         "\u042e\u0433\u043e\u0438\u0437\u0442\u043e\u0447\u043d\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
@@ -69,6 +75,12 @@
     "name:eng_x_preferred":[
         "South-East"
     ],
+    "name:eng_x_variant":[
+        "South-East District"
+    ],
+    "name:epo_x_preferred":[
+        "Sud-Orienta Distrikto"
+    ],
     "name:est_x_preferred":[
         "Lobatse"
     ],
@@ -83,6 +95,9 @@
     ],
     "name:fin_x_preferred":[
         "Lobatse"
+    ],
+    "name:fin_x_variant":[
+        "South-East District"
     ],
     "name:fra_x_preferred":[
         "Lobatse"
@@ -102,11 +117,20 @@
     "name:ind_x_preferred":[
         "Lobatse"
     ],
+    "name:ind_x_variant":[
+        "Distrik Tenggara"
+    ],
     "name:ita_x_preferred":[
         "Lobatse"
     ],
+    "name:ita_x_variant":[
+        "distretto Sudorientale"
+    ],
     "name:jpn_x_preferred":[
         "\u30ed\u30d0\u30c4\u30a7"
+    ],
+    "name:jpn_x_variant":[
+        "\u30b5\u30a6\u30b9\u30a4\u30fc\u30b9\u30c8\u5730\u533a"
     ],
     "name:kan_x_preferred":[
         "\u0c86\u0c97\u0ccd\u0ca8\u0cc7\u0caf \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
@@ -116,6 +140,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub85c\ubc14\uccb4"
+    ],
+    "name:kor_x_variant":[
+        "\ub0a8\ub3d9\ubd80 \uad6c"
     ],
     "name:lav_x_preferred":[
         "Dienvidaustrumu distrikts"
@@ -147,8 +174,14 @@
     "name:pol_x_preferred":[
         "Lobatse"
     ],
+    "name:pol_x_variant":[
+        "Dystrykt Po\u0142udniowo-Wschodni"
+    ],
     "name:por_x_preferred":[
         "Lobatse"
+    ],
+    "name:por_x_variant":[
+        "Sudeste"
     ],
     "name:ron_x_preferred":[
         "Lobatse"
@@ -159,6 +192,9 @@
     "name:rus_x_preferred":[
         "\u041b\u043e\u0431\u0430\u0446\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u042e\u0433\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"
+    ],
     "name:sin_x_preferred":[
         "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
@@ -167,6 +203,9 @@
     ],
     "name:swe_x_preferred":[
         "Lobatse"
+    ],
+    "name:swe_x_variant":[
+        "Southeast"
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 -\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
@@ -188,6 +227,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u0628\u0627\u0679\u0633\u06d2"
+    ],
+    "name:urd_x_variant":[
+        "\u062c\u0646\u0648\u0628-\u0645\u0634\u0631\u0642\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn \u0110\u00f4ng-Nam"
@@ -264,7 +306,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1561843683,
+    "wof:lastmodified":1563263801,
     "wof:name":"Lobatse",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

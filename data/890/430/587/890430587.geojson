@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0430\u043a\u0430\u043c\u0430\u0442\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Kalakamati"
+    ],
     "name:deu_x_preferred":[
         "Kalakamati"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890430587,
-    "wof:lastmodified":1561843688,
+    "wof:lastmodified":1563263961,
     "wof:name":"Kalakamati",
     "wof:parent_id":85669627,
     "wof:placetype":"locality",

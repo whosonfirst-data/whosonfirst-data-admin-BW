@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u043c\u0430\u0441\u0430\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Tamasane"
+    ],
     "name:eng_x_preferred":[
         "Tamasane"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421196703,
-    "wof:lastmodified":1561843687,
+    "wof:lastmodified":1563263941,
     "wof:name":"Tamasane",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

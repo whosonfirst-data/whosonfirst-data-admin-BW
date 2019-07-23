@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0440\u0435\u043c\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Moremi"
+    ],
     "name:eng_x_preferred":[
         "Moremi"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890454149,
-    "wof:lastmodified":1561843689,
+    "wof:lastmodified":1563263969,
     "wof:name":"Moremi",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

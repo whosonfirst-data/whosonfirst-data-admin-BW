@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043b\u0435\u043d\u0433"
     ],
+    "name:ceb_x_preferred":[
+        "Makaleng"
+    ],
     "name:eng_x_preferred":[
         "Makaleng"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890433521,
-    "wof:lastmodified":1561843690,
+    "wof:lastmodified":1563263976,
     "wof:name":"Makaleng",
     "wof:parent_id":85669627,
     "wof:placetype":"locality",

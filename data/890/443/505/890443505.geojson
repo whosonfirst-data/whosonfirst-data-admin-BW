@@ -15,6 +15,9 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Dutlwe"
+    ],
     "name:eng_x_preferred":[
         "Dutlwe"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890443505,
-    "wof:lastmodified":1561843689,
+    "wof:lastmodified":1563263969,
     "wof:name":"Dutlwe",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

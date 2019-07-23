@@ -49,6 +49,9 @@
     "name:cat_x_preferred":[
         "Districte de Kweneng"
     ],
+    "name:ceb_x_preferred":[
+        "Kweneng District"
+    ],
     "name:dan_x_preferred":[
         "Kweneng"
     ],
@@ -75,6 +78,12 @@
     ],
     "name:fra_x_preferred":[
         "District de Kweneng"
+    ],
+    "name:fra_x_variant":[
+        "Kweneng"
+    ],
+    "name:frr_x_preferred":[
+        "Kweneng"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab5\u0abe\u0aa8\u0ac7\u0a82\u0a97 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -141,6 +150,9 @@
     ],
     "name:spa_x_preferred":[
         "Kweneng"
+    ],
+    "name:spa_x_variant":[
+        "Distrito Kweneng"
     ],
     "name:swe_x_preferred":[
         "Kweneng"
@@ -296,7 +308,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1561843682,
+    "wof:lastmodified":1563263794,
     "wof:name":"Kweneng",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

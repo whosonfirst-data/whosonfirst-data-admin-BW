@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0445\u0443\u0438\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Khuis"
+    ],
     "name:eng_x_preferred":[
         "Khuis"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":890430583,
-    "wof:lastmodified":1561843689,
+    "wof:lastmodified":1563263962,
     "wof:name":"Khuis",
     "wof:parent_id":1108730591,
     "wof:placetype":"locality",

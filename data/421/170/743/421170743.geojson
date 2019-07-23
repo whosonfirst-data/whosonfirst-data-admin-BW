@@ -19,6 +19,12 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u064a\u0628\u064a-\u0641\u064a\u0643\u0648\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Selebi-Phikwe"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0644\u06cc\u0628 \u0641\u06cc\u06a9\u0648\u0647"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09b2\u09c7\u09ac\u09bf-\u09aa\u09bf\u0996\u09ac\u09c7"
     ],
@@ -26,6 +32,9 @@
         "Selebi-Phikwe"
     ],
     "name:cat_x_preferred":[
+        "Selebi-Phikwe"
+    ],
+    "name:ceb_x_preferred":[
         "Selebi-Phikwe"
     ],
     "name:dan_x_preferred":[
@@ -40,8 +49,14 @@
     "name:eng_x_preferred":[
         "Selebi-Phikwe"
     ],
+    "name:eus_x_preferred":[
+        "Selebi-Phikwe"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0644\u06cc\u0628 \u0641\u06cc\u06a9\u0648\u0647\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0644\u06cc\u0628 \u0641\u06cc\u06a9\u0648\u0647"
     ],
     "name:fin_x_preferred":[
         "Selebi-Pikwe"
@@ -194,7 +209,7 @@
         }
     ],
     "wof:id":421170743,
-    "wof:lastmodified":1561843688,
+    "wof:lastmodified":1563263951,
     "wof:name":"Selebi-Pikwe",
     "wof:parent_id":85669645,
     "wof:placetype":"locality",

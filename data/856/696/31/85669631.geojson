@@ -60,6 +60,12 @@
     "name:eng_x_preferred":[
         "South-East"
     ],
+    "name:eng_x_variant":[
+        "South-East District"
+    ],
+    "name:epo_x_preferred":[
+        "Sud-Orienta Distrikto"
+    ],
     "name:eus_x_preferred":[
         "Hego-ekialdea"
     ],
@@ -224,7 +230,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1561843682,
+    "wof:lastmodified":1563263799,
     "wof:name":"Gaborone",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

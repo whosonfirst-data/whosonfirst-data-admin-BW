@@ -16,6 +16,9 @@
     "name:afr_x_preferred":[
         "Masunga"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u0633\u0648\u0646\u0642\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u0441\u0443\u043d\u0433\u0430"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0633\u0648\u0646\u06af\u0627\u060c \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u0633\u0648\u0646\u06af\u0627"
     ],
     "name:fra_x_preferred":[
         "Masunga"
@@ -78,6 +84,9 @@
     ],
     "name:tsn_x_preferred":[
         "Motse wa Masunga"
+    ],
+    "name:tur_x_preferred":[
+        "Masunga"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0441\u0443\u043d\u0433\u0430"
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":421183401,
-    "wof:lastmodified":1561843688,
+    "wof:lastmodified":1563263954,
     "wof:name":"Masunga",
     "wof:parent_id":85669627,
     "wof:placetype":"locality",

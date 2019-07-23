@@ -19,10 +19,28 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Beitbrug"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a\u0628\u0631\u064a\u062f\u062c"
+    ],
+    "name:bar_x_preferred":[
+        "Beitbridge"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0438\u0442\u0431\u0440\u0438\u0434\u0433\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Beitbridge"
+    ],
     "name:dan_x_preferred":[
         "Beitbridge"
     ],
     "name:deu_x_preferred":[
+        "Beitbridge"
+    ],
+    "name:eng_x_preferred":[
         "Beitbridge"
     ],
     "name:est_x_preferred":[
@@ -37,8 +55,17 @@
     "name:ita_x_preferred":[
         "Beitbridge"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30a4\u30c8\u30d6\u30ea\u30c3\u30b8"
+    ],
     "name:lit_x_preferred":[
         "Beitbrid\u017eas"
+    ],
+    "name:nld_x_preferred":[
+        "Beitbridge"
+    ],
+    "name:nob_x_preferred":[
+        "Beitbridge"
     ],
     "name:nor_x_preferred":[
         "Beitbridge"
@@ -123,7 +150,7 @@
         }
     ],
     "wof:id":421190669,
-    "wof:lastmodified":1561843687,
+    "wof:lastmodified":1563263942,
     "wof:name":"Beitbridge",
     "wof:parent_id":85669601,
     "wof:placetype":"county",

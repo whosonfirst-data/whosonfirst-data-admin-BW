@@ -25,6 +25,15 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Chuma"
+    ],
+    "name:nld_x_preferred":[
+        "Chuma"
+    ],
+    "name:swe_x_preferred":[
+        "Chuma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632235
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209318725,
-    "wof:lastmodified":1536290773,
+    "wof:lastmodified":1564155693,
     "wof:name":"Chuma",
     "wof:parent_id":85632235,
     "wof:placetype":"locality",

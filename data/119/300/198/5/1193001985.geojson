@@ -25,6 +25,18 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kam\u0101s\u0101"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u0627\u0633\u0627"
+    ],
+    "name:msa_x_preferred":[
+        "Gamasa"
+    ],
+    "name:swe_x_preferred":[
+        "Kam\u0101s\u0101"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1193001985,
-    "wof:lastmodified":1536369540,
+    "wof:lastmodified":1564155719,
     "wof:name":"Gamasa",
     "wof:parent_id":85669619,
     "wof:placetype":"locality",

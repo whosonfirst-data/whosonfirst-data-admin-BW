@@ -25,6 +25,48 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0644\u0646\u062a\u0633\u0648\u0644\u062a\u0627\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Lentsweletau"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u062a\u0633\u0648\u0644\u062a\u0627\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Lentsweletau"
+    ],
+    "name:ita_x_preferred":[
+        "Lentsweletau"
+    ],
+    "name:mlg_x_preferred":[
+        "Lentsweletau"
+    ],
+    "name:nld_x_preferred":[
+        "Lentsweletau"
+    ],
+    "name:pol_x_preferred":[
+        "Lentsweletau"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0446\u0432\u0435-\u043b\u0435-\u0422\u0430\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Lentsweletau"
+    ],
+    "name:swa_x_preferred":[
+        "Lentsweletau"
+    ],
+    "name:swe_x_preferred":[
+        "Lentsweletau"
+    ],
+    "name:tsn_x_preferred":[
+        "Lentsweletau"
+    ],
+    "name:zho_x_preferred":[
+        "\u502b\u5d14\u840a\u5854\u70cf"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +89,7 @@
         }
     ],
     "wof:id":1343656861,
-    "wof:lastmodified":1537488418,
+    "wof:lastmodified":1564155604,
     "wof:name":"Lentsweletau",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

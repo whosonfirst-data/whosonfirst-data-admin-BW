@@ -25,6 +25,21 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Habu"
+    ],
+    "name:mlg_x_preferred":[
+        "Habu"
+    ],
+    "name:pol_x_preferred":[
+        "Habu"
+    ],
+    "name:swa_x_preferred":[
+        "Habu"
+    ],
+    "name:tsn_x_preferred":[
+        "Habu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1259461241,
-    "wof:lastmodified":1537488419,
+    "wof:lastmodified":1564155814,
     "wof:name":"Habu",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mmanoko"
+    ],
+    "name:fra_x_preferred":[
+        "Mmanoko"
+    ],
+    "name:ita_x_preferred":[
+        "Mmanoko"
+    ],
+    "name:mlg_x_preferred":[
+        "Mmanoko"
+    ],
+    "name:nld_x_preferred":[
+        "Mmanoko"
+    ],
+    "name:pol_x_preferred":[
+        "Mmanoko"
+    ],
+    "name:swa_x_preferred":[
+        "Mmanoko"
+    ],
+    "name:swe_x_preferred":[
+        "Mmanoko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +71,7 @@
         }
     ],
     "wof:id":1259404959,
-    "wof:lastmodified":1537488418,
+    "wof:lastmodified":1564155815,
     "wof:name":"Mmanoko",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

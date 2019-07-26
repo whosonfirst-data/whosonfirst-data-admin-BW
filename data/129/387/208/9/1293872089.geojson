@@ -31,6 +31,9 @@
     "name:eng_x_variant":[
         "Khwai"
     ],
+    "name:spa_x_preferred":[
+        "Khwai"
+    ],
     "name:und_x_variant":[
         "Khwai"
     ],
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1293872089,
-    "wof:lastmodified":1537588935,
+    "wof:lastmodified":1564155659,
     "wof:name":"Khwai River Lodge",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

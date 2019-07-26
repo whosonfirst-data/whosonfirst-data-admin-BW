@@ -25,6 +25,36 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Matlapa"
+    ],
+    "name:epo_x_preferred":[
+        "Matlapa"
+    ],
+    "name:eus_x_preferred":[
+        "Matlapa"
+    ],
+    "name:ita_x_preferred":[
+        "Matlapa"
+    ],
+    "name:por_x_preferred":[
+        "Matlapa"
+    ],
+    "name:sco_x_preferred":[
+        "Matlapa"
+    ],
+    "name:spa_x_preferred":[
+        "Matlapa"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0430\u0442\u043b\u0430\u043f\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Matlapa"
+    ],
+    "name:vie_x_preferred":[
+        "Matlapa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +76,7 @@
         }
     ],
     "wof:id":1293084809,
-    "wof:lastmodified":1536869520,
+    "wof:lastmodified":1564155638,
     "wof:name":"Matlapa",
     "wof:parent_id":85669619,
     "wof:placetype":"locality",

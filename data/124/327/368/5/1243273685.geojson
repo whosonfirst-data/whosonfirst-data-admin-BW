@@ -25,6 +25,30 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mogorosi"
+    ],
+    "name:fra_x_preferred":[
+        "Mogorosi"
+    ],
+    "name:ita_x_preferred":[
+        "Mogorosi"
+    ],
+    "name:mlg_x_preferred":[
+        "Mogorosi"
+    ],
+    "name:nld_x_preferred":[
+        "Mogorosi"
+    ],
+    "name:pol_x_preferred":[
+        "Mogorosi"
+    ],
+    "name:swa_x_preferred":[
+        "Mogorosi"
+    ],
+    "name:swe_x_preferred":[
+        "Mogorosi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +71,7 @@
         }
     ],
     "wof:id":1243273685,
-    "wof:lastmodified":1537488416,
+    "wof:lastmodified":1564155802,
     "wof:name":"Mogorosi",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

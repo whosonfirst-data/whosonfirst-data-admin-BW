@@ -25,6 +25,9 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:run_x_preferred":[
+        "Masama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1260084881,
-    "wof:lastmodified":1536985142,
+    "wof:lastmodified":1564155729,
     "wof:name":"Masama",
     "wof:parent_id":85669607,
     "wof:placetype":"locality",

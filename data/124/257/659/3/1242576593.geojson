@@ -25,6 +25,33 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03c3\u03ad\u03c3\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Rasesa"
+    ],
+    "name:ita_x_preferred":[
+        "Rasesa"
+    ],
+    "name:mlg_x_preferred":[
+        "Rasesa"
+    ],
+    "name:nld_x_preferred":[
+        "Rasesa"
+    ],
+    "name:pol_x_preferred":[
+        "Rasesa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0441\u0435\u0441\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Rasesa"
+    ],
+    "name:swe_x_preferred":[
+        "Rasesa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +74,7 @@
         }
     ],
     "wof:id":1242576593,
-    "wof:lastmodified":1537488419,
+    "wof:lastmodified":1564155788,
     "wof:name":"Rasesa",
     "wof:parent_id":85669607,
     "wof:placetype":"locality",

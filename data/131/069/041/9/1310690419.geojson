@@ -25,6 +25,27 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sesung"
+    ],
+    "name:ita_x_preferred":[
+        "Sesung"
+    ],
+    "name:nld_x_preferred":[
+        "Sesung"
+    ],
+    "name:pol_x_preferred":[
+        "Sesung"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0441\u0443\u043d\u0433"
+    ],
+    "name:swa_x_preferred":[
+        "Sesung"
+    ],
+    "name:swe_x_preferred":[
+        "Sesung"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1310690419,
-    "wof:lastmodified":1536649908,
+    "wof:lastmodified":1564155755,
     "wof:name":"Sesung",
     "wof:parent_id":85669619,
     "wof:placetype":"locality",

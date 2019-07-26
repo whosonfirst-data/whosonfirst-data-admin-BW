@@ -25,6 +25,18 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Matapa"
+    ],
+    "name:fra_x_preferred":[
+        "Matapa"
+    ],
+    "name:por_x_preferred":[
+        "Matapa"
+    ],
+    "name:swe_x_preferred":[
+        "Matapa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1226150543,
-    "wof:lastmodified":1537067768,
+    "wof:lastmodified":1564155848,
     "wof:name":"Matapa",
     "wof:parent_id":85669589,
     "wof:placetype":"locality",

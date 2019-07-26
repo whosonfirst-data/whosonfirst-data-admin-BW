@@ -25,6 +25,33 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Changate"
+    ],
+    "name:fra_x_preferred":[
+        "Changate"
+    ],
+    "name:ita_x_preferred":[
+        "Changate"
+    ],
+    "name:mlg_x_preferred":[
+        "Changate"
+    ],
+    "name:nld_x_preferred":[
+        "Changate"
+    ],
+    "name:pol_x_preferred":[
+        "Changate"
+    ],
+    "name:swa_x_preferred":[
+        "Changate"
+    ],
+    "name:swe_x_preferred":[
+        "Changate"
+    ],
+    "name:tsn_x_preferred":[
+        "Changate"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +74,7 @@
         }
     ],
     "wof:id":1243190141,
-    "wof:lastmodified":1537488415,
+    "wof:lastmodified":1564155804,
     "wof:name":"Changate",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

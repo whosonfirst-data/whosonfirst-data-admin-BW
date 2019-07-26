@@ -25,6 +25,9 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0646\u06cc\u0627\u0646\u0627"
+    ],
     "name:und_x_variant":[
         "Majana"
     ],
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1309789487,
-    "wof:lastmodified":1537588932,
+    "wof:lastmodified":1564155768,
     "wof:name":"Manyana",
     "wof:parent_id":85669619,
     "wof:placetype":"locality",

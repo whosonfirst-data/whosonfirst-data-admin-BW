@@ -25,6 +25,33 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kii"
+    ],
+    "name:deu_x_preferred":[
+        "Kii"
+    ],
+    "name:fra_x_preferred":[
+        "Kii"
+    ],
+    "name:nld_x_preferred":[
+        "Kii"
+    ],
+    "name:pol_x_preferred":[
+        "Kii"
+    ],
+    "name:por_x_preferred":[
+        "Kii"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Kii"
+    ],
+    "name:swe_x_preferred":[
+        "Kii"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1225958487,
-    "wof:lastmodified":1536849752,
+    "wof:lastmodified":1564155832,
     "wof:name":"Kii",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

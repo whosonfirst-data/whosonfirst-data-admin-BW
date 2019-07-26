@@ -25,6 +25,39 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u0628\u0627\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Tobane"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0628\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Tobane"
+    ],
+    "name:ita_x_preferred":[
+        "Tobane"
+    ],
+    "name:mlg_x_preferred":[
+        "Tobane"
+    ],
+    "name:nld_x_preferred":[
+        "Tobane"
+    ],
+    "name:pol_x_preferred":[
+        "Tobane"
+    ],
+    "name:swa_x_preferred":[
+        "Tobane"
+    ],
+    "name:swe_x_preferred":[
+        "Tobane"
+    ],
+    "name:tsn_x_preferred":[
+        "Tobane"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1225948359,
-    "wof:lastmodified":1536864185,
+    "wof:lastmodified":1564155830,
     "wof:name":"Tobane",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

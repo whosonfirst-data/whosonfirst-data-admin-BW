@@ -25,6 +25,42 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u062a\u0633\u06cc\u0645\u0648\u062a\u0644\u0647\u0627\u0628\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Metsemotlhaba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062a\u0633\u06cc\u0645\u0648\u062a\u0644\u0647\u0627\u0628\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Metsimotlhaba"
+    ],
+    "name:ita_x_preferred":[
+        "Metsimotlhabe"
+    ],
+    "name:mlg_x_preferred":[
+        "Metsimotlhabe"
+    ],
+    "name:nld_x_preferred":[
+        "Metsimotlhabe"
+    ],
+    "name:pol_x_preferred":[
+        "Metsimotlhaba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0446\u0438\u043c\u043e\u0442\u043b\u0445\u0430\u0431\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Metsimotlhabe"
+    ],
+    "name:swa_x_preferred":[
+        "Metsimotlhabe"
+    ],
+    "name:swe_x_preferred":[
+        "Metsimotlhabe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1276788873,
-    "wof:lastmodified":1536665614,
+    "wof:lastmodified":1564155680,
     "wof:name":"Metsimotlhabe",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

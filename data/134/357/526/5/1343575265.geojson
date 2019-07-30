@@ -25,6 +25,12 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shanga"
+    ],
+    "name:swe_x_preferred":[
+        "Shanga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1343575265,
-    "wof:lastmodified":1537074931,
+    "wof:lastmodified":1564155621,
     "wof:name":"Shanga",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

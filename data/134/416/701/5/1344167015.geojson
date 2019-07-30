@@ -26,6 +26,12 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Pahala"
+    ],
+    "name:msa_x_preferred":[
+        "Pahala"
+    ],
     "name:und_x_variant":[
         "Pala Camp",
         "Phala"
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1344167015,
-    "wof:lastmodified":1537588931,
+    "wof:lastmodified":1564155628,
     "wof:name":"Phala",
     "wof:parent_id":85669607,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tsn_x_preferred":[
+        "Morupule"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1343779705,
-    "wof:lastmodified":1537488416,
+    "wof:lastmodified":1564155614,
     "wof:name":"Morupule",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

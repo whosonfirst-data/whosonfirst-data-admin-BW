@@ -25,6 +25,15 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kai-Kai"
+    ],
+    "name:msa_x_preferred":[
+        "Kai-Kai"
+    ],
+    "name:spa_x_preferred":[
+        "Kai-Kai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1344071513,
-    "wof:lastmodified":1536858242,
+    "wof:lastmodified":1564155612,
     "wof:name":"Kai-Kai",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

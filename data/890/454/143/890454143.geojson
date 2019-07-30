@@ -15,6 +15,42 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0422\u0441\u0432\u0430\u043d\u0435"
+    ],
+    "name:est_x_preferred":[
+        "Tshwane linnaringkond"
+    ],
+    "name:fra_x_preferred":[
+        "Tshwane"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d8\u05e8\u05d5\u05e4\u05d5\u05dc\u05d9\u05df \u05e6\u05d5\u05d5\u05d0\u05e0\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c4\u30ef\u30cd"
+    ],
+    "name:nld_x_preferred":[
+        "Tshwane"
+    ],
+    "name:nov_x_preferred":[
+        "Tshwane"
+    ],
+    "name:pol_x_preferred":[
+        "Tshwane"
+    ],
+    "name:por_x_preferred":[
+        "Tsuane"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0432\u0430\u043d\u0435"
+    ],
+    "name:tsn_x_preferred":[
+        "Tshwane"
+    ],
+    "name:zho_x_preferred":[
+        "\u8328\u74e6\u5167\u5e02\u5927\u90fd\u6703\u81ea\u6cbb\u5e02"
+    ],
     "qs:name":"Tshwane",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -45,7 +81,7 @@
         }
     ],
     "wof:id":890454143,
-    "wof:lastmodified":1527735429,
+    "wof:lastmodified":1564155777,
     "wof:name":"Tshwane",
     "wof:parent_id":85669589,
     "wof:placetype":"locality",

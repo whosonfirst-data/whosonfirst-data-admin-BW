@@ -25,6 +25,27 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ranaka"
+    ],
+    "name:ita_x_preferred":[
+        "Ranaka"
+    ],
+    "name:mlg_x_preferred":[
+        "Ranaka"
+    ],
+    "name:nld_x_preferred":[
+        "Ranaka"
+    ],
+    "name:pol_x_preferred":[
+        "Ranaka"
+    ],
+    "name:swa_x_preferred":[
+        "Ranaka"
+    ],
+    "name:swe_x_preferred":[
+        "Ranaka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1293084939,
-    "wof:lastmodified":1536869340,
+    "wof:lastmodified":1564155638,
     "wof:name":"Ranaka",
     "wof:parent_id":85669619,
     "wof:placetype":"locality",

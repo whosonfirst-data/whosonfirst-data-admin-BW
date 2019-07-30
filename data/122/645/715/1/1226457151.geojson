@@ -25,6 +25,15 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kataba"
+    ],
+    "name:deu_x_preferred":[
+        "Kataba"
+    ],
+    "name:tgl_x_preferred":[
+        "Kataba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1226457151,
-    "wof:lastmodified":1536627190,
+    "wof:lastmodified":1564155837,
     "wof:name":"Kataba",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

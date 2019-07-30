@@ -25,6 +25,18 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Ramatlabama"
+    ],
+    "name:deu_x_preferred":[
+        "Ramatlabama"
+    ],
+    "name:nso_x_preferred":[
+        "Ramatlabama"
+    ],
+    "name:por_x_preferred":[
+        "Ramatlabama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1226063291,
-    "wof:lastmodified":1536700200,
+    "wof:lastmodified":1564155853,
     "wof:name":"Ramatlabama",
     "wof:parent_id":85669619,
     "wof:placetype":"locality",

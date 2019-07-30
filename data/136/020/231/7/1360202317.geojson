@@ -25,6 +25,45 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u0648\u0634\u0648\u0646\u0642"
+    ],
+    "name:ceb_x_preferred":[
+        "Shoshong"
+    ],
+    "name:deu_x_preferred":[
+        "Shoshong"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0634\u0648\u0646\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Shoshong"
+    ],
+    "name:ita_x_preferred":[
+        "Shoshong"
+    ],
+    "name:mlg_x_preferred":[
+        "Shoshong"
+    ],
+    "name:nld_x_preferred":[
+        "Shoshong"
+    ],
+    "name:pol_x_preferred":[
+        "Shoshong"
+    ],
+    "name:spa_x_preferred":[
+        "Shoshong"
+    ],
+    "name:swa_x_preferred":[
+        "Shoshong"
+    ],
+    "name:swe_x_preferred":[
+        "Shoshong"
+    ],
+    "name:tsn_x_preferred":[
+        "Shoshong"
+    ],
     "name:und_x_variant":[
         "Shushong",
         "Shoshong"
@@ -51,7 +90,7 @@
         }
     ],
     "wof:id":1360202317,
-    "wof:lastmodified":1537588931,
+    "wof:lastmodified":1564155761,
     "wof:name":"Shoshong",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

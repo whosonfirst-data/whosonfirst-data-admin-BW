@@ -25,6 +25,9 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Kogu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1326740459,
-    "wof:lastmodified":1536683732,
+    "wof:lastmodified":1564155577,
     "wof:name":"Kogu",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

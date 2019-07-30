@@ -25,6 +25,18 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Leribe"
+    ],
+    "name:deu_x_preferred":[
+        "Leribe"
+    ],
+    "name:fin_x_preferred":[
+        "Leribe"
+    ],
+    "name:swe_x_preferred":[
+        "Leribe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1226252409,
-    "wof:lastmodified":1536924638,
+    "wof:lastmodified":1564155844,
     "wof:name":"Leribe",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

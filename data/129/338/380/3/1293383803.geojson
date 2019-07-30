@@ -25,6 +25,24 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Janki"
+    ],
+    "name:deu_x_preferred":[
+        "Janki"
+    ],
+    "name:fra_x_preferred":[
+        "Janki"
+    ],
+    "name:lit_x_preferred":[
+        "Jankai"
+    ],
+    "name:nld_x_preferred":[
+        "Janki"
+    ],
+    "name:pol_x_preferred":[
+        "Janki"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1293383803,
-    "wof:lastmodified":1536937258,
+    "wof:lastmodified":1564155634,
     "wof:name":"Janki",
     "wof:parent_id":85669619,
     "wof:placetype":"locality",

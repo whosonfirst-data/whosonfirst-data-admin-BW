@@ -15,6 +15,27 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Camdeboo"
+    ],
+    "name:deu_x_preferred":[
+        "Camdeboo"
+    ],
+    "name:nld_x_preferred":[
+        "Camdeboo"
+    ],
+    "name:nov_x_preferred":[
+        "Kamdebo Komunie"
+    ],
+    "name:nso_x_preferred":[
+        "Camdeboo Mmusogae"
+    ],
+    "name:pol_x_preferred":[
+        "Camdeboo"
+    ],
+    "name:spa_x_preferred":[
+        "Camdeboo"
+    ],
     "qs:name":"Makoba",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -45,7 +66,7 @@
         }
     ],
     "wof:id":890433519,
-    "wof:lastmodified":1527792953,
+    "wof:lastmodified":1564155779,
     "wof:name":"Makoba",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

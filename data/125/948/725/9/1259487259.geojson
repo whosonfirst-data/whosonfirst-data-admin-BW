@@ -25,6 +25,33 @@
     "iso:country":"BW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Chadibe"
+    ],
+    "name:ita_x_preferred":[
+        "Chadibe"
+    ],
+    "name:mlg_x_preferred":[
+        "Chadibe"
+    ],
+    "name:nld_x_preferred":[
+        "Chadibe"
+    ],
+    "name:pol_x_preferred":[
+        "Chadibe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0434\u0438\u0431\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Chadibe"
+    ],
+    "name:swa_x_preferred":[
+        "Chadibe"
+    ],
+    "name:swe_x_preferred":[
+        "Chadibe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +74,7 @@
         }
     ],
     "wof:id":1259487259,
-    "wof:lastmodified":1537488417,
+    "wof:lastmodified":1564155811,
     "wof:name":"Chadibe",
     "wof:parent_id":85669627,
     "wof:placetype":"locality",

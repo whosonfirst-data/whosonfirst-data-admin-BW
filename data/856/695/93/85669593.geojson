@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KG"
+    ],
     "lbl:latitude":-24.66483,
     "lbl:longitude":21.707416,
     "mps:latitude":-24.66483,
@@ -297,9 +300,6 @@
         }
     ],
     "wof:id":85669593,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "tsn"
@@ -308,7 +308,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1563263783,
+    "wof:lastmodified":1565661468,
     "wof:name":"Kgalagadi",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

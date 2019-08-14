@@ -15,6 +15,9 @@
     "itu:country_code":[
         "267"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BW"
+    ],
     "lbl:latitude":-22.108313,
     "lbl:longitude":24.191388,
     "mps:latitude":-22.108313,
@@ -1019,9 +1022,6 @@
         }
     ],
     "wof:id":85632235,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "tsn"
@@ -1030,7 +1030,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1563263789,
+    "wof:lastmodified":1565661469,
     "wof:name":"Botswana",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

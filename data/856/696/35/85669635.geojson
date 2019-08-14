@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FR"
+    ],
     "lbl:latitude":-21.168761,
     "lbl:longitude":27.50629,
     "mps:latitude":-21.168761,
@@ -285,7 +288,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1563263792,
+    "wof:lastmodified":1565661470,
     "wof:name":"Francistown",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

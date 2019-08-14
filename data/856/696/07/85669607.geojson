@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KL"
+    ],
     "lbl:latitude":-24.15817,
     "lbl:longitude":26.340374,
     "mps:latitude":-24.15817,
@@ -297,9 +300,6 @@
         }
     ],
     "wof:id":85669607,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "tsn"
@@ -308,7 +308,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1563263796,
+    "wof:lastmodified":1565661470,
     "wof:name":"Kgatleng",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

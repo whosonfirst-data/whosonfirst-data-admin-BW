@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KW"
+    ],
     "lbl:latitude":-23.898994,
     "lbl:longitude":24.708428,
     "mps:latitude":-23.898994,
@@ -297,9 +300,6 @@
         }
     ],
     "wof:id":85669611,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "tsn"
@@ -308,7 +308,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1563263794,
+    "wof:lastmodified":1565661470,
     "wof:name":"Kweneng",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

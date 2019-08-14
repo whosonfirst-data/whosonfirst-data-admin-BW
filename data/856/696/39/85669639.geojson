@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "town"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LB"
+    ],
     "lbl:latitude":-25.220214,
     "lbl:longitude":25.683641,
     "mps:latitude":-25.220214,
@@ -306,7 +309,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1563263801,
+    "wof:lastmodified":1565661470,
     "wof:name":"Lobatse",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

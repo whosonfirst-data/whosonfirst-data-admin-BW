@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NC"
+    ],
     "lbl:latitude":-19.543001,
     "lbl:longitude":22.625448,
     "mps:latitude":-19.543001,
@@ -282,9 +285,6 @@
         }
     ],
     "wof:id":85669599,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "tsn"
@@ -293,7 +293,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1563263785,
+    "wof:lastmodified":1565661468,
     "wof:name":"North-West",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

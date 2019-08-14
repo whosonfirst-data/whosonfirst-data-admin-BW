@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "town"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ST"
+    ],
     "lbl:latitude":-20.57544,
     "lbl:longitude":26.206234,
     "mps:latitude":-20.57544,
@@ -252,7 +255,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1563263802,
+    "wof:lastmodified":1565661470,
     "wof:name":"Sowa",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

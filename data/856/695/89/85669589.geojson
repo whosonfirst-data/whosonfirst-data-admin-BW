@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GH"
+    ],
     "lbl:latitude":-22.15561,
     "lbl:longitude":22.590865,
     "mps:latitude":-22.15561,
@@ -300,9 +303,6 @@
         }
     ],
     "wof:id":85669589,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "tsn"
@@ -311,7 +311,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1563263784,
+    "wof:lastmodified":1565661468,
     "wof:name":"Ghanzi",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

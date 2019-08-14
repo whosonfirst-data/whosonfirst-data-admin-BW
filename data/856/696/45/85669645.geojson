@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "town"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SP"
+    ],
     "lbl:latitude":-21.968324,
     "lbl:longitude":27.857914,
     "mps:latitude":-21.968324,
@@ -251,7 +254,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1563263795,
+    "wof:lastmodified":1565661470,
     "wof:name":"Selebi-Phikwe",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SN"
+    ],
     "lbl:latitude":-25.178351,
     "lbl:longitude":24.768842,
     "mps:latitude":-25.178351,
@@ -297,9 +300,6 @@
         }
     ],
     "wof:id":85669619,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "tsn"
@@ -308,7 +308,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1563263796,
+    "wof:lastmodified":1565661470,
     "wof:name":"Southern",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

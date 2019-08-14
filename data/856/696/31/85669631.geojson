@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GB"
+    ],
     "lbl:latitude":-24.618994,
     "lbl:longitude":25.929288,
     "mps:latitude":-24.618994,
@@ -230,7 +233,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1563263799,
+    "wof:lastmodified":1565661470,
     "wof:name":"Gaborone",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

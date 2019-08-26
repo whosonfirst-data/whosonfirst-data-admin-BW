@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"26.88075,-23.28781,26.92075,-23.24781",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632235
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209619353,
-    "wof:lastmodified":1536281574,
+    "wof:lastmodified":1566630168,
     "wof:name":"Monate",
     "wof:parent_id":85632235,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":27.3294,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":798,
+    "gn:population":798,
     "iso:country":"BW",
+    "lbl:bbox":"27.3094,-22.6355,27.3494,-22.5955",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03bb\u03ac\u03ba\u03b1\u03c2"
     ],
@@ -24,7 +28,7 @@
     "name:lat_x_preferred":[
         "Malakas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malake"
     ],
     "qs:name":"Malaka",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":933432,
         "gp:id":1265556,
-        "qs:id":83978,
+        "qs_pg:id":83978,
         "wd:id":"Q6741154",
         "wk:page":"Malakas"
     },
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890430573,
-    "wof:lastmodified":1563263961,
+    "wof:lastmodified":1566630227,
     "wof:name":"Malaka",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

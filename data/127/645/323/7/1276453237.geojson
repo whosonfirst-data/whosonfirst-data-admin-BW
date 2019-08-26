@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"25.88,-22.33667,25.92,-22.29667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Papascheem",
         "Pepascheem"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276453237,
-    "wof:lastmodified":1537588931,
+    "wof:lastmodified":1566630142,
     "wof:name":"Pepascheem",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

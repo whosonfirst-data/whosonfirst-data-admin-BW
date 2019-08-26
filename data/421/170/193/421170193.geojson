@@ -10,8 +10,12 @@
     "geom:latitude":-24.67014,
     "geom:longitude":25.53975,
     "iso:country":"BW",
+    "lbl:bbox":"25.51975,-24.69014,25.55975,-24.65014",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Thamaga"
@@ -127,7 +131,7 @@
     "wof:concordances":{
         "gn:id":933018,
         "gp:id":1265922,
-        "qs:id":780079,
+        "qs_pg:id":780079,
         "wd:id":"Q38902",
         "wk:page":"Thamaga"
     },
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":421170193,
-    "wof:lastmodified":1563263949,
+    "wof:lastmodified":1566630224,
     "wof:name":"Thamaga",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

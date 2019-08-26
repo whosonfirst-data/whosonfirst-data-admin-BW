@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-25.178351,
     "lbl:longitude":24.768842,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-25.178351,
     "mps:longitude":24.768842,
     "mz:hierarchy_label":1,
@@ -121,7 +122,7 @@
         "Piet\u0173 rajonas"
     ],
     "name:mar_x_preferred":[
-        "\u0926\u0915\u094d\u0937\u093f\u0923\u0940  \u091c\u093f\u0932\u094d\u0939\u093e"
+        "\u0926\u0915\u094d\u0937\u093f\u0923\u0940 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
     "name:mkd_x_preferred":[
         "\u0408\u0443\u0436\u0435\u043d \u043e\u043a\u0440\u0443\u0433"
@@ -177,7 +178,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ngwaketse District"
     ],
     "name:urd_x_preferred":[
@@ -260,9 +261,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-09",
+    "src:population_date":"2011-08-09",
     "statoids:area_km":"28,470",
     "statoids:area_mi":"10,954",
     "statoids:as_of_date":"2011-08-09",
@@ -286,7 +287,7 @@
         "gp:id":2344750,
         "hasc:id":"BW.SN",
         "iso:id":"BW-SO",
-        "qs:id":279860,
+        "qs_pg:id":279860,
         "wd:id":"Q57609",
         "wk:page":"Southern District (Botswana)"
     },
@@ -308,11 +309,10 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1565661470,
+    "wof:lastmodified":1566630114,
     "wof:name":"Southern",
     "wof:parent_id":85632235,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":197767,
     "wof:population_rank":9,

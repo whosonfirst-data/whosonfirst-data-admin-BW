@@ -16,8 +16,11 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kabe"
@@ -64,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55921173,
-        "qs:id":238044
+        "qs_pg:id":238044
     },
     "wof:country":"BW",
     "wof:created":1459008847,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421170305,
-    "wof:lastmodified":1564155775,
+    "wof:lastmodified":1566630224,
     "wof:name":"Kabe",
     "wof:parent_id":85669599,
     "wof:placetype":"county",

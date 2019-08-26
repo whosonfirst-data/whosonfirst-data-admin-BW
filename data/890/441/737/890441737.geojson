@@ -11,10 +11,14 @@
     "geom:longitude":24.33333,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":5222,
+    "gn:population":5222,
     "iso:country":"BW",
+    "lbl:bbox":"24.31333,-21.03667,24.35333,-20.99667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rakops"
     ],
@@ -60,9 +64,6 @@
     "name:tsn_x_preferred":[
         "Rakops"
     ],
-    "name:unk_x_variant":[
-        "Tsienyane"
-    ],
     "name:zho_x_preferred":[
         "\u62c9\u79d1\u666e\u65af"
     ],
@@ -86,7 +87,7 @@
     "wof:concordances":{
         "gn:id":933151,
         "gp:id":1265843,
-        "qs:id":130119,
+        "qs_pg:id":130119,
         "wd:id":"Q168026",
         "wk:page":"Rakops"
     },
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":890441737,
-    "wof:lastmodified":1563263956,
+    "wof:lastmodified":1566630225,
     "wof:name":"Rakops",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":20.06667,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":819,
+    "gn:population":819,
     "iso:country":"BW",
+    "lbl:bbox":"20.04667,-23.07,20.08667,-23.03",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kuli"
     ],
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":933578,
         "gp:id":1265630,
-        "qs:id":83980,
+        "qs_pg:id":83980,
         "wk:page":"Kuli"
     },
     "wof:country":"BW",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890430577,
-    "wof:lastmodified":1564155776,
+    "wof:lastmodified":1566630228,
     "wof:name":"Kuli",
     "wof:parent_id":85669589,
     "wof:placetype":"locality",

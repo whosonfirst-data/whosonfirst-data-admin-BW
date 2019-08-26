@@ -16,8 +16,11 @@
     "label:eng_x_preferred_placetype":[
         "rural county"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Katima Mulilo Land"
@@ -68,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55921158,
-        "qs:id":1090168,
+        "qs_pg:id":1090168,
         "wd:id":"Q477422"
     },
     "wof:country":"BW",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421186333,
-    "wof:lastmodified":1563263939,
+    "wof:lastmodified":1566630221,
     "wof:name":"Katima Mulilo Rural",
     "wof:parent_id":85669599,
     "wof:placetype":"county",

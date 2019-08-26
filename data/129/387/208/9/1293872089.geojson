@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"23.73201,-19.18422,23.77201,-19.14422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khwai River Lodge"
     ],
@@ -32,9 +36,6 @@
         "Khwai"
     ],
     "name:spa_x_preferred":[
-        "Khwai"
-    ],
-    "name:und_x_variant":[
         "Khwai"
     ],
     "src:geom":"geonames",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1293872089,
-    "wof:lastmodified":1564155659,
+    "wof:lastmodified":1566630134,
     "wof:name":"Khwai River Lodge",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

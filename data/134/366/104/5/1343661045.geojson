@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"26.36466,-23.86359,26.40466,-23.82359",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:run_x_preferred":[
         "Masama"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343661045,
-    "wof:lastmodified":1564155620,
+    "wof:lastmodified":1566630100,
     "wof:name":"Masama",
     "wof:parent_id":85669607,
     "wof:placetype":"locality",

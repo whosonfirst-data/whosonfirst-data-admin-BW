@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"26.06786,-21.24245,26.10786,-21.20245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1326639473,
-    "wof:lastmodified":1536828313,
+    "wof:lastmodified":1566630082,
     "wof:name":"Iyaka",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

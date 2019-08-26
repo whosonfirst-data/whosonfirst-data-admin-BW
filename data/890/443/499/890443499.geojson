@@ -11,10 +11,14 @@
     "geom:longitude":25.23333,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":4689,
+    "gn:population":4689,
     "iso:country":"BW",
+    "lbl:bbox":"25.21333,-20.20333,25.25333,-20.16333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gweta"
     ],
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":933734,
         "gp:id":1265561,
-        "qs:id":1029425,
+        "qs_pg:id":1029425,
         "wd:id":"Q170752",
         "wk:page":"Gweta"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890443499,
-    "wof:lastmodified":1563263971,
+    "wof:lastmodified":1566630231,
     "wof:name":"Gweta",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

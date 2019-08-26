@@ -10,8 +10,12 @@
     "geom:latitude":-21.44236,
     "geom:longitude":27.46153,
     "iso:country":"BW",
+    "lbl:bbox":"27.44153,-21.46236,27.48153,-21.42236",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u062a\u0648\u0646\u0648\u062a\u0627"
@@ -64,7 +68,7 @@
     "name:tsn_x_preferred":[
         "Tonota"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tonoto"
     ],
     "name:zho_x_preferred":[
@@ -99,7 +103,7 @@
     "wof:concordances":{
         "gn:id":933000,
         "gp:id":1265935,
-        "qs:id":256937,
+        "qs_pg:id":256937,
         "wd:id":"Q170661",
         "wk:page":"Tonota"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421170739,
-    "wof:lastmodified":1563263948,
+    "wof:lastmodified":1566630224,
     "wof:name":"Tonota",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

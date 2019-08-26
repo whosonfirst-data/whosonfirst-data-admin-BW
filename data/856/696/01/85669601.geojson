@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-21.886799,
     "lbl:longitude":26.228674,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-21.886799,
     "mps:longitude":26.228674,
     "mz:hierarchy_label":1,
@@ -167,7 +168,7 @@
         "Central"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c02\u0c1f\u0c4d\u0c30\u0c32\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -184,7 +185,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ngwato"
     ],
     "name:urd_x_preferred":[
@@ -270,9 +271,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-09",
+    "src:population_date":"2011-08-09",
     "statoids:area_km":"142,093",
     "statoids:area_mi":"54,672",
     "statoids:as_of_date":"2011-08-09",
@@ -296,7 +297,7 @@
         "gp:id":2344741,
         "hasc:id":"BW.CT",
         "iso:id":"BW-CE",
-        "qs:id":219502,
+        "qs_pg:id":219502,
         "wd:id":"Q57525",
         "wk:page":"Central District (Botswana)"
     },
@@ -318,11 +319,10 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1565661470,
+    "wof:lastmodified":1566630114,
     "wof:name":"Central",
     "wof:parent_id":85632235,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":585595,
     "wof:population_rank":11,

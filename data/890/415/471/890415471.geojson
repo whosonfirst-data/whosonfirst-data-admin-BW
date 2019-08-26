@@ -11,10 +11,14 @@
     "geom:longitude":25.83139,
     "gn:country":"BW",
     "gn:fcode":"PPLL",
-    "gn:pop":1578,
+    "gn:population":1578,
     "iso:country":"BW",
+    "lbl:bbox":"25.81139,-24.65222,25.85139,-24.61222",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Nkoyaphiri",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":1106215,
         "gp:id":1265760,
-        "qs:id":130560
+        "qs_pg:id":130560
     },
     "wof:country":"BW",
     "wof:created":1469051090,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890415471,
-    "wof:lastmodified":1505343426,
+    "wof:lastmodified":1566630226,
     "wof:name":"Nkoyaphiri",
     "wof:parent_id":85669615,
     "wof:placetype":"locality",

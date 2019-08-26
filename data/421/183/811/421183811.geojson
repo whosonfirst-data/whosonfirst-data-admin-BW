@@ -10,8 +10,12 @@
     "geom:latitude":-24.87158,
     "geom:longitude":25.86989,
     "iso:country":"BW",
+    "lbl:bbox":"25.84989,-24.89158,25.88989,-24.85158",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Ramotswa"
@@ -139,7 +143,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043c\u043e\u0446\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ramoutsa"
     ],
     "name:urd_x_preferred":[
@@ -184,7 +188,7 @@
     "wof:concordances":{
         "gn:id":933141,
         "gp:id":1586781,
-        "qs:id":1300479,
+        "qs_pg:id":1300479,
         "wd:id":"Q170714",
         "wk:page":"Ramotswa"
     },
@@ -200,7 +204,7 @@
         }
     ],
     "wof:id":421183811,
-    "wof:lastmodified":1563263953,
+    "wof:lastmodified":1566630224,
     "wof:name":"Ramotswa",
     "wof:parent_id":85669615,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-24.68954,
     "geom:longitude":23.49403,
     "iso:country":"BW",
+    "lbl:bbox":"23.47403,-24.70954,23.51403,-24.66954",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041a\u0445\u0430\u043a\u0445\u0435\u0430"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "Khakhea"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kakia"
     ],
     "qs:gn_country":"BW",
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":933649,
         "gp:id":1265600,
-        "qs:id":1296317,
+        "qs_pg:id":1296317,
         "wd:id":"Q170954"
     },
     "wof:country":"BW",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421197081,
-    "wof:lastmodified":1563263943,
+    "wof:lastmodified":1566630223,
     "wof:name":"Khakhea",
     "wof:parent_id":85669619,
     "wof:placetype":"locality",

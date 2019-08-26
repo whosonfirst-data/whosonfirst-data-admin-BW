@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"23.4295665,-19.983875,23.4295665,-19.983875",
     "geom:latitude":-19.983875,
     "geom:longitude":23.429566,
     "iso:country":"BW",
+    "lbl:bbox":"23.4095665,-20.003875,23.4495665,-19.963875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55949016,
-        "qs:id":776597
+        "qs_pg:id":776597
     },
     "wof:country":"BW",
     "wof:created":1459008845,
-    "wof:geomhash":"590cdbde8c13b6f630ce146f327f0168",
+    "wof:geomhash":"e39cc8baf550fe1a4ea76c03f770b687",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421170249,
-    "wof:lastmodified":1466635831,
+    "wof:lastmodified":1566630224,
     "wof:name":"Ngamiland",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

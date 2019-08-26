@@ -11,10 +11,14 @@
     "geom:longitude":25.83333,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":853,
+    "gn:population":853,
     "iso:country":"BW",
+    "lbl:bbox":"25.81333,-23.62,25.85333,-23.58",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0430\u0442\u043b\u0430\u043d\u0430\u043c\u0435"
     ],
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":933887,
         "gp:id":1265505,
-        "qs:id":1029432,
+        "qs_pg:id":1029432,
         "wd:id":"Q38863",
         "wk:page":"Boatlaname"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890454097,
-    "wof:lastmodified":1563263967,
+    "wof:lastmodified":1566630230,
     "wof:name":"Boatlaname",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

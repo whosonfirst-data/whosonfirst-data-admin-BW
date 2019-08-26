@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"25.67681,-24.28761,25.71681,-24.24761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1259775851,
-    "wof:lastmodified":1536934936,
+    "wof:lastmodified":1566630257,
     "wof:name":"Pajane",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

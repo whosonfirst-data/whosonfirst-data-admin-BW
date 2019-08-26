@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-24.66483,
     "lbl:longitude":21.707416,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-24.66483,
     "mps:longitude":21.707416,
     "mz:hierarchy_label":1,
@@ -50,7 +51,7 @@
         "\u041e\u0431\u043b\u0430\u0441\u0442 \u041a\u0433\u0430\u043b\u0430\u0433\u0430\u0434\u0438"
     ],
     "name:cat_x_preferred":[
-        "Districte de  Kgalagadi"
+        "Districte de Kgalagadi"
     ],
     "name:ceb_x_preferred":[
         "Kgalagadi District"
@@ -175,7 +176,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0433\u0430\u043b\u0430\u0433\u0430\u0434\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kgalazadi"
     ],
     "name:urd_x_preferred":[
@@ -258,9 +259,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-09",
+    "src:population_date":"2011-08-09",
     "statoids:area_km":"25,023",
     "statoids:area_mi":"9,628",
     "statoids:as_of_date":"2011-08-09",
@@ -285,7 +286,7 @@
         "gp:id":2344744,
         "hasc:id":"BW.KG",
         "iso:id":"BW-KG",
-        "qs:id":235562,
+        "qs_pg:id":235562,
         "unlc:id":"BW-KG",
         "wd:id":"Q57581",
         "wk:page":"Kgalagadi District"
@@ -308,11 +309,10 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1565661468,
+    "wof:lastmodified":1566630110,
     "wof:name":"Kgalagadi",
     "wof:parent_id":85632235,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":50492,
     "wof:population_rank":8,

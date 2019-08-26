@@ -11,10 +11,14 @@
     "geom:longitude":21.91667,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":374,
+    "gn:population":374,
     "iso:country":"BW",
+    "lbl:bbox":"21.89667,-26.67,21.93667,-26.63",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bogo Gobo"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":933884,
         "gp:id":1588549,
-        "qs:id":83988,
+        "qs_pg:id":83988,
         "wd:id":"Q170624"
     },
     "wof:country":"BW",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":890455183,
-    "wof:lastmodified":1563263964,
+    "wof:lastmodified":1566630229,
     "wof:name":"Bogo Gobo",
     "wof:parent_id":85669593,
     "wof:placetype":"locality",

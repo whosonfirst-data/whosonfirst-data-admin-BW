@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"27.62714,-22.83847,27.66714,-22.79847",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1276672085,
-    "wof:lastmodified":1536820855,
+    "wof:lastmodified":1566630146,
     "wof:name":"Serutswane",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

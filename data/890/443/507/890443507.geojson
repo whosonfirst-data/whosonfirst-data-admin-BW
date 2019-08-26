@@ -11,11 +11,15 @@
     "geom:longitude":26.41667,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":2037,
+    "gn:population":2037,
     "iso:country":"BW",
+    "lbl:bbox":"26.39667,-20.60333,26.43667,-20.56333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Dukwe Quarantine Camp"
     ],
     "qs:name":"Dukwe",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":933790,
         "gp:id":1265790,
-        "qs:id":1029429
+        "qs_pg:id":1029429
     },
     "wof:country":"BW",
     "wof:created":1469052426,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890443507,
-    "wof:lastmodified":1505343594,
+    "wof:lastmodified":1566630231,
     "wof:name":"Dukwe",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

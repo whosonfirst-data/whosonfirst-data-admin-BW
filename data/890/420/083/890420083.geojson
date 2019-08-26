@@ -11,10 +11,14 @@
     "geom:longitude":25.87444,
     "gn:country":"BW",
     "gn:fcode":"PPLL",
-    "gn:pop":865,
+    "gn:population":865,
     "iso:country":"BW",
+    "lbl:bbox":"25.85444,-24.60722,25.89444,-24.56722",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u0443\u043c\u0430\u0434\u0443\u043c\u0430\u043d\u0430"
     ],
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":1106214,
         "gp:id":1265760,
-        "qs:id":84152,
+        "qs_pg:id":84152,
         "wd:id":"Q5313598",
         "wk:page":"Dumadumana"
     },
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":890420083,
-    "wof:lastmodified":1563263975,
+    "wof:lastmodified":1566630232,
     "wof:name":"Dumadumana",
     "wof:parent_id":85669631,
     "wof:placetype":"locality",

@@ -16,8 +16,11 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Beitbrug"
@@ -135,7 +138,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56048520,
-        "qs:id":1120023,
+        "qs_pg:id":1120023,
         "wd:id":"Q814922"
     },
     "wof:country":"BW",
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":421190669,
-    "wof:lastmodified":1563263942,
+    "wof:lastmodified":1566630222,
     "wof:name":"Beitbridge",
     "wof:parent_id":85669601,
     "wof:placetype":"county",

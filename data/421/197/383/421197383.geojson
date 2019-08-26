@@ -10,6 +10,9 @@
     "geom:latitude":-24.40659,
     "geom:longitude":25.49508,
     "iso:country":"BW",
+    "lbl:bbox":"25.47508,-24.42659,25.51508,-24.38659",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -307,7 +310,7 @@
     "wof:concordances":{
         "gn:id":933305,
         "gp:id":1265776,
-        "qs:id":130133,
+        "qs_pg:id":130133,
         "wd:id":"Q170725",
         "wk:page":"Molepolole"
     },
@@ -323,7 +326,7 @@
         }
     ],
     "wof:id":421197383,
-    "wof:lastmodified":1563263943,
+    "wof:lastmodified":1566630222,
     "wof:name":"Molepolole",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

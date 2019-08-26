@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"28.24547,-22.12749,28.28547,-22.08749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mathathane"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1343373163,
-    "wof:lastmodified":1564155606,
+    "wof:lastmodified":1566630089,
     "wof:name":"Mathathane",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

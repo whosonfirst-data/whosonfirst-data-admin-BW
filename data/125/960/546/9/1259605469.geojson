@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"25.63668,-24.66295,25.67668,-24.62295",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1259605469,
-    "wof:lastmodified":1536683105,
+    "wof:lastmodified":1566630266,
     "wof:name":"Kolobeng",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

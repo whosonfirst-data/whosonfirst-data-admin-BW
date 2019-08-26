@@ -10,8 +10,12 @@
     "geom:latitude":-21.8327,
     "geom:longitude":28.72882,
     "iso:country":"BW",
+    "lbl:bbox":"28.70882,-21.8527,28.74882,-21.8127",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Gobojango"
@@ -38,9 +42,6 @@
         "Kobojango"
     ],
     "name:swe_x_preferred":[
-        "Kobojango"
-    ],
-    "name:unk_x_variant":[
         "Kobojango"
     ],
     "qs:gn_country":"BW",
@@ -73,7 +74,7 @@
     "wof:concordances":{
         "gn:id":933753,
         "gp:id":1265554,
-        "qs:id":1296309,
+        "qs_pg:id":1296309,
         "wd:id":"Q166126"
     },
     "wof:country":"BW",
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":421196699,
-    "wof:lastmodified":1563263942,
+    "wof:lastmodified":1566630222,
     "wof:name":"Gobojango",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

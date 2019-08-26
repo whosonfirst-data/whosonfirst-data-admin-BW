@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"24.49667,-20.48667,24.53667,-20.44667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swa_x_preferred":[
         "Ngwala"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226557605,
-    "wof:lastmodified":1564155851,
+    "wof:lastmodified":1566630284,
     "wof:name":"Ngwala",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

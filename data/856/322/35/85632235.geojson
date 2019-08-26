@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":-22.108313,
     "lbl:longitude":24.191388,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-22.108313,
     "mps:longitude":24.191388,
     "mz:hierarchy_label":1,
@@ -791,13 +793,8 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"
     ],
-    "name:und_x_preferred":[
-        "Bocvana"
-    ],
     "name:und_x_variant":[
-        "Republika Bocvana"
-    ],
-    "name:unk_x_variant":[
+        "Republika Bocvana",
         "Betsjoeanaland"
     ],
     "name:urd_x_preferred":[
@@ -961,7 +958,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"267",
     "statoids:ds":"BW",
@@ -1006,7 +1003,7 @@
         "mzb:id":"botswana",
         "ne:adm0_a3":"BWA",
         "nyt:id":"1358072323741829111",
-        "qs:id":1263199,
+        "qs_pg:id":1263199,
         "uncrt:id":"BW",
         "wd:id":"Q963",
         "wk:page":"Botswana",
@@ -1030,7 +1027,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1565661469,
+    "wof:lastmodified":1566630111,
     "wof:name":"Botswana",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

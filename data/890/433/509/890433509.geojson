@@ -11,10 +11,14 @@
     "geom:longitude":26.13333,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":1277,
+    "gn:population":1277,
     "iso:country":"BW",
+    "lbl:bbox":"26.11333,-24.47,26.15333,-24.43",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pilane"
     ],
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":933164,
         "gp:id":55949019,
-        "qs:id":130121,
+        "qs_pg:id":130121,
         "wd:id":"Q170743",
         "wk:page":"Pilane"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890433509,
-    "wof:lastmodified":1563263978,
+    "wof:lastmodified":1566630233,
     "wof:name":"Pilane",
     "wof:parent_id":85669607,
     "wof:placetype":"locality",

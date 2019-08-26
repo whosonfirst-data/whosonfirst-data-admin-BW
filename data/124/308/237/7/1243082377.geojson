@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"24.46333,-23.33667,24.50333,-23.29667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kuke"
     ],
@@ -48,8 +52,7 @@
         "Kuke"
     ],
     "name:und_x_variant":[
-        "Kuki",
-        "Kuke"
+        "Kuki"
     ],
     "name:vol_x_preferred":[
         "Kuke"
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1243082377,
-    "wof:lastmodified":1564155784,
+    "wof:lastmodified":1566630237,
     "wof:name":"Kuke",
     "wof:parent_id":85669589,
     "wof:placetype":"locality",

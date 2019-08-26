@@ -11,8 +11,11 @@
     "geom:longitude":24.88333,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":3301,
+    "gn:population":3301,
     "iso:country":"BW",
+    "lbl:bbox":"24.86333,-21.20333,24.90333,-21.16333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -164,7 +167,7 @@
     "wof:concordances":{
         "gn:id":933288,
         "gp:id":1265786,
-        "qs:id":130132,
+        "qs_pg:id":130132,
         "wd:id":"Q167864",
         "wk:page":"Mopipi"
     },
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":890415451,
-    "wof:lastmodified":1563263958,
+    "wof:lastmodified":1566630226,
     "wof:name":"Mopipi",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"25.75615,-24.02409,25.79615,-23.98409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1259676205,
-    "wof:lastmodified":1537074446,
+    "wof:lastmodified":1566630265,
     "wof:name":"Moetlo",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

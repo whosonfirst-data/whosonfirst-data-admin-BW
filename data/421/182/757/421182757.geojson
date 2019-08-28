@@ -10,8 +10,12 @@
     "geom:latitude":-24.03333,
     "geom:longitude":21.9,
     "iso:country":"BW",
+    "lbl:bbox":"21.88,-24.05333,21.92,-24.01333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Tshane"
@@ -52,7 +56,7 @@
     "name:tsn_x_preferred":[
         "Tshane"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsane"
     ],
     "qs:gn_country":"BW",
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":932984,
         "gp:id":1265943,
-        "qs:id":944595,
+        "qs_pg:id":944595,
         "wd:id":"Q171173",
         "wk:page":"Tshane"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421182757,
-    "wof:lastmodified":1561843688,
+    "wof:lastmodified":1566630225,
     "wof:name":"Tshane",
     "wof:parent_id":85669593,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":21.86667,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":1942,
+    "gn:population":1942,
     "iso:country":"BW",
+    "lbl:bbox":"21.84667,-23.98667,21.88667,-23.94667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -164,7 +167,7 @@
     "wof:concordances":{
         "gn:id":933548,
         "gp:id":1265943,
-        "qs:id":130141,
+        "qs_pg:id":130141,
         "wd:id":"Q170646",
         "wk:page":"Lehututu"
     },
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":890432027,
-    "wof:lastmodified":1563263979,
+    "wof:lastmodified":1566630234,
     "wof:name":"Lehututu",
     "wof:parent_id":85669593,
     "wof:placetype":"locality",

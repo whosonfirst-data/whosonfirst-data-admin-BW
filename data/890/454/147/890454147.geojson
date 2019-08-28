@@ -11,11 +11,15 @@
     "geom:longitude":27.15205,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":893,
+    "gn:population":893,
     "iso:country":"BW",
+    "lbl:bbox":"27.13205,-23.12719,27.17205,-23.08719",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Shakwe"
     ],
     "qs:name":"Shakgwe",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":933076,
         "gp:id":1265699,
-        "qs:id":555026
+        "qs_pg:id":555026
     },
     "wof:country":"BW",
     "wof:created":1469052888,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890454147,
-    "wof:lastmodified":1505343655,
+    "wof:lastmodified":1566630230,
     "wof:name":"Shakgwe",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"27.20909,-20.34482,27.24909,-20.30482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Changate"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1243190141,
-    "wof:lastmodified":1564155804,
+    "wof:lastmodified":1566630252,
     "wof:name":"Changate",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"27.49311,-22.77253,27.53311,-22.73253",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293603083,
-    "wof:lastmodified":1536618256,
+    "wof:lastmodified":1566630130,
     "wof:name":"Mmamonyai",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

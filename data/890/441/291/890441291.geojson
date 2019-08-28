@@ -11,10 +11,14 @@
     "geom:longitude":27.66766,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":1822,
+    "gn:population":1822,
     "iso:country":"BW",
+    "lbl:bbox":"27.64766,-23.01637,27.68766,-22.97637",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Makobeng"
     ],
@@ -42,9 +46,6 @@
     "name:swe_x_preferred":[
         "Mokobeng"
     ],
-    "name:unk_x_variant":[
-        "Mokobeng"
-    ],
     "qs:name":"Makobeng",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -59,7 +60,7 @@
     "wof:concordances":{
         "gn:id":933313,
         "gp:id":1265908,
-        "qs:id":275852,
+        "qs_pg:id":275852,
         "wd:id":"Q72034"
     },
     "wof:country":"BW",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":890441291,
-    "wof:lastmodified":1563263957,
+    "wof:lastmodified":1566630225,
     "wof:name":"Makobeng",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"26.90278,-23.16421,26.94278,-23.12421",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1310314753,
-    "wof:lastmodified":1536694678,
+    "wof:lastmodified":1566630194,
     "wof:name":"Mokgatsha",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

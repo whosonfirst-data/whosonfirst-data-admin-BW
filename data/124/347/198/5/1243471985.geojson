@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"27.1823,-21.80414,27.2223,-21.76414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1243471985,
-    "wof:lastmodified":1536769208,
+    "wof:lastmodified":1566630245,
     "wof:name":"Marulamantsi",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

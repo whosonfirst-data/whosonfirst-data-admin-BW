@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"26.97038,-23.01758,27.01038,-22.97758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1242891735,
-    "wof:lastmodified":1536608428,
+    "wof:lastmodified":1566630238,
     "wof:name":"Majwana",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

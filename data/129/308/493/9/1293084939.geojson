@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"25.45105,-24.93081,25.49105,-24.89081",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ranaka"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1293084939,
-    "wof:lastmodified":1564155638,
+    "wof:lastmodified":1566630118,
     "wof:name":"Ranaka",
     "wof:parent_id":85669619,
     "wof:placetype":"locality",

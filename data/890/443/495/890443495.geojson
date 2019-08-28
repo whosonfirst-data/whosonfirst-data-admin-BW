@@ -11,10 +11,14 @@
     "geom:longitude":25.55,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":16853,
+    "gn:population":16853,
     "iso:country":"BW",
+    "lbl:bbox":"25.53,-25.43667,25.57,-25.39667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "qs:name":"Janeng",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":933719,
         "gp:id":55949027,
-        "qs:id":1029423
+        "qs_pg:id":1029423
     },
     "wof:country":"BW",
     "wof:created":1469052426,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890443495,
-    "wof:lastmodified":1505343594,
+    "wof:lastmodified":1566630231,
     "wof:name":"Janeng",
     "wof:parent_id":85669615,
     "wof:placetype":"locality",

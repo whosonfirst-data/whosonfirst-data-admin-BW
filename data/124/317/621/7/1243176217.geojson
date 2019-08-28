@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"26.8695,-22.77985,26.9095,-22.73985",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1243176217,
-    "wof:lastmodified":1536698385,
+    "wof:lastmodified":1566630251,
     "wof:name":"Matsisadikgang",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

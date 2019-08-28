@@ -11,10 +11,14 @@
     "geom:longitude":25.78222,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":12884,
+    "gn:population":12884,
     "iso:country":"BW",
+    "lbl:bbox":"25.76222,-24.68667,25.80222,-24.64667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0642\u0627\u0628\u0627\u0646"
     ],
@@ -69,7 +73,7 @@
     "name:tsn_x_preferred":[
         "Gabane"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khabane"
     ],
     "name:zho_x_preferred":[
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":933777,
         "gp:id":55949045,
-        "qs:id":1029426,
+        "qs_pg:id":1029426,
         "wd:id":"Q38855",
         "wk:page":"Gabane"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":890443501,
-    "wof:lastmodified":1563263971,
+    "wof:lastmodified":1566630231,
     "wof:name":"Gabane",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-24.929196,
     "lbl:longitude":25.73749,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-24.929196,
     "mps:longitude":25.73749,
     "mz:hierarchy_label":1,
@@ -153,7 +154,7 @@
         "Southeast"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 -\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 -\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c06\u0c17\u0c4d\u0c28\u0c47\u0c2f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -166,9 +167,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u043e-\u0421\u0445\u0456\u0434\u043d\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
-    ],
-    "name:unk_x_variant":[
-        "South East"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0646\u0648\u0628-\u0645\u0634\u0631\u0642\u06cc \u0636\u0644\u0639"
@@ -250,9 +248,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-09",
+    "src:population_date":"2011-08-09",
     "statoids:area_km":"1,780",
     "statoids:area_mi":"685",
     "statoids:as_of_date":"2011-08-09",
@@ -276,7 +274,7 @@
         "gp:id":2344749,
         "hasc:id":"BW.SR",
         "iso:id":"BW-SE",
-        "qs:id":219505,
+        "qs_pg:id":219505,
         "wd:id":"Q57695",
         "wk:page":"South-East District (Botswana)"
     },
@@ -298,11 +296,10 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1565661470,
+    "wof:lastmodified":1566630115,
     "wof:name":"South-East",
     "wof:parent_id":85632235,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":85014,
     "wof:population_rank":8,

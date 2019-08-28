@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-24.570913,
     "lbl:longitude":24.722615,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-24.570913,
     "mps:longitude":24.722615,
     "mz:hierarchy_label":1,
@@ -118,7 +119,7 @@
         "Piet\u0173 rajonas"
     ],
     "name:mar_x_preferred":[
-        "\u0926\u0915\u094d\u0937\u093f\u0923\u0940  \u091c\u093f\u0932\u094d\u0939\u093e"
+        "\u0926\u0915\u094d\u0937\u093f\u0923\u0940 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
     "name:mkd_x_preferred":[
         "\u0408\u0443\u0436\u0435\u043d \u043e\u043a\u0440\u0443\u0433"
@@ -255,9 +256,9 @@
     "qs:woeid":2344750,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-09",
+    "src:population_date":"2011-08-09",
     "statoids:area_km":"100",
     "statoids:area_mi":"38",
     "statoids:as_of_date":"2011-08-09",
@@ -303,11 +304,10 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1565661470,
+    "wof:lastmodified":1566630114,
     "wof:name":"Jwaneng",
     "wof:parent_id":85632235,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"town",
     "wof:population":18008,
     "wof:population_rank":6,

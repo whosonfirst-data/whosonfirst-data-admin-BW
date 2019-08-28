@@ -10,6 +10,9 @@
     "geom:latitude":-17.81667,
     "geom:longitude":25.15,
     "iso:country":"BW",
+    "lbl:bbox":"25.13,-17.83667,25.17,-17.79667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -222,7 +225,7 @@
     "wof:concordances":{
         "gn:id":933677,
         "gp:id":1265591,
-        "qs:id":273863,
+        "qs_pg:id":273863,
         "wd:id":"Q170715",
         "wk:page":"Kasane"
     },
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":421168787,
-    "wof:lastmodified":1563263929,
+    "wof:lastmodified":1566630217,
     "wof:name":"Kasane",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

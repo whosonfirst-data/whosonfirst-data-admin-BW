@@ -11,8 +11,11 @@
     "geom:longitude":25.67728,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":30883,
+    "gn:population":30883,
     "iso:country":"BW",
+    "lbl:bbox":"25.65728,-25.24435,25.69728,-25.20435",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -157,7 +160,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0431\u0430\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lobatsi"
     ],
     "name:urd_x_preferred":[
@@ -280,7 +283,7 @@
     "wof:concordances":{
         "gn:id":933521,
         "gp:id":1265658,
-        "qs:id":130135,
+        "qs_pg:id":130135,
         "wd:id":"Q165768",
         "wk:page":"Lobatse"
     },
@@ -296,7 +299,7 @@
         }
     ],
     "wof:id":890439933,
-    "wof:lastmodified":1563263959,
+    "wof:lastmodified":1566630227,
     "wof:name":"Lobatse",
     "wof:parent_id":85669639,
     "wof:placetype":"locality",

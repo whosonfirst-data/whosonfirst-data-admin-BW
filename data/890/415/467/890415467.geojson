@@ -11,11 +11,15 @@
     "geom:longitude":25.87417,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":4927,
+    "gn:population":4927,
     "iso:country":"BW",
+    "lbl:bbox":"25.85417,-24.58694,25.89417,-24.54694",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Mmopane Lands"
     ],
     "qs:name":"Mmopone",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":1106213,
         "gp:id":1265760,
-        "qs:id":130559
+        "qs_pg:id":130559
     },
     "wof:country":"BW",
     "wof:created":1469051089,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890415467,
-    "wof:lastmodified":1505343426,
+    "wof:lastmodified":1566630226,
     "wof:name":"Mmopone",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

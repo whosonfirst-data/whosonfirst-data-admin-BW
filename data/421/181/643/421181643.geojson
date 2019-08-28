@@ -10,8 +10,12 @@
     "geom:latitude":-18.8129,
     "geom:longitude":22.4164,
     "iso:country":"BW",
+    "lbl:bbox":"22.3964,-18.8329,22.4364,-18.7929",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0421\u0435\u0440\u043e\u043d\u0433\u0430"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":7732949,
         "gp:id":1265885,
-        "qs:id":496839,
+        "qs_pg:id":496839,
         "wd:id":"Q171134",
         "wk:page":"Seronga"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421181643,
-    "wof:lastmodified":1563263939,
+    "wof:lastmodified":1566630221,
     "wof:name":"Seronga",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":27.57199,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":2377,
+    "gn:population":2377,
     "iso:country":"BW",
+    "lbl:bbox":"27.55199,-22.74454,27.59199,-22.70454",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u0442\u0445\u043e\u043b\u043e"
     ],
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "Ratholo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ratolo"
     ],
     "qs:name":"Ratholo",
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":933137,
         "gp:id":1265737,
-        "qs:id":130117,
+        "qs_pg:id":130117,
         "wd:id":"Q171006"
     },
     "wof:country":"BW",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890437791,
-    "wof:lastmodified":1563263962,
+    "wof:lastmodified":1566630228,
     "wof:name":"Ratholo",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

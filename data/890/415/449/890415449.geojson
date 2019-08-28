@@ -11,8 +11,11 @@
     "geom:longitude":22.26667,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":1763,
+    "gn:population":1763,
     "iso:country":"BW",
+    "lbl:bbox":"22.24667,-19.68667,22.28667,-19.64667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -64,7 +67,7 @@
     "name:tsn_x_preferred":[
         "Motsana wa Nokaneng"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nokaning"
     ],
     "ne:ADM0CAP":0.0,
@@ -176,7 +179,7 @@
     "wof:concordances":{
         "gn:id":933211,
         "gp:id":1265814,
-        "qs:id":130131,
+        "qs_pg:id":130131,
         "wd:id":"Q171157",
         "wk:page":"Nokaneng"
     },
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":890415449,
-    "wof:lastmodified":1563263958,
+    "wof:lastmodified":1566630226,
     "wof:name":"Nokaneng",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

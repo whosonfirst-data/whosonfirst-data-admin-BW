@@ -11,10 +11,14 @@
     "geom:longitude":26.2,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":3141,
+    "gn:population":3141,
     "iso:country":"BW",
+    "lbl:bbox":"26.18,-20.07,26.22,-20.03",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Sua",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":933040,
         "gp:id":1469744,
-        "qs:id":130106
+        "qs_pg:id":130106
     },
     "wof:country":"BW",
     "wof:created":1469052166,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890437789,
-    "wof:lastmodified":1505343561,
+    "wof:lastmodified":1566630228,
     "wof:name":"Sua",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

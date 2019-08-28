@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"26.97804,-22.82202,27.01804,-22.78202",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Radisele"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1259693375,
-    "wof:lastmodified":1564155826,
+    "wof:lastmodified":1566630267,
     "wof:name":"Radisele",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

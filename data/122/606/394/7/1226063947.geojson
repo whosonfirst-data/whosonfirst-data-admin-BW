@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"25.6915,-24.95293,25.7315,-24.91293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kika"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1226063947,
-    "wof:lastmodified":1564155853,
+    "wof:lastmodified":1566630285,
     "wof:name":"Kika",
     "wof:parent_id":85669615,
     "wof:placetype":"locality",

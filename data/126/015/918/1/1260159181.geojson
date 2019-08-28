@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Gaborone",
     "iso:country":"BW",
+    "lbl:bbox":"23.63705,-20.17558,23.67705,-20.13558",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1260159181,
-    "wof:lastmodified":1536880629,
+    "wof:lastmodified":1566630181,
     "wof:name":"Chanoga",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

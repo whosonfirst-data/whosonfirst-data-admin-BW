@@ -11,10 +11,14 @@
     "geom:longitude":26.65,
     "gn:country":"BW",
     "gn:fcode":"PPL",
-    "gn:pop":1780,
+    "gn:population":1780,
     "iso:country":"BW",
+    "lbl:bbox":"26.63,-20.77,26.67,-20.73",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mosetse"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":933277,
         "gp:id":1265790,
-        "qs:id":130123,
+        "qs_pg:id":130123,
         "wd:id":"Q430624",
         "wk:page":"Mosetse"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890433515,
-    "wof:lastmodified":1563263978,
+    "wof:lastmodified":1566630233,
     "wof:name":"Mosetse",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

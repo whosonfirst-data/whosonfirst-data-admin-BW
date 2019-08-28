@@ -10,8 +10,12 @@
     "geom:latitude":-18.52779,
     "geom:longitude":25.62698,
     "iso:country":"BW",
+    "lbl:bbox":"25.60698,-18.54779,25.64698,-18.50779",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041f\u0430\u043d\u0434\u0430\u043c\u0430\u0442\u0435\u043d\u0433\u0430"
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":933178,
         "gp:id":1467449,
-        "qs:id":1090346,
+        "qs_pg:id":1090346,
         "wd:id":"Q170908",
         "wk:page":"Pandamatenga"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421188199,
-    "wof:lastmodified":1563263938,
+    "wof:lastmodified":1566630221,
     "wof:name":"Pandamatenga",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

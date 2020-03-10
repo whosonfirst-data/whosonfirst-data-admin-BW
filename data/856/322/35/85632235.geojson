@@ -987,9 +987,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Botswana",
-        "digitalenvoy:country_code":[
-            72
-        ],
+        "digitalenvoy:country_code":72,
         "fb:id":"en.botswana",
         "fifa:id":"BOT",
         "fips:code":"BC",
@@ -1034,7 +1032,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1583529090,
+    "wof:lastmodified":1583797293,
     "wof:name":"Botswana",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

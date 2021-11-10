@@ -76,6 +76,9 @@
     "name:guj_x_preferred":[
         "\u0ab2\u0acb\u0aac\u0ac7\u0a9f\u0acd\u0ab8"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d1\u05d0\u05e6\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u094b\u092c\u093e\u0924\u094d\u0938\u0947"
     ],
@@ -299,7 +302,7 @@
         }
     ],
     "wof:id":890439933,
-    "wof:lastmodified":1566630227,
+    "wof:lastmodified":1636495626,
     "wof:name":"Lobatse",
     "wof:parent_id":85669639,
     "wof:placetype":"locality",

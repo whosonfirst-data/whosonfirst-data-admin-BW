@@ -71,8 +71,14 @@
     "name:guj_x_preferred":[
         "\u0a9c\u0acd\u0ab5\u0abe\u0aa8\u0ac7\u0a82\u0a97"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d5\u05d5\u05d0\u05e0\u05e0\u05d2"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u094d\u0935\u093e\u0928\u0947\u0902\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Jwaneng"
     ],
     "name:ind_x_preferred":[
         "Jwaneng"
@@ -207,7 +213,7 @@
         }
     ],
     "wof:id":421171237,
-    "wof:lastmodified":1566630225,
+    "wof:lastmodified":1636495626,
     "wof:name":"Jwaneng",
     "wof:parent_id":85669653,
     "wof:placetype":"locality",

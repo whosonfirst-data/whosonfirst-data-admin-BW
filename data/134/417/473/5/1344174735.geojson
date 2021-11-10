@@ -47,6 +47,12 @@
     "name:fra_x_preferred":[
         "Sofala"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e4\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Sofala"
+    ],
     "name:jpn_x_preferred":[
         "\u30bd\u30d5\u30a1\u30e9"
     ],
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1344174735,
-    "wof:lastmodified":1566630106,
+    "wof:lastmodified":1636495621,
     "wof:name":"Sofala",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

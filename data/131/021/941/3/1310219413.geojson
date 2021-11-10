@@ -35,6 +35,12 @@
     "name:fra_x_preferred":[
         "Kweneng"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d5\u05e0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Kweneng"
+    ],
     "name:ita_x_preferred":[
         "Kweneng"
     ],
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1310219413,
-    "wof:lastmodified":1566630198,
+    "wof:lastmodified":1636495624,
     "wof:name":"Kweneng",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

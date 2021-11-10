@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.004746,
     "geom:area_square_m":54944556.753069,
-    "geom:bbox":"26.1204321743,-20.5986439385,26.2560011758,-20.5445852712",
+    "geom:bbox":"26.120432,-20.598644,26.256001,-20.544585",
     "geom:latitude":-20.571414,
-    "geom:longitude":26.193969,
+    "geom:longitude":26.193968,
     "iso:country":"BW",
     "label:eng_x_preferred_longname":[
         "Sowa Town"
@@ -79,6 +79,9 @@
     "name:eus_x_preferred":[
         "Erdialdea"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Central District"
     ],
@@ -91,8 +94,14 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ab2 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05d5\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0927\u094d\u092f \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Sowa"
     ],
     "name:ind_x_preferred":[
         "Distrik Central"
@@ -190,6 +199,12 @@
     "name:vie_x_preferred":[
         "Qu\u1eadn Mi\u1ec1n Trung"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u7d22\u74e6"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7d22\u74e6"
+    ],
     "name:zho_x_preferred":[
         "\u4e2d\u90e8"
     ],
@@ -239,7 +254,7 @@
         "wd:id":"Q57525"
     },
     "wof:country":"BW",
-    "wof:geomhash":"ef8d340342b7830bf6a5df601dfc23d4",
+    "wof:geomhash":"6a81fcae39ff1d5444f8ee17f0b9d9a2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -256,7 +271,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1566630115,
+    "wof:lastmodified":1636495623,
     "wof:name":"Sowa",
     "wof:parent_id":85632235,
     "wof:placetype":"region",
@@ -270,10 +285,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.12043217430545,
-    -20.59864393846692,
-    26.25600117581365,
-    -20.54458527119328
+    26.120432,
+    -20.598644,
+    26.256001,
+    -20.544585
 ],
-  "geometry": {"coordinates":[[[26.1263448408418,-20.54458527119328],[26.14366050712675,-20.54669693781341],[26.19476284113227,-20.55852227178536],[26.20996684169643,-20.55514360429385],[26.23319517541705,-20.55176493770165],[26.25600117581365,-20.55936693843341],[26.25220017589743,-20.59864393846692],[26.20025317524392,-20.59442060522673],[26.14661684129425,-20.58006127131057],[26.12043217430545,-20.56781360491391],[26.1263448408418,-20.54458527119328]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[26.126345,-20.544585],[26.143661,-20.546697],[26.194763,-20.558522],[26.209967,-20.555144],[26.233195,-20.551765],[26.256001,-20.559367],[26.2522,-20.598644],[26.200253,-20.594421],[26.146617,-20.580061],[26.120432,-20.567814],[26.126345,-20.544585]]],"type":"Polygon"}
 }

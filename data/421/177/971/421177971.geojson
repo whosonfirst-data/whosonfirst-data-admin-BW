@@ -68,10 +68,16 @@
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0a9a\u0ac1\u0aa1\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05db\u05d5\u05d3\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u091a\u0941\u0921\u0940"
     ],
     "name:hrv_x_preferred":[
+        "Mochudi"
+    ],
+    "name:hun_x_preferred":[
         "Mochudi"
     ],
     "name:ind_x_preferred":[
@@ -308,7 +314,7 @@
         }
     ],
     "wof:id":421177971,
-    "wof:lastmodified":1566630224,
+    "wof:lastmodified":1636495626,
     "wof:name":"Mochudi",
     "wof:parent_id":85669607,
     "wof:placetype":"locality",

@@ -83,6 +83,9 @@
     "name:hrv_x_preferred":[
         "Kanye"
     ],
+    "name:hun_x_preferred":[
+        "Kanye"
+    ],
     "name:ind_x_preferred":[
         "Kanye"
     ],
@@ -317,7 +320,7 @@
         }
     ],
     "wof:id":421170735,
-    "wof:lastmodified":1566630224,
+    "wof:lastmodified":1636495626,
     "wof:name":"Kanye",
     "wof:parent_id":85669619,
     "wof:placetype":"locality",

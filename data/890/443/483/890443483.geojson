@@ -19,23 +19,53 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u062a\u0633\u0627\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u0989"
+    ],
     "name:bul_x_preferred":[
         "\u0426\u0430\u0443"
     ],
     "name:ceb_x_preferred":[
         "Tsau"
     ],
+    "name:deu_x_preferred":[
+        "Tsau"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ac\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Tsao"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0633\u0627\u0626\u0648"
+    ],
     "name:fra_x_preferred":[
         "Tsao"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e1\u05d0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u094d\u0938\u093e\u090a"
+    ],
+    "name:hun_x_preferred":[
+        "Tsau"
+    ],
+    "name:ind_x_preferred":[
+        "Tsau"
     ],
     "name:ita_x_preferred":[
         "Tsao"
     ],
     "name:jpn_x_preferred":[
         "\u30c4\u30a1\u30aa"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc60\uc6b0"
     ],
     "name:mlg_x_preferred":[
         "Tsao"
@@ -49,6 +79,9 @@
     "name:rus_x_preferred":[
         "\u0426\u0430\u0443"
     ],
+    "name:spa_x_preferred":[
+        "Tsau"
+    ],
     "name:swa_x_preferred":[
         "Tsao"
     ],
@@ -57,6 +90,24 @@
     ],
     "name:tsn_x_preferred":[
         "Motse wa Tsao mo Botswana"
+    ],
+    "name:tur_x_preferred":[
+        "Tsau"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0441\u0430\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0633\u0627\u0624"
+    ],
+    "name:vie_x_preferred":[
+        "Tsau"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5bdf\u5965"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7279\u5716"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Botswana",
@@ -181,7 +232,7 @@
         }
     ],
     "wof:id":890443483,
-    "wof:lastmodified":1566630230,
+    "wof:lastmodified":1636495627,
     "wof:name":"Tsau",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:azb_x_preferred":[
         "\u067e\u0627\u0644\u0627\u067e\u06cc"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09b2\u09be\u09aa\u09be\u0987"
+    ],
     "name:ceb_x_preferred":[
         "Palapye"
     ],
@@ -50,11 +53,26 @@
     "name:fra_x_preferred":[
         "Palapye"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05dc\u05e4\u05d9\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0932\u093e\u092a\u093e\u0908"
+    ],
+    "name:hun_x_preferred":[
+        "Palapye"
+    ],
+    "name:ind_x_preferred":[
+        "Palapye"
+    ],
     "name:ita_x_preferred":[
         "Palapye"
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30e9\u30d4\u30a8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud314\ub77c\ud53c"
     ],
     "name:mlg_x_preferred":[
         "Palapye"
@@ -97,6 +115,12 @@
     ],
     "name:und_x_variant":[
         "Palapye Road"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0644\u067e\u0627\u0626\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Palapye"
     ],
     "name:zho_x_preferred":[
         "\u5e15\u62c9\u4f69"
@@ -242,7 +266,7 @@
         }
     ],
     "wof:id":421199593,
-    "wof:lastmodified":1566630223,
+    "wof:lastmodified":1636495625,
     "wof:name":"Palapye",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

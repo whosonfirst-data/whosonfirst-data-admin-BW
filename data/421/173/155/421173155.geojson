@@ -80,6 +80,9 @@
     "name:hrv_x_preferred":[
         "Maun"
     ],
+    "name:hun_x_preferred":[
+        "Maun"
+    ],
     "name:ind_x_preferred":[
         "Maun"
     ],
@@ -313,7 +316,7 @@
         }
     ],
     "wof:id":421173155,
-    "wof:lastmodified":1566630220,
+    "wof:lastmodified":1636495624,
     "wof:name":"Maun",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

@@ -68,6 +68,9 @@
     "name:hrv_x_preferred":[
         "Serowe"
     ],
+    "name:hun_x_preferred":[
+        "Serowe"
+    ],
     "name:ita_x_preferred":[
         "Serowe"
     ],
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1226326219,
-    "wof:lastmodified":1566630278,
+    "wof:lastmodified":1636495627,
     "wof:name":"Serowe",
     "wof:parent_id":85669619,
     "wof:placetype":"locality",

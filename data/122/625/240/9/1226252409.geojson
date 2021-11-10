@@ -35,8 +35,17 @@
     "name:deu_x_preferred":[
         "Leribe"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0631\u06cc\u0628\u0647"
+    ],
     "name:fin_x_preferred":[
         "Leribe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e8\u05d9\u05d1\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Lerib\u00e8"
     ],
     "name:swe_x_preferred":[
         "Leribe"
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1226252409,
-    "wof:lastmodified":1566630280,
+    "wof:lastmodified":1636495627,
     "wof:name":"Leribe",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

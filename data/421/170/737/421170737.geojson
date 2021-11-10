@@ -86,6 +86,9 @@
     "name:hrv_x_preferred":[
         "Tshabong"
     ],
+    "name:hun_x_preferred":[
+        "Tshabong"
+    ],
     "name:ind_x_preferred":[
         "Tshabong"
     ],
@@ -313,7 +316,7 @@
         }
     ],
     "wof:id":421170737,
-    "wof:lastmodified":1566630224,
+    "wof:lastmodified":1636495625,
     "wof:name":"Tshabong",
     "wof:parent_id":85669593,
     "wof:placetype":"locality",

@@ -101,6 +101,9 @@
     "name:hrv_x_preferred":[
         "Francistown"
     ],
+    "name:hun_x_preferred":[
+        "Francistown"
+    ],
     "name:ind_x_preferred":[
         "Francistown"
     ],
@@ -338,7 +341,7 @@
         }
     ],
     "wof:id":421192769,
-    "wof:lastmodified":1566630218,
+    "wof:lastmodified":1636495624,
     "wof:name":"Francistown",
     "wof:parent_id":85669635,
     "wof:placetype":"locality",

@@ -49,6 +49,9 @@
     "name:pol_x_preferred":[
         "Sehithwa"
     ],
+    "name:por_x_preferred":[
+        "Sehithwa"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0445\u0438\u0442\u0432\u0430"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:und_x_variant":[
         "Sehithwe"
+    ],
+    "name:zul_x_preferred":[
+        "Sehithwa"
     ],
     "qs:name":"Sehithwa",
     "qs:photos_9r":0,
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":890433505,
-    "wof:lastmodified":1566630232,
+    "wof:lastmodified":1690863640,
     "wof:name":"Sehithwa",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

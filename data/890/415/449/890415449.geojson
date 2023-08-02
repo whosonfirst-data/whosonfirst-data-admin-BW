@@ -79,6 +79,9 @@
     "name:pol_x_preferred":[
         "Nokaneng"
     ],
+    "name:por_x_preferred":[
+        "Nokaneng"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u043a\u0430\u043d\u0435\u043d\u0433"
     ],
@@ -114,6 +117,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u8afe\u5361\u80fd"
+    ],
+    "name:zul_x_preferred":[
+        "Nokaneng"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Botswana",
@@ -240,7 +246,7 @@
         }
     ],
     "wof:id":890415449,
-    "wof:lastmodified":1636495626,
+    "wof:lastmodified":1690863633,
     "wof:name":"Nokaneng",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

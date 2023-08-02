@@ -43,6 +43,9 @@
     "name:pol_x_preferred":[
         "Kachikau"
     ],
+    "name:por_x_preferred":[
+        "Kachikau"
+    ],
     "name:swa_x_preferred":[
         "Kachikau"
     ],
@@ -50,6 +53,9 @@
         "Kachikau"
     ],
     "name:tsn_x_preferred":[
+        "Kachikau"
+    ],
+    "name:uzb_x_preferred":[
         "Kachikau"
     ],
     "qs:name":"Kachikau",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890430589,
-    "wof:lastmodified":1566630227,
+    "wof:lastmodified":1690863634,
     "wof:name":"Kachikau",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

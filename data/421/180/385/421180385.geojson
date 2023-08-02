@@ -44,6 +44,9 @@
     "name:pol_x_preferred":[
         "Sefophe"
     ],
+    "name:por_x_preferred":[
+        "Sefophe"
+    ],
     "name:spa_x_preferred":[
         "Sefophe"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:tsn_x_variant":[
         "Bonwapitse"
+    ],
+    "name:zul_x_preferred":[
+        "Sefophe"
     ],
     "qs:gn_country":"BW",
     "qs:gn_fcode":"PPL",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":421180385,
-    "wof:lastmodified":1566630220,
+    "wof:lastmodified":1690863625,
     "wof:name":"Sefophe",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

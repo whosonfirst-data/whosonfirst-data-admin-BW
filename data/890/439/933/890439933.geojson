@@ -25,11 +25,17 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0628\u0627\u062a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0648\u0628\u0627\u062a\u0633"
+    ],
     "name:ast_x_preferred":[
         "Lobatse"
     ],
     "name:azb_x_preferred":[
         "\u0644\u0648\u0628\u0627\u062a\u0633"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0430\u0431\u0430\u0446\u044d"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09cb\u09ac\u09be\u09ce\u09b8\u09c7"
@@ -175,6 +181,9 @@
     "name:zho_x_preferred":[
         "\u6d1b\u5df4\u7b56"
     ],
+    "name:zul_x_preferred":[
+        "Lobatse"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Botswana",
     "ne:ADM0_A3":"BWA",
@@ -302,7 +311,7 @@
         }
     ],
     "wof:id":890439933,
-    "wof:lastmodified":1636495626,
+    "wof:lastmodified":1690863634,
     "wof:name":"Lobatse",
     "wof:parent_id":85669639,
     "wof:placetype":"locality",

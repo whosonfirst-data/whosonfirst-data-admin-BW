@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0644\u0628\u0648\u0644\u0648\u0644\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Molepolole"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0648\u0644\u067e\u0648\u0644\u0648\u0644\u0647"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:hun_x_preferred":[
         "Molepolole"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u056c\u0565\u057a\u0578\u056c\u0578\u056c"
     ],
     "name:ind_x_preferred":[
         "Molepolole"
@@ -179,14 +185,23 @@
     "name:urd_x_preferred":[
         "\u0645\u0648\u0644\u06cc\u067e\u0648\u0644\u0648\u0644\u06cc"
     ],
+    "name:uzb_x_preferred":[
+        "Molepolole"
+    ],
     "name:vep_x_preferred":[
         "Molepolole"
     ],
     "name:vie_x_preferred":[
         "Molepolole"
     ],
+    "name:war_x_preferred":[
+        "Molepolole"
+    ],
     "name:zho_x_preferred":[
         "\u83ab\u840a\u6ce2\u6d1b\u840a"
+    ],
+    "name:zul_x_preferred":[
+        "Molepolole"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Botswana",
@@ -329,7 +344,7 @@
         }
     ],
     "wof:id":421197383,
-    "wof:lastmodified":1636495625,
+    "wof:lastmodified":1690863628,
     "wof:name":"Molepolole",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

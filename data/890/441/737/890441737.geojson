@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Tsienyane/Rakops"
     ],
+    "name:ind_x_preferred":[
+        "Rakops"
+    ],
     "name:ita_x_preferred":[
         "Tsienyane/Rakops"
     ],
@@ -49,8 +52,17 @@
     "name:nld_x_preferred":[
         "Tsienyane"
     ],
+    "name:nob_x_preferred":[
+        "Rakops"
+    ],
     "name:pol_x_preferred":[
         "Tsienyane"
+    ],
+    "name:por_x_preferred":[
+        "Rakops"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u043f\u0441"
     ],
     "name:spa_x_preferred":[
         "Tsienyane"
@@ -69,6 +81,9 @@
     ],
     "name:zho_x_variant":[
         "\u6c99\u5361\u97cb"
+    ],
+    "name:zul_x_preferred":[
+        "Rakops"
     ],
     "qs:name":"Rakops",
     "qs:photos_9r":0,
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":890441737,
-    "wof:lastmodified":1566630225,
+    "wof:lastmodified":1690863633,
     "wof:name":"Rakops",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

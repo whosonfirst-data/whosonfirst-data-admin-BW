@@ -43,6 +43,9 @@
     "name:pol_x_preferred":[
         "Lokgwabe"
     ],
+    "name:por_x_preferred":[
+        "Lokgwabe"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u043a\u0433\u0432\u0430\u0431\u0435"
     ],
@@ -53,6 +56,9 @@
         "Lokgwabe"
     ],
     "name:tsn_x_preferred":[
+        "Lokgwabe"
+    ],
+    "name:uzb_x_preferred":[
         "Lokgwabe"
     ],
     "ne:ADM0CAP":0.0,
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":890431955,
-    "wof:lastmodified":1566630229,
+    "wof:lastmodified":1690863636,
     "wof:name":"Lokwabe",
     "wof:parent_id":85669593,
     "wof:placetype":"locality",

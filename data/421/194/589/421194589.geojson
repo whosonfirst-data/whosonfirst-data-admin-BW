@@ -44,6 +44,9 @@
     "name:pol_x_preferred":[
         "Makwate"
     ],
+    "name:por_x_preferred":[
+        "Makwate"
+    ],
     "name:swa_x_preferred":[
         "Makwate"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421194589,
-    "wof:lastmodified":1566630218,
+    "wof:lastmodified":1690863623,
     "wof:name":"Makwata",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

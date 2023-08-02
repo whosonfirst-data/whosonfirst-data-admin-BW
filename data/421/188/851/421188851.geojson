@@ -50,6 +50,12 @@
     "name:pol_x_preferred":[
         "Kumakwane"
     ],
+    "name:por_x_preferred":[
+        "Kumakwane"
+    ],
+    "name:pus_x_preferred":[
+        "\u06a9\u0648\u0645\u0627\u06a9\u0648\u0627"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u043c\u0430\u043a\u0432\u0430\u043d\u0435"
     ],
@@ -62,8 +68,17 @@
     "name:swe_x_preferred":[
         "Kumakwane"
     ],
+    "name:tsn_x_preferred":[
+        "Kumakwane"
+    ],
     "name:ukr_x_preferred":[
         "Matlapaneng"
+    ],
+    "name:uzb_x_preferred":[
+        "Kumakwane"
+    ],
+    "name:zul_x_preferred":[
+        "Kumakwane"
     ],
     "qs:gn_country":"BW",
     "qs:gn_fcode":"PPL",
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":421188851,
-    "wof:lastmodified":1566630221,
+    "wof:lastmodified":1690863626,
     "wof:name":"Kumakwane",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

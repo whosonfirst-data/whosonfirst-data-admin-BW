@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0627\u0646\u064a\u0646\u063a"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0648\u0627\u0646\u064a\u0646\u062c"
+    ],
     "name:ast_x_preferred":[
         "Jwaneng"
     ],
@@ -164,6 +167,9 @@
     "name:zho_x_preferred":[
         "\u6731\u74e6\u80fd"
     ],
+    "name:zul_x_preferred":[
+        "Jwaneng"
+    ],
     "qs:gn_country":"BW",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":8308627,
@@ -213,7 +219,7 @@
         }
     ],
     "wof:id":421171237,
-    "wof:lastmodified":1636495626,
+    "wof:lastmodified":1690863632,
     "wof:name":"Jwaneng",
     "wof:parent_id":85669653,
     "wof:placetype":"locality",

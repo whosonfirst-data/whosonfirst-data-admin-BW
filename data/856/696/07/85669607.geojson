@@ -101,6 +101,9 @@
     "name:hun_x_preferred":[
         "Kgatleng"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0563\u0561\u057f\u056c\u0565\u0576\u0563"
+    ],
     "name:ind_x_preferred":[
         "Distrik Kgatleng"
     ],
@@ -118,6 +121,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud06c\uac00\ud2c0\ub81d \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ud06c\uac00\ud2c0\ub81d\uad6c"
     ],
     "name:lav_x_preferred":[
         "Khatlenas distrikts"
@@ -191,8 +197,14 @@
     "name:vie_x_preferred":[
         "Qu\u1eadn Kgatleng"
     ],
+    "name:wuu_x_preferred":[
+        "\u5361\u7279\u4f26\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u5361\u7279\u502b\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Kgatleng District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BWA",
@@ -315,7 +327,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1636495623,
+    "wof:lastmodified":1690863620,
     "wof:name":"Kgatleng",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

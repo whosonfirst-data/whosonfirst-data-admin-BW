@@ -46,6 +46,9 @@
     "name:pol_x_preferred":[
         "Kalakamati"
     ],
+    "name:por_x_preferred":[
+        "Kalakamati"
+    ],
     "name:swa_x_preferred":[
         "Kalakamati"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":890430587,
-    "wof:lastmodified":1566630227,
+    "wof:lastmodified":1690863634,
     "wof:name":"Kalakamati",
     "wof:parent_id":85669627,
     "wof:placetype":"locality",

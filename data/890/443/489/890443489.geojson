@@ -52,14 +52,26 @@
     "name:pol_x_preferred":[
         "Khudumelapye"
     ],
+    "name:por_x_preferred":[
+        "Khudumelapye"
+    ],
     "name:swa_x_preferred":[
         "Khudumelapye"
     ],
     "name:swe_x_preferred":[
         "Khudumelapye"
     ],
+    "name:tsn_x_preferred":[
+        "Khudumelapye"
+    ],
     "name:und_x_variant":[
         "Kudumalapshwe"
+    ],
+    "name:uzb_x_preferred":[
+        "Khudumelapye"
+    ],
+    "name:zul_x_preferred":[
+        "Khudumelapye"
     ],
     "qs:name":"Khudumelapye",
     "qs:photos_9r":0,
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":890443489,
-    "wof:lastmodified":1566630231,
+    "wof:lastmodified":1690863640,
     "wof:name":"Khudumelapye",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

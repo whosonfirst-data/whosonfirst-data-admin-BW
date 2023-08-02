@@ -49,6 +49,9 @@
     "name:pol_x_preferred":[
         "Moiyabana"
     ],
+    "name:por_x_preferred":[
+        "Moiyabana"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0439\u044f\u0431\u0430\u043d\u0430"
     ],
@@ -59,6 +62,9 @@
         "Moiyabana"
     ],
     "name:tsn_x_preferred":[
+        "Moiyabana"
+    ],
+    "name:zul_x_preferred":[
         "Moiyabana"
     ],
     "qs_pg:aaroncc":"BW",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1125858113,
-    "wof:lastmodified":1566630234,
+    "wof:lastmodified":1690863642,
     "wof:name":"Moijabana",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

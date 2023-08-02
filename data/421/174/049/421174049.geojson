@@ -38,10 +38,16 @@
     "name:pol_x_preferred":[
         "Paje"
     ],
+    "name:por_x_preferred":[
+        "Paje"
+    ],
     "name:swa_x_preferred":[
         "Paje"
     ],
     "name:swe_x_preferred":[
+        "Paje"
+    ],
+    "name:tsn_x_preferred":[
         "Paje"
     ],
     "qs:gn_country":"BW",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421174049,
-    "wof:lastmodified":1566630219,
+    "wof:lastmodified":1690863624,
     "wof:name":"Paje",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

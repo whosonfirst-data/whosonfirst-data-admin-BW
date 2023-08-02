@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u064a\u0628\u064a-\u0641\u064a\u0643\u0648\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0644\u064a\u0628\u0649 \u0641\u064a\u0643\u0648\u0649"
+    ],
     "name:ast_x_preferred":[
         "Selebi-Phikwe"
     ],
@@ -164,6 +167,9 @@
     "name:zho_x_preferred":[
         "\u585e\u83b1\u6bd4-\u76ae\u594e"
     ],
+    "name:zul_x_preferred":[
+        "Selebi-Phikwe"
+    ],
     "qs:gn_country":"BW",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":933099,
@@ -213,7 +219,7 @@
         }
     ],
     "wof:id":421170743,
-    "wof:lastmodified":1566630224,
+    "wof:lastmodified":1690863631,
     "wof:name":"Selebi-Pikwe",
     "wof:parent_id":85669645,
     "wof:placetype":"locality",

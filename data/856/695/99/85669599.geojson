@@ -80,11 +80,17 @@
     "name:fra_x_preferred":[
         "District du Nord-Ouest"
     ],
+    "name:frr_x_preferred":[
+        "North-West"
+    ],
     "name:guj_x_preferred":[
         "\u0a89\u0aa4\u0acd\u0aa4\u0ab0-\u0aaa\u0ab6\u0acd\u0a9a\u0abf\u0aae \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
     "name:heb_x_preferred":[
         "\u05e6\u05e4\u05d5\u05df \u05de\u05e2\u05e8\u05d1"
+    ],
+    "name:heb_x_variant":[
+        "\u05e0\u05d2\u05d0\u05de\u05d9\u05dc\u05e0\u05d3"
     ],
     "name:hin_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930-\u092a\u0936\u094d\u091a\u093f\u092e\u0940 \u091c\u093f\u0932\u093e"
@@ -109,6 +115,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubd81\uc11c\ubd80 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ubd81\uc11c\ubd80\uad6c"
     ],
     "name:lav_x_preferred":[
         "Zieme\u013crietumu distrikts"
@@ -176,8 +185,14 @@
     "name:vie_x_preferred":[
         "Qu\u1eadn T\u00e2y-B\u1eafc"
     ],
+    "name:wuu_x_preferred":[
+        "\u897f\u5317\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u897f\u5317\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "North-West District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BWA",
@@ -300,7 +315,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1636495622,
+    "wof:lastmodified":1690863617,
     "wof:name":"North-West",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

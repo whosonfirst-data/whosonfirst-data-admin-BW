@@ -47,6 +47,9 @@
     "name:pol_x_preferred":[
         "Oodi"
     ],
+    "name:por_x_preferred":[
+        "Oodi"
+    ],
     "name:spa_x_preferred":[
         "Oodi"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:tsn_x_preferred":[
         "Motsana wa Oodi"
+    ],
+    "name:zul_x_preferred":[
+        "Oodi"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421172743,
-    "wof:lastmodified":1566630221,
+    "wof:lastmodified":1690863626,
     "wof:name":"Oodi",
     "wof:parent_id":85669631,
     "wof:placetype":"locality",

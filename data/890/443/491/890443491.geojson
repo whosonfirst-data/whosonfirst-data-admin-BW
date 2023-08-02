@@ -58,6 +58,9 @@
     "name:pol_x_preferred":[
         "Kang"
     ],
+    "name:por_x_preferred":[
+        "Kang"
+    ],
     "name:ron_x_preferred":[
         "Kang"
     ],
@@ -71,6 +74,9 @@
         "Kang"
     ],
     "name:tsn_x_preferred":[
+        "Kang"
+    ],
+    "name:zul_x_preferred":[
         "Kang"
     ],
     "qs:name":"Kang",
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":890443491,
-    "wof:lastmodified":1566630231,
+    "wof:lastmodified":1690863639,
     "wof:name":"Kang",
     "wof:parent_id":85669593,
     "wof:placetype":"locality",

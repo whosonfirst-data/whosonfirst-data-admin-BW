@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Shakawe"
+    ],
     "name:ceb_x_preferred":[
         "Shakawe"
     ],
@@ -58,6 +61,9 @@
     "name:pol_x_preferred":[
         "Shakawe"
     ],
+    "name:por_x_preferred":[
+        "Shakawe"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0430\u043a\u0430\u0432\u0435"
     ],
@@ -78,6 +84,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6c99\u5361\u97cb"
+    ],
+    "name:zul_x_preferred":[
+        "Shakawe"
     ],
     "qs:name":"Shakawe",
     "qs:photos_9r":0,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":890440373,
-    "wof:lastmodified":1566630225,
+    "wof:lastmodified":1690863633,
     "wof:name":"Shakawe",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

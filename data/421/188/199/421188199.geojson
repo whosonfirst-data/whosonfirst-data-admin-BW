@@ -47,6 +47,9 @@
     "name:pol_x_preferred":[
         "Pandamatenga"
     ],
+    "name:por_x_preferred":[
+        "Pandamatenga"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043d\u0434\u0430\u043c\u0430\u0442\u0435\u043d\u0433\u0430"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:tsn_x_preferred":[
         "Motse wa Pandamatenga"
+    ],
+    "name:tsn_x_variant":[
+        "Pandamatenga"
     ],
     "qs:gn_country":"BW",
     "qs:gn_fcode":"PPL",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":421188199,
-    "wof:lastmodified":1566630221,
+    "wof:lastmodified":1690863626,
     "wof:name":"Pandamatenga",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:pol_x_preferred":[
         "Mathathane"
     ],
+    "name:por_x_preferred":[
+        "Mathathane"
+    ],
     "name:swa_x_preferred":[
         "Mathathane"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421176845,
-    "wof:lastmodified":1566630225,
+    "wof:lastmodified":1690863632,
     "wof:name":"Mathathane",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

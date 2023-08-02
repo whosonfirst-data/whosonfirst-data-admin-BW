@@ -47,6 +47,9 @@
     "name:pol_x_preferred":[
         "Tshane"
     ],
+    "name:por_x_preferred":[
+        "Tshane"
+    ],
     "name:swa_x_preferred":[
         "Tshane"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421182757,
-    "wof:lastmodified":1566630225,
+    "wof:lastmodified":1690863632,
     "wof:name":"Tshane",
     "wof:parent_id":85669593,
     "wof:placetype":"locality",

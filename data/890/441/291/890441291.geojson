@@ -40,6 +40,9 @@
     "name:pol_x_preferred":[
         "Mokobeng"
     ],
+    "name:por_x_preferred":[
+        "Mokobeng"
+    ],
     "name:swa_x_preferred":[
         "Mokobeng"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890441291,
-    "wof:lastmodified":1566630225,
+    "wof:lastmodified":1690863633,
     "wof:name":"Makobeng",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

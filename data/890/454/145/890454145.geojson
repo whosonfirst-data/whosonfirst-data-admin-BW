@@ -43,10 +43,16 @@
     "name:pol_x_preferred":[
         "Tlhareseleele"
     ],
+    "name:por_x_preferred":[
+        "Tlhareseleele"
+    ],
     "name:swa_x_preferred":[
         "Tlhareseleele"
     ],
     "name:swe_x_preferred":[
+        "Tlhareseleele"
+    ],
+    "name:tsn_x_preferred":[
         "Tlhareseleele"
     ],
     "qs:name":"Tlhareselele",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890454145,
-    "wof:lastmodified":1566630230,
+    "wof:lastmodified":1690863637,
     "wof:name":"Tlhareselele",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

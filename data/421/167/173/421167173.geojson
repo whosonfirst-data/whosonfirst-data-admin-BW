@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Mathangwane"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0627\u062a\u0647\u0627\u0646\u0642\u0648\u0627\u0646"
     ],
@@ -50,6 +53,9 @@
     "name:pol_x_preferred":[
         "Mathangwane"
     ],
+    "name:por_x_preferred":[
+        "Mathangwane"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0442\u0445\u0430\u043d\u0433\u0432\u0430\u043d\u0435"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:und_x_variant":[
         "Matangwan Stad"
+    ],
+    "name:zul_x_preferred":[
+        "Mathangwane"
     ],
     "qs:gn_country":"BW",
     "qs:gn_fcode":"PPL",
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":421167173,
-    "wof:lastmodified":1566630219,
+    "wof:lastmodified":1690863624,
     "wof:name":"Matangwan",
     "wof:parent_id":85669627,
     "wof:placetype":"locality",

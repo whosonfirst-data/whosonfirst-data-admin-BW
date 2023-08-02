@@ -20,8 +20,14 @@
     "name:afr_x_preferred":[
         "Moshupa"
     ],
+    "name:ast_x_preferred":[
+        "Moshupa"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0648\u0634\u0648\u067e\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Mo\u015fupa"
     ],
     "name:ceb_x_preferred":[
         "Mosopa"
@@ -59,6 +65,9 @@
     "name:pol_x_preferred":[
         "Moshupa"
     ],
+    "name:por_x_preferred":[
+        "Moshupa"
+    ],
     "name:ron_x_preferred":[
         "Moshupa"
     ],
@@ -74,11 +83,20 @@
     "name:swe_x_preferred":[
         "Moshupa"
     ],
+    "name:tgk_x_preferred":[
+        "\u041c\u043e\u0448\u0443\u043f\u0430"
+    ],
     "name:tsn_x_preferred":[
         "Moshupa"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0448\u0443\u043f\u0430"
+    ],
     "name:zho_x_preferred":[
         "\u83ab\u8212\u5e15"
+    ],
+    "name:zul_x_preferred":[
+        "Moshupa"
     ],
     "qs:gn_country":"BW",
     "qs:gn_fcode":"PPL",
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":421198591,
-    "wof:lastmodified":1566630221,
+    "wof:lastmodified":1690863627,
     "wof:name":"Mosopa",
     "wof:parent_id":85669619,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u0648\u0648\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0631\u0648\u0648\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Serowe"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0631\u0648\u0648\u0647"
     ],
@@ -182,6 +188,9 @@
     "name:zho_x_preferred":[
         "\u585e\u7f57\u97e6"
     ],
+    "name:zul_x_preferred":[
+        "Serowe"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Botswana",
     "ne:ADM0_A3":"BWA",
@@ -322,7 +331,7 @@
         }
     ],
     "wof:id":421201957,
-    "wof:lastmodified":1636495625,
+    "wof:lastmodified":1690863630,
     "wof:name":"Serowe",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

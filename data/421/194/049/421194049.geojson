@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Mosetse"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30bb\u30c4\u30a7"
+    ],
     "name:mlg_x_preferred":[
         "Mosetse"
     ],
@@ -36,6 +39,9 @@
         "Mosetse"
     ],
     "name:pol_x_preferred":[
+        "Mosetse"
+    ],
+    "name:por_x_preferred":[
         "Mosetse"
     ],
     "name:swa_x_preferred":[
@@ -46,6 +52,9 @@
     ],
     "name:tsn_x_preferred":[
         "Motsana wa Mosetse"
+    ],
+    "name:tsn_x_variant":[
+        "Mosetse"
     ],
     "qs:gn_country":"BW",
     "qs:gn_fcode":"PPL",
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":421194049,
-    "wof:lastmodified":1566630218,
+    "wof:lastmodified":1690863623,
     "wof:name":"Mosetse",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

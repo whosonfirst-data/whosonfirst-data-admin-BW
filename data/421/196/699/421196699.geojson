@@ -38,6 +38,9 @@
     "name:pol_x_preferred":[
         "Kobojango"
     ],
+    "name:por_x_preferred":[
+        "Kobojango"
+    ],
     "name:swa_x_preferred":[
         "Kobojango"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421196699,
-    "wof:lastmodified":1566630222,
+    "wof:lastmodified":1690863628,
     "wof:name":"Gobojango",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

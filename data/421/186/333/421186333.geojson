@@ -31,8 +31,14 @@
     "name:fra_x_preferred":[
         "Katima Mulilo"
     ],
+    "name:fra_x_variant":[
+        "Katima Mulilo Rural"
+    ],
     "name:ita_x_preferred":[
         "Katima Mulilo Rurale"
+    ],
+    "name:nan_x_preferred":[
+        "Katima Mulilo Chng-kha So\u00e1n-k\u00ed-khu"
     ],
     "name:nld_x_preferred":[
         "Katima Mulilo Rural"
@@ -41,6 +47,9 @@
         "\u041a\u0430\u0442\u0438\u043c\u0430-\u041c\u0443\u043b\u0438\u043b\u043e \u041b\u044d\u043d\u0434"
     ],
     "name:spa_x_preferred":[
+        "Katima Mulilo Rural"
+    ],
+    "name:zul_x_preferred":[
         "Katima Mulilo Rural"
     ],
     "qs:gn_country":null,
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":421186333,
-    "wof:lastmodified":1566630221,
+    "wof:lastmodified":1690863626,
     "wof:name":"Katima Mulilo Rural",
     "wof:parent_id":85669599,
     "wof:placetype":"county",

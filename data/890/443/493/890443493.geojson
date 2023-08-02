@@ -43,6 +43,9 @@
     "name:pol_x_preferred":[
         "Kalamare"
     ],
+    "name:por_x_preferred":[
+        "Kalamare"
+    ],
     "name:swa_x_preferred":[
         "Kalamare"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890443493,
-    "wof:lastmodified":1566630231,
+    "wof:lastmodified":1690863640,
     "wof:name":"Kalamare",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

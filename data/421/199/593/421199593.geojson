@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0627\u0628\u064a\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0644\u0627\u0628\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Palapye"
+    ],
     "name:azb_x_preferred":[
         "\u067e\u0627\u0644\u0627\u067e\u06cc"
     ],
@@ -124,6 +130,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e15\u62c9\u4f69"
+    ],
+    "name:zul_x_preferred":[
+        "Palapye"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Botswana",
@@ -266,7 +275,7 @@
         }
     ],
     "wof:id":421199593,
-    "wof:lastmodified":1636495625,
+    "wof:lastmodified":1690863628,
     "wof:name":"Palapye",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

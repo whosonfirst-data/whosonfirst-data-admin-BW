@@ -79,6 +79,9 @@
     "name:pol_x_preferred":[
         "Mopipi"
     ],
+    "name:por_x_preferred":[
+        "Mopipi"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u043f\u0438\u043f\u0438"
     ],
@@ -111,6 +114,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u83ab\u76ae\u76ae"
+    ],
+    "name:zul_x_preferred":[
+        "Mopipi"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Botswana",
@@ -237,7 +243,7 @@
         }
     ],
     "wof:id":890415451,
-    "wof:lastmodified":1636495626,
+    "wof:lastmodified":1690863633,
     "wof:name":"Mopipi",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

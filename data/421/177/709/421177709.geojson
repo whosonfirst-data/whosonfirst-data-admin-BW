@@ -47,6 +47,9 @@
     "name:ita_x_preferred":[
         "Tlokweng"
     ],
+    "name:mlg_x_preferred":[
+        "Tlokweng"
+    ],
     "name:nld_x_preferred":[
         "Tlokweng"
     ],
@@ -83,8 +86,14 @@
     "name:tur_x_preferred":[
         "Tlokweng"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043b\u043e\u043a\u0432\u0435\u043d\u0433"
+    ],
     "name:zho_x_preferred":[
         "\u7279\u6d1b\u6606"
+    ],
+    "name:zul_x_preferred":[
+        "Tlokweng"
     ],
     "qs:gn_country":"BW",
     "qs:gn_fcode":"PPL",
@@ -132,7 +141,7 @@
         }
     ],
     "wof:id":421177709,
-    "wof:lastmodified":1566630224,
+    "wof:lastmodified":1690863631,
     "wof:name":"Tlokweng",
     "wof:parent_id":85669631,
     "wof:placetype":"locality",

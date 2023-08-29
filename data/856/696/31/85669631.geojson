@@ -82,6 +82,9 @@
     "name:fra_x_preferred":[
         "District du Sud-Est"
     ],
+    "name:frr_x_preferred":[
+        "South-East"
+    ],
     "name:guj_x_preferred":[
         "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3-\u0aaa\u0ac2\u0ab0\u0acd\u0ab5 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
@@ -105,6 +108,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub0a8\ub3d9\ubd80 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ub0a8\ub3d9\ubd80\uad6c"
     ],
     "name:lav_x_preferred":[
         "Dienvidaustrumu distrikts"
@@ -169,8 +175,14 @@
     "name:vie_x_preferred":[
         "Qu\u1eadn \u0110\u00f4ng-Nam"
     ],
+    "name:wuu_x_preferred":[
+        "\u4e1c\u5357\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u6771\u5357\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "South-East District"
     ],
     "qs:a0":"Botswana",
     "qs:a0_lc":"BW",
@@ -236,7 +248,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1607390901,
+    "wof:lastmodified":1690863620,
     "wof:name":"Gaborone",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

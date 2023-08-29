@@ -38,6 +38,9 @@
     "name:pol_x_preferred":[
         "Bonwapitse"
     ],
+    "name:por_x_preferred":[
+        "Bonwapitse"
+    ],
     "name:swa_x_preferred":[
         "Bonwapitse"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:und_x_variant":[
         "Bonapitse"
+    ],
+    "name:uzb_x_preferred":[
+        "Bonwapitse"
     ],
     "qs:gn_country":"BW",
     "qs:gn_fcode":"PPL",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421180383,
-    "wof:lastmodified":1566630219,
+    "wof:lastmodified":1690863625,
     "wof:name":"Bonwapitse",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

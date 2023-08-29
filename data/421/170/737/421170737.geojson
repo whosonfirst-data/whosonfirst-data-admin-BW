@@ -32,6 +32,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0427\u0430\u0431\u043e\u043d\u0433"
     ],
+    "name:bel_x_variant":[
+        "\u0427\u0430\u0431\u043e\u043d\u0433"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u0981\u09b8\u09be\u09ac\u0982"
     ],
@@ -131,6 +134,9 @@
     "name:por_x_preferred":[
         "Tshabong"
     ],
+    "name:pus_x_preferred":[
+        "\u062a\u0634\u0627\u0628\u0648\u0646\u06ab"
+    ],
     "name:ron_x_preferred":[
         "Tshabong"
     ],
@@ -175,6 +181,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5bdf\u90a6"
+    ],
+    "name:zul_x_preferred":[
+        "Tsabong"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Botswana",
@@ -316,7 +325,7 @@
         }
     ],
     "wof:id":421170737,
-    "wof:lastmodified":1636495625,
+    "wof:lastmodified":1690863630,
     "wof:name":"Tshabong",
     "wof:parent_id":85669593,
     "wof:placetype":"locality",

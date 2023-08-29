@@ -22,6 +22,12 @@
     "name:afr_x_preferred":[
         "Orapa"
     ],
+    "name:ara_x_preferred":[
+        "\u0627\u0648\u0631\u0627\u0628\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Orapa"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0440\u0430\u043f\u0430"
     ],
@@ -58,6 +64,9 @@
     "name:pol_x_preferred":[
         "Orapa"
     ],
+    "name:por_x_preferred":[
+        "Orapa"
+    ],
     "name:ron_x_preferred":[
         "Orapa"
     ],
@@ -73,8 +82,14 @@
     "name:tsn_x_preferred":[
         "Orapa"
     ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0430\u043f\u0430"
+    ],
     "name:zho_x_preferred":[
         "\u5967\u62c9\u5e15"
+    ],
+    "name:zul_x_preferred":[
+        "Orapa"
     ],
     "qs:name":"Orapa",
     "qs:photos_9r":0,
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":890433511,
-    "wof:lastmodified":1566630233,
+    "wof:lastmodified":1690863641,
     "wof:name":"Orapa",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

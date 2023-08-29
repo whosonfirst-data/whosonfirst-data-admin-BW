@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Khuis"
     ],
+    "name:deu_x_preferred":[
+        "Khuis"
+    ],
     "name:eng_x_preferred":[
         "Khuis"
     ],
@@ -46,10 +49,19 @@
     "name:pol_x_preferred":[
         "Khuis"
     ],
+    "name:por_x_preferred":[
+        "Khuis"
+    ],
     "name:swa_x_preferred":[
         "Khuis"
     ],
     "name:swe_x_preferred":[
+        "Khuis"
+    ],
+    "name:tsn_x_preferred":[
+        "Khuis"
+    ],
+    "name:uzb_x_preferred":[
         "Khuis"
     ],
     "qs:name":"Khuis",
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":890430583,
-    "wof:lastmodified":1566630228,
+    "wof:lastmodified":1690863635,
     "wof:name":"Khuis",
     "wof:parent_id":1108730591,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0647\u0627\u0644\u0627\u0628\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0647\u0627\u0644\u0627\u0628\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Mahalapye"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0627\u0647\u0627\u0644\u0627\u067e\u06cc\u0647"
     ],
@@ -30,7 +36,8 @@
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u0445\u0430\u043b\u0430\u043f'\u0435"
     ],
     "name:bel_x_variant":[
-        "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u0445\u0430\u043b\u0430\u043f\u0435"
+        "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u0445\u0430\u043b\u0430\u043f\u0435",
+        "\u041c\u0430\u0445\u0430\u043b\u0430\u043f\u2019\u0435"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b9\u09be\u09b2\u09be\u09aa\u09c7"
@@ -128,6 +135,9 @@
     "name:tur_x_preferred":[
         "Mahalapye"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0445\u0430\u043b\u0430\u043f'\u0454"
+    ],
     "name:und_x_variant":[
         "Mahalatswe"
     ],
@@ -139,6 +149,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u54c8\u62c9\u4f69"
+    ],
+    "name:zul_x_preferred":[
+        "Mahalapye"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Botswana",
@@ -282,7 +295,7 @@
         }
     ],
     "wof:id":421199015,
-    "wof:lastmodified":1636495625,
+    "wof:lastmodified":1690863629,
     "wof:name":"Mahalapye",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

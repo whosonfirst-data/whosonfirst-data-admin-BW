@@ -43,6 +43,9 @@
     "name:pol_x_preferred":[
         "Makaleng"
     ],
+    "name:por_x_preferred":[
+        "Makaleng"
+    ],
     "name:swa_x_preferred":[
         "Makaleng"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890433521,
-    "wof:lastmodified":1566630233,
+    "wof:lastmodified":1690863641,
     "wof:name":"Makaleng",
     "wof:parent_id":85669627,
     "wof:placetype":"locality",

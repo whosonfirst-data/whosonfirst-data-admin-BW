@@ -50,6 +50,9 @@
     "name:pol_x_preferred":[
         "Otse"
     ],
+    "name:por_x_preferred":[
+        "Otse"
+    ],
     "name:spa_x_preferred":[
         "Otse"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:zho_x_preferred":[
         "\u840a\u7279\u62c9\u5361\u5167"
+    ],
+    "name:zul_x_preferred":[
+        "Otse"
     ],
     "qs:gn_country":"BW",
     "qs:gn_fcode":"PPL",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421199009,
-    "wof:lastmodified":1566630223,
+    "wof:lastmodified":1690863629,
     "wof:name":"Otse",
     "wof:parent_id":85669615,
     "wof:placetype":"locality",

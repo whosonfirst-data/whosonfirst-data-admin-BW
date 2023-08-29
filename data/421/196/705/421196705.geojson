@@ -50,6 +50,9 @@
     "name:pol_x_preferred":[
         "Tobane"
     ],
+    "name:por_x_preferred":[
+        "Tobane"
+    ],
     "name:swa_x_preferred":[
         "Tobane"
     ],
@@ -57,6 +60,9 @@
         "Tobane"
     ],
     "name:tsn_x_preferred":[
+        "Tobane"
+    ],
+    "name:zul_x_preferred":[
         "Tobane"
     ],
     "qs:gn_country":"BW",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421196705,
-    "wof:lastmodified":1566630222,
+    "wof:lastmodified":1690863627,
     "wof:name":"Tobane",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

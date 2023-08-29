@@ -76,6 +76,9 @@
     "name:pol_x_preferred":[
         "Tsao"
     ],
+    "name:por_x_preferred":[
+        "Tsao"
+    ],
     "name:rus_x_preferred":[
         "\u0426\u0430\u0443"
     ],
@@ -232,7 +235,7 @@
         }
     ],
     "wof:id":890443483,
-    "wof:lastmodified":1636495627,
+    "wof:lastmodified":1690863638,
     "wof:name":"Tsau",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

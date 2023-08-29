@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u062a\u0634\u0648\u062f\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u062a\u0634\u0648\u062f\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0648\u0686\u0648\u062f\u06cc"
     ],
@@ -125,6 +128,9 @@
     "name:por_x_preferred":[
         "Mochudi"
     ],
+    "name:pus_x_preferred":[
+        "\u0645\u0648\u0686\u0648\u062f\u064a"
+    ],
     "name:ron_x_preferred":[
         "Mochudi"
     ],
@@ -172,6 +178,9 @@
     ],
     "name:zho_x_preferred":[
         "\u83ab\u4e18\u8fea"
+    ],
+    "name:zul_x_preferred":[
+        "Mochudi"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Botswana",
@@ -314,7 +323,7 @@
         }
     ],
     "wof:id":421177971,
-    "wof:lastmodified":1636495626,
+    "wof:lastmodified":1690863631,
     "wof:name":"Mochudi",
     "wof:parent_id":85669607,
     "wof:placetype":"locality",

@@ -46,10 +46,16 @@
     "name:pol_x_preferred":[
         "Toteng"
     ],
+    "name:por_x_preferred":[
+        "Toteng"
+    ],
     "name:swe_x_preferred":[
         "Toteng"
     ],
     "name:tsn_x_preferred":[
+        "Toteng"
+    ],
+    "name:zul_x_preferred":[
         "Toteng"
     ],
     "qs:name":"Toteng",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890436587,
-    "wof:lastmodified":1566630229,
+    "wof:lastmodified":1690863636,
     "wof:name":"Toteng",
     "wof:parent_id":85669599,
     "wof:placetype":"locality",

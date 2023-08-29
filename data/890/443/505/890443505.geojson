@@ -40,6 +40,9 @@
     "name:pol_x_preferred":[
         "Dutlwe"
     ],
+    "name:por_x_preferred":[
+        "Dutlwe"
+    ],
     "name:swa_x_preferred":[
         "Dutlwe"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:und_x_variant":[
         "Luzwe"
+    ],
+    "name:uzb_x_preferred":[
+        "Dutlwe"
     ],
     "qs:name":"Dutlwe",
     "qs:photos_9r":0,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890443505,
-    "wof:lastmodified":1566630230,
+    "wof:lastmodified":1690863638,
     "wof:name":"Dutlwe",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

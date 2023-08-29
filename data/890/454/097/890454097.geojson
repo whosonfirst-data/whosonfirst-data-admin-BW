@@ -43,6 +43,9 @@
     "name:pol_x_preferred":[
         "Boatlaname"
     ],
+    "name:por_x_preferred":[
+        "Boatlaname"
+    ],
     "name:swa_x_preferred":[
         "Boatlaname"
     ],
@@ -50,6 +53,9 @@
         "Boatlaname"
     ],
     "name:tsn_x_preferred":[
+        "Boatlaname"
+    ],
+    "name:uzb_x_preferred":[
         "Boatlaname"
     ],
     "qs:name":"Boatlaname",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890454097,
-    "wof:lastmodified":1566630230,
+    "wof:lastmodified":1690863637,
     "wof:name":"Boatlaname",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

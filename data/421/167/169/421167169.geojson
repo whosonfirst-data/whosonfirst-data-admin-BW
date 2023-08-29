@@ -38,6 +38,9 @@
     "name:pol_x_preferred":[
         "Pilikwe"
     ],
+    "name:por_x_preferred":[
+        "Pilikwe"
+    ],
     "name:swa_x_preferred":[
         "Pilikwe"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421167169,
-    "wof:lastmodified":1566630218,
+    "wof:lastmodified":1690863623,
     "wof:name":"Pilikwe",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

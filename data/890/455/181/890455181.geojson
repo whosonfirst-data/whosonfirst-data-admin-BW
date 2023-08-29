@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Bokspits"
     ],
+    "name:deu_x_preferred":[
+        "Bokspits"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03cc\u03ba\u03c3\u03c0\u03b9\u03c4\u03c2"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":890455181,
-    "wof:lastmodified":1566630228,
+    "wof:lastmodified":1690863636,
     "wof:name":"Bokspits",
     "wof:parent_id":1108730597,
     "wof:placetype":"locality",

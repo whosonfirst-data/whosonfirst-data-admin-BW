@@ -43,10 +43,19 @@
     "name:pol_x_preferred":[
         "Kavimba"
     ],
+    "name:por_x_preferred":[
+        "Kavimba"
+    ],
     "name:swa_x_preferred":[
         "Kavimba"
     ],
     "name:swe_x_preferred":[
+        "Kavimba"
+    ],
+    "name:tsn_x_preferred":[
+        "Kavimba"
+    ],
+    "name:uzb_x_preferred":[
         "Kavimba"
     ],
     "qs:name":"Kavimba",
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":890430585,
-    "wof:lastmodified":1566630228,
+    "wof:lastmodified":1690863635,
     "wof:name":"Kavimba",
     "wof:parent_id":421199941,
     "wof:placetype":"locality",

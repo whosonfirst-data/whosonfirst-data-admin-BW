@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Dumadumana"
     ],
+    "name:deu_x_preferred":[
+        "Dumadumana"
+    ],
     "name:eng_x_preferred":[
         "Dumadumana"
     ],
@@ -35,6 +38,9 @@
         "Dumadumana"
     ],
     "name:tsn_x_preferred":[
+        "Dumadumana"
+    ],
+    "name:uzb_x_preferred":[
         "Dumadumana"
     ],
     "qs:name":"Dumadumana",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":890420083,
-    "wof:lastmodified":1566630232,
+    "wof:lastmodified":1690863640,
     "wof:name":"Dumadumana",
     "wof:parent_id":85669631,
     "wof:placetype":"locality",

@@ -50,6 +50,9 @@
     "name:pol_x_preferred":[
         "Letlhakeng"
     ],
+    "name:por_x_preferred":[
+        "Letlhakeng"
+    ],
     "name:spa_x_preferred":[
         "Letlhakeng"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:zho_x_preferred":[
         "\u840a\u7279\u62c9\u80af"
+    ],
+    "name:zul_x_preferred":[
+        "Letlhakeng"
     ],
     "qs:gn_country":"BW",
     "qs:gn_fcode":"PPL",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421199011,
-    "wof:lastmodified":1566630223,
+    "wof:lastmodified":1690863629,
     "wof:name":"Letlhakeng",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

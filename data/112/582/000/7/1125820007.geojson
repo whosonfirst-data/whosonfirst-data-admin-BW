@@ -46,10 +46,16 @@
     "name:pol_x_preferred":[
         "Sebina"
     ],
+    "name:por_x_preferred":[
+        "Sebina"
+    ],
     "name:swa_x_preferred":[
         "Sebina"
     ],
     "name:swe_x_preferred":[
+        "Sebina"
+    ],
+    "name:zul_x_preferred":[
         "Sebina"
     ],
     "qs_pg:aaroncc":"BW",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1125820007,
-    "wof:lastmodified":1566630234,
+    "wof:lastmodified":1690863642,
     "wof:name":"Sebina",
     "wof:parent_id":85669627,
     "wof:placetype":"locality",

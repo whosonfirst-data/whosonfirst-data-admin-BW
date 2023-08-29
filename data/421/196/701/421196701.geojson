@@ -47,6 +47,12 @@
     "name:pol_x_preferred":[
         "Machaneng"
     ],
+    "name:por_x_preferred":[
+        "Machaneng"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0447\u0430\u043d\u0435\u043d\u0433"
+    ],
     "name:swa_x_preferred":[
         "Machaneng"
     ],
@@ -55,6 +61,9 @@
     ],
     "name:tsn_x_preferred":[
         "Motsana wa Machaneng"
+    ],
+    "name:tsn_x_variant":[
+        "Machaneng"
     ],
     "name:und_x_variant":[
         "Machenen"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":421196701,
-    "wof:lastmodified":1566630222,
+    "wof:lastmodified":1690863627,
     "wof:name":"Machaneng",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

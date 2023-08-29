@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Bogo Gobo"
     ],
+    "name:deu_x_preferred":[
+        "Bogogobo"
+    ],
     "name:eng_x_preferred":[
         "Bogogobo"
     ],
@@ -38,6 +41,9 @@
         "Bogogobo"
     ],
     "name:pol_x_preferred":[
+        "Bogogobo"
+    ],
+    "name:por_x_preferred":[
         "Bogogobo"
     ],
     "name:swa_x_preferred":[
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":890455183,
-    "wof:lastmodified":1566630229,
+    "wof:lastmodified":1690863636,
     "wof:name":"Bogo Gobo",
     "wof:parent_id":85669593,
     "wof:placetype":"locality",

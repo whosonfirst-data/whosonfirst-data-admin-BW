@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Tonota"
     ],
+    "name:deu_x_preferred":[
+        "Tonota"
+    ],
     "name:eng_x_preferred":[
         "Tonota"
     ],
@@ -50,6 +53,9 @@
     "name:pol_x_preferred":[
         "Tonota"
     ],
+    "name:por_x_preferred":[
+        "Tonota"
+    ],
     "name:ron_x_preferred":[
         "Tonota"
     ],
@@ -68,11 +74,17 @@
     "name:tsn_x_preferred":[
         "Tonota"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043d\u043e\u0442\u0430"
+    ],
     "name:und_x_variant":[
         "Tonoto"
     ],
     "name:zho_x_preferred":[
         "\u6258\u8afe\u5854"
+    ],
+    "name:zul_x_preferred":[
+        "Tonota"
     ],
     "qs:gn_country":"BW",
     "qs:gn_fcode":"PPL",
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":421170739,
-    "wof:lastmodified":1566630224,
+    "wof:lastmodified":1690863630,
     "wof:name":"Tonota",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

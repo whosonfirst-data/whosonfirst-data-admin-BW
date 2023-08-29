@@ -55,6 +55,9 @@
     "name:pol_x_preferred":[
         "Metsimotlhaba"
     ],
+    "name:por_x_preferred":[
+        "Metsimotlhabe"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0446\u0438\u043c\u043e\u0442\u043b\u0445\u0430\u0431\u0430"
     ],
@@ -65,6 +68,12 @@
         "Metsimotlhabe"
     ],
     "name:swe_x_preferred":[
+        "Metsimotlhabe"
+    ],
+    "name:tsn_x_preferred":[
+        "Metsimotlhabe"
+    ],
+    "name:zul_x_preferred":[
         "Metsimotlhabe"
     ],
     "qs:name":"Metsemotlhaba",
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":890437929,
-    "wof:lastmodified":1566630228,
+    "wof:lastmodified":1690863635,
     "wof:name":"Metsemotlhaba",
     "wof:parent_id":85669611,
     "wof:placetype":"locality",

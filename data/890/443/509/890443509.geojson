@@ -49,6 +49,9 @@
     "name:pol_x_preferred":[
         "Dekar"
     ],
+    "name:por_x_preferred":[
+        "Dekar"
+    ],
     "name:swa_x_preferred":[
         "Dekar"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":890443509,
-    "wof:lastmodified":1566630231,
+    "wof:lastmodified":1690863639,
     "wof:name":"Dekar",
     "wof:parent_id":85669589,
     "wof:placetype":"locality",

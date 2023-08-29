@@ -23,6 +23,15 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u0645\u0648\u062a\u0633\u0648\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0627\u0645\u0648\u062a\u0633\u0648\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Ramotswa"
+    ],
+    "name:azb_x_preferred":[
+        "\u0631\u0627\u0645\u0648\u062a\u0633\u0648\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09be\u09ae\u09cb\u09ce\u09b8\u09be\u0981"
     ],
@@ -107,6 +116,9 @@
     "name:por_x_preferred":[
         "Ramotswa"
     ],
+    "name:pus_x_preferred":[
+        "\u0631\u0627\u0645\u0648\u062a\u0633\u0648\u0627"
+    ],
     "name:ron_x_preferred":[
         "Ramotswa"
     ],
@@ -154,6 +166,9 @@
     ],
     "name:zho_x_preferred":[
         "\u62c9\u83ab\u8328\u74e6"
+    ],
+    "name:zul_x_preferred":[
+        "Ramotswa"
     ],
     "qs:gn_country":"BW",
     "qs:gn_fcode":"PPL",
@@ -204,7 +219,7 @@
         }
     ],
     "wof:id":421183811,
-    "wof:lastmodified":1566630224,
+    "wof:lastmodified":1690863631,
     "wof:name":"Ramotswa",
     "wof:parent_id":85669615,
     "wof:placetype":"locality",

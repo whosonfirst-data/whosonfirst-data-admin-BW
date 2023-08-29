@@ -40,10 +40,16 @@
     "name:pol_x_preferred":[
         "Mogapinyana"
     ],
+    "name:por_x_preferred":[
+        "Mogapinyana"
+    ],
     "name:swa_x_preferred":[
         "Mogapinyana"
     ],
     "name:swe_x_preferred":[
+        "Mogapinyana"
+    ],
+    "name:tsn_x_preferred":[
         "Mogapinyana"
     ],
     "qs:name":"Mogapinyana",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":890431345,
-    "wof:lastmodified":1566630229,
+    "wof:lastmodified":1690863637,
     "wof:name":"Mogapinyana",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

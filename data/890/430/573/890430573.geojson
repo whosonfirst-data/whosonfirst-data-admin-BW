@@ -25,7 +25,22 @@
     "name:eng_x_preferred":[
         "Malakas"
     ],
+    "name:eng_x_variant":[
+        "Malakia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30e9\u30ab\u30b9"
+    ],
     "name:lat_x_preferred":[
+        "Malakas"
+    ],
+    "name:por_x_preferred":[
+        "malakoi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u043a\u0438\u044f"
+    ],
+    "name:tur_x_preferred":[
         "Malakas"
     ],
     "name:und_x_variant":[
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":890430573,
-    "wof:lastmodified":1566630227,
+    "wof:lastmodified":1690863635,
     "wof:name":"Malaka",
     "wof:parent_id":85669601,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.683059,
-    "geom:area_square_m":7708022405.788254,
+    "geom:area_square_m":7708026432.604767,
     "geom:bbox":"25.886203,-24.660846,26.966602,-23.566261",
     "geom:latitude":-24.144956,
     "geom:longitude":26.348682,
@@ -303,14 +303,16 @@
         "gn:id":933654,
         "gp:id":2344745,
         "hasc:id":"BW.KL",
+        "iso:code":"BW-KL",
         "iso:id":"BW-KL",
         "qs_pg:id":219504,
         "unlc:id":"BW-KL",
         "wd:id":"Q57593",
         "wk:page":"Kgatleng District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BW",
-    "wof:geomhash":"9c09f6dce658e68215430e35648187c8",
+    "wof:geomhash":"581b343e142f80a2a8acec3a1b3a2016",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -327,7 +329,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1690863620,
+    "wof:lastmodified":1695884802,
     "wof:name":"Kgatleng",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

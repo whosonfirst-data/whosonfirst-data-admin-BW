@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.413879,
-    "geom:area_square_m":27069037666.574669,
+    "geom:area_square_m":27069041797.491013,
     "geom:bbox":"23.049322,-25.829223,25.687249,-23.999103",
     "geom:latitude":-24.928394,
     "geom:longitude":24.459159,
@@ -310,13 +310,15 @@
         "gn:id":933043,
         "gp:id":2344750,
         "hasc:id":"BW.SN",
+        "iso:code":"BW-SO",
         "iso:id":"BW-SO",
         "qs_pg:id":279860,
         "wd:id":"Q57609",
         "wk:page":"Southern District (Botswana)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BW",
-    "wof:geomhash":"04ad185ca9e476a491826a52481d3da7",
+    "wof:geomhash":"1e0057501fe4ad7dab382d0451b4f8df",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -333,7 +335,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1690863620,
+    "wof:lastmodified":1695884802,
     "wof:name":"Southern",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025424,
-    "geom:area_square_m":285806966.089497,
+    "geom:area_square_m":285806966.089486,
     "geom:bbox":"25.834928,-24.71617,26.033354,-24.507444",
     "geom:latitude":-24.61903,
     "geom:longitude":25.931178,
@@ -226,12 +226,14 @@
         "fips:code":"BC14",
         "gp:id":2344749,
         "hasc:id":"BW.GB",
+        "iso:code":"BW-GA",
         "iso:id":"BW-GA",
         "unlc:id":"BW-GA",
         "wd:id":"Q57695"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BW",
-    "wof:geomhash":"60f25d83e14931c3ff581825c133a4db",
+    "wof:geomhash":"9bbd9ed8a86e1f5f569a9282b88d736c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -248,7 +250,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1690863620,
+    "wof:lastmodified":1695884442,
     "wof:name":"Gaborone",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

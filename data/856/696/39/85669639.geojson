@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001758,
-    "geom:area_square_m":19664371.889014,
+    "geom:area_square_m":19664453.683584,
     "geom:bbox":"25.659341,-25.238966,25.705597,-25.171811",
     "geom:latitude":-25.210169,
     "geom:longitude":25.685218,
@@ -301,12 +301,14 @@
         "fips:code":"BC16",
         "gp:id":2344749,
         "hasc:id":"BW.LB",
+        "iso:code":"BW-LO",
         "iso:id":"BW-LO",
         "unlc:id":"BW-LO",
         "wd:id":"Q57695"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BW",
-    "wof:geomhash":"473d73ec68366323aed6c79edb3a7b0a",
+    "wof:geomhash":"97d3e10811f891f36f6f60086b56fc81",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -323,7 +325,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1690863621,
+    "wof:lastmodified":1695884802,
     "wof:name":"Lobatse",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

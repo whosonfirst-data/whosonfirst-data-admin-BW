@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144562,
-    "geom:area_square_m":1620421270.682205,
+    "geom:area_square_m":1620422918.181494,
     "geom:bbox":"25.542348,-25.463319,26.165911,-24.558915",
     "geom:latitude":-24.980279,
     "geom:longitude":25.759397,
@@ -291,13 +291,15 @@
         "gn:id":933044,
         "gp:id":2344749,
         "hasc:id":"BW.SR",
+        "iso:code":"BW-SE",
         "iso:id":"BW-SE",
         "qs_pg:id":219505,
         "wd:id":"Q57695",
         "wk:page":"South-East District (Botswana)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BW",
-    "wof:geomhash":"fbd4d6e6281202d4ffdf1720c8bbb097",
+    "wof:geomhash":"bb15b9355c20111c4b03ff3cf7af3a5e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -314,7 +316,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1690863621,
+    "wof:lastmodified":1695884802,
     "wof:name":"South-East",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

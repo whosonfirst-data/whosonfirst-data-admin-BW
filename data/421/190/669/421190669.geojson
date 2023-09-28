@@ -188,7 +188,7 @@
     },
     "wof:country":"BW",
     "wof:created":1459009665,
-    "wof:geomhash":"3fca74f950972ef4d8d5529b758c062d",
+    "wof:geomhash":"1a00188562ed8c36388d209af86e805e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -198,7 +198,7 @@
         }
     ],
     "wof:id":421190669,
-    "wof:lastmodified":1690863628,
+    "wof:lastmodified":1695887131,
     "wof:name":"Beitbridge",
     "wof:parent_id":85669601,
     "wof:placetype":"county",

@@ -85,7 +85,7 @@
     },
     "wof:country":"BW",
     "wof:created":1459009477,
-    "wof:geomhash":"57ccb6272c38fbc53c9d345b68ed5b1d",
+    "wof:geomhash":"ef8fbeb14a33001f6992f3f18a5ec951",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":421186333,
-    "wof:lastmodified":1690863626,
+    "wof:lastmodified":1695886972,
     "wof:name":"Katima Mulilo Rural",
     "wof:parent_id":85669599,
     "wof:placetype":"county",

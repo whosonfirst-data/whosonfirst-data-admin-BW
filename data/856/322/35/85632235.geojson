@@ -1192,6 +1192,7 @@
         "hasc:id":"BW",
         "icao:code":"A2",
         "ioc:id":"BOT",
+        "iso:code":"BW",
         "itu:id":"BOT",
         "loc:id":"n79079238",
         "m49:code":"072",
@@ -1206,6 +1207,7 @@
         "wk:page":"Botswana",
         "wmo:id":"BC"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BW",
     "wof:country_alpha3":"BWA",
     "wof:geom_alt":[
@@ -1228,7 +1230,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1694639509,
+    "wof:lastmodified":1695881163,
     "wof:name":"Botswana",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

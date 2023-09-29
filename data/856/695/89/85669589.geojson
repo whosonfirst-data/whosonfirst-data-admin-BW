@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.064273,
-    "geom:area_square_m":115176606557.765533,
+    "geom:area_square_m":115176626218.907043,
     "geom:bbox":"19.978346,-23.318525,25.439305,-20.999958",
     "geom:latitude":-22.294149,
     "geom:longitude":22.590536,
@@ -315,14 +315,16 @@
         "gn:id":933758,
         "gp:id":2344743,
         "hasc:id":"BW.GH",
+        "iso:code":"BW-GH",
         "iso:id":"BW-GH",
         "qs_pg:id":219503,
         "unlc:id":"BW-GH",
         "wd:id":"Q57571",
         "wk:page":"Ghanzi District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BW",
-    "wof:geomhash":"3c9c78ff66695fc5bc49a3ca19be7bf7",
+    "wof:geomhash":"025dbcfe3c30bd936a4d5c2199f2b92b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -339,7 +341,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1690863616,
+    "wof:lastmodified":1695884802,
     "wof:name":"Ghanzi",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

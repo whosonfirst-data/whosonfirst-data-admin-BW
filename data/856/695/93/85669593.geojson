@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.433898,
-    "geom:area_square_m":105833832574.242538,
+    "geom:area_square_m":105833823532.053192,
     "geom:bbox":"19.979855,-26.891794,24.500851,-23.308551",
     "geom:latitude":-24.854491,
     "geom:longitude":21.742081,
@@ -309,14 +309,16 @@
         "gn:id":933657,
         "gp:id":2344744,
         "hasc:id":"BW.KG",
+        "iso:code":"BW-KG",
         "iso:id":"BW-KG",
         "qs_pg:id":235562,
         "unlc:id":"BW-KG",
         "wd:id":"Q57581",
         "wk:page":"Kgalagadi District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BW",
-    "wof:geomhash":"f1a5059408f33f7ca2f8b09f3d80bd39",
+    "wof:geomhash":"390a7eed20a77ed948c69d9d99cfc379",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -333,7 +335,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1690863616,
+    "wof:lastmodified":1695884802,
     "wof:name":"Kgalagadi",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

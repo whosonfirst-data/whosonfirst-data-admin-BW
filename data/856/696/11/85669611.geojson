@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.274425,
-    "geom:area_square_m":37024603221.711517,
+    "geom:area_square_m":37024591258.69368,
     "geom:bbox":"22.955426,-24.769082,26.020407,-22.95188",
     "geom:latitude":-23.862913,
     "geom:longitude":24.685166,
@@ -306,14 +306,16 @@
         "gn:id":933562,
         "gp:id":2344746,
         "hasc:id":"BW.KW",
+        "iso:code":"BW-KW",
         "iso:id":"BW-KW",
         "qs_pg:id":423576,
         "unlc:id":"BW-KW",
         "wd:id":"Q57599",
         "wk:page":"Kweneng District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BW",
-    "wof:geomhash":"12e25fc1b0d6d0d409e272766ef57db1",
+    "wof:geomhash":"a0f0f1ff2e9c7446f3cd918b08e00a59",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -330,7 +332,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1690863619,
+    "wof:lastmodified":1695884802,
     "wof:name":"Kweneng",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

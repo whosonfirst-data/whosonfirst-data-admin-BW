@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030222,
-    "geom:area_square_m":339864243.2223,
+    "geom:area_square_m":339864436.014563,
     "geom:bbox":"24.637647,-24.660326,24.820578,-24.461185",
     "geom:latitude":-24.571506,
     "geom:longitude":24.722615,
@@ -303,12 +303,14 @@
         "gn:id":-933043,
         "gp:id":-2344750,
         "hasc:id":"BW.JW",
+        "iso:code":"BW-JW",
         "iso:id":"BW-JW",
         "unlc:id":"BW-JW",
         "wd:id":"Q57609"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BW",
-    "wof:geomhash":"b278e166e702c9e8fb2c35a8b00a42fc",
+    "wof:geomhash":"d3744d3a9b5a12244023f972ac3a5e9f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -325,7 +327,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1690863621,
+    "wof:lastmodified":1695884802,
     "wof:name":"Jwaneng",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

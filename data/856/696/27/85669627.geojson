@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.453588,
-    "geom:area_square_m":5236153887.245198,
+    "geom:area_square_m":5236153956.066666,
     "geom:bbox":"27.215246,-21.551913,27.990415,-20.473013",
     "geom:latitude":-20.99838,
     "geom:longitude":27.539594,
@@ -287,13 +287,15 @@
         "gn:id":933210,
         "gp:id":2344748,
         "hasc:id":"BW.NR",
+        "iso:code":"BW-NE",
         "iso:id":"BW-NE",
         "qs_pg:id":229362,
         "wd:id":"Q57636",
         "wk:page":"North-East District (Botswana)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BW",
-    "wof:geomhash":"d2aec5811155a09efc847e2228c1106a",
+    "wof:geomhash":"bd77f5c8927f14c5bd25a7bfa123594b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -310,7 +312,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1690863619,
+    "wof:lastmodified":1695884802,
     "wof:name":"North-East",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

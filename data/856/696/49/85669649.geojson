@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004746,
-    "geom:area_square_m":54944556.753069,
+    "geom:area_square_m":54944708.001267,
     "geom:bbox":"26.120432,-20.598644,26.256001,-20.544585",
     "geom:latitude":-20.571414,
     "geom:longitude":26.193968,
@@ -263,11 +263,13 @@
         "fips:code":"BC18",
         "gp:id":2344741,
         "hasc:id":"BW.ST",
+        "iso:code":"BW-ST",
         "iso:id":"BW-ST",
         "wd:id":"Q57525"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BW",
-    "wof:geomhash":"6a81fcae39ff1d5444f8ee17f0b9d9a2",
+    "wof:geomhash":"0329dec16d345a6540da6b785b2c0d26",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -284,7 +286,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1690863622,
+    "wof:lastmodified":1695884802,
     "wof:name":"Sowa",
     "wof:parent_id":85632235,
     "wof:placetype":"region",

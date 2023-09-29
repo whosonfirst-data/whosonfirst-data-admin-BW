@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.741557,
-    "geom:area_square_m":146480154843.773865,
+    "geom:area_square_m":146480161271.769165,
     "geom:bbox":"23.879039,-23.947892,29.350074,-18.999925",
     "geom:latitude":-21.540061,
     "geom:longitude":26.269901,
@@ -318,13 +318,15 @@
         "gn:id":933851,
         "gp:id":2344741,
         "hasc:id":"BW.CT",
+        "iso:code":"BW-CE",
         "iso:id":"BW-CE",
         "qs_pg:id":219502,
         "wd:id":"Q57525",
         "wk:page":"Central District (Botswana)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BW",
-    "wof:geomhash":"453c67fd44341cc0f6033b3f2bb471c2",
+    "wof:geomhash":"488c25813158ed150447cbd4c8644b53",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -341,7 +343,7 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1690863621,
+    "wof:lastmodified":1695884802,
     "wof:name":"Central",
     "wof:parent_id":85632235,
     "wof:placetype":"region",
